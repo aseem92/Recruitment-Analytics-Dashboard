@@ -77,19 +77,15 @@ Interactive dashboard built using:
 
 ## 📷 Dashboard Screenshots
 
-### Executive Dashboard
+## Executive Dashboard
 
-![Executive Dashboard](Recruitment_Overview_Page(1).png)
+![Executive Dashboard](Images/Recruitment_Overview_Page(1).png)
 
----
-
-### Recruitment Insights
+## Recruitment Insights
 
 ![Recruitment Insights](Power%20BI%20Dashboard/Recruitment_Analysis_Page(2).png)
 
----
-
-### Excel Dashboard
+## Excel Dashboard
 
 ![Excel Dashboard](Power%20BI%20Dashboard/EXCEL_DASHBOARD.png)
 
