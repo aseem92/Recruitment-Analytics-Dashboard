@@ -83,11 +83,11 @@ Interactive dashboard built using:
 
 ## Recruitment Insights
 
-![Recruitment Insights](Power%20BI%20Dashboard/Recruitment_Analysis_Page(2).png)
+![Recruitment Insights](Power%BI%Dashboard/Recruitment_Analysis_Page(2).png)
 
 ## Excel Dashboard
 
-![Excel Dashboard](Power%20BI%20Dashboard/EXCEL_DASHBOARD.png)
+![Excel Dashboard](Power%BI%Dashboard/EXCEL_DASHBOARD.png)
 
 ---
 
