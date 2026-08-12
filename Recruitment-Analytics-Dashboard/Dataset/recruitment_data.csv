@@ -1,0 +1,1001 @@
+Candidate_ID,Candidate_Name,Position,Department,Skill,Experience,Recruiter,Hiring_Manager,Client,Location,Source,Application_Date,Screening_Date,Interview_Date,Offer_Date,Joining_Date,Status,Interview_Round,Expected_CTC,Offered_CTC,TAT_Days
+CAND0001,Allison Hill,Business Analyst,Technology,"Excel, SQL",4.5,Rahul Sharma,Pooja Nair,Adobe,Hyderabad,Naukri,2025-11-05,2025-11-06,2025-11-11,,,Rejected,1,829895,831143,0
+CAND0002,Brian Yang,Data Analyst,Technology,"SQL, Power BI",11.4,Priya Singh,Vikas Sinha,Adobe,Noida,Consultancy,2026-03-10,2026-03-13,2026-03-18,2026-03-19,2026-04-09,Joined,3,511299,503213,30
+CAND0003,Javier Johnson,Data Analyst,Technology,"SQL, Power BI",8.8,Neha Patel,Aisha Khan,Walmart,Pune,Naukri,2025-11-03,2025-11-04,2025-11-09,,,Interview,1,1303091,1359882,0
+CAND0004,Lance Hoffman,DevOps Engineer,Technology,AWS,7.2,Rohit Jain,Pooja Nair,Google,Chennai,Consultancy,2026-05-16,2026-05-19,2026-05-23,,,Interview,2,923558,966011,0
+CAND0005,Kimberly Robinson,Sales Executive,Sales,CRM,1.9,Amit Verma,Karan Shah,Google,Hyderabad,Referral,2026-03-27,2026-03-29,2026-04-02,,,Rejected,2,734671,755460,0
+CAND0006,Sean Blake,DevOps Engineer,Technology,AWS,1.9,Neha Patel,Rohan Gupta,Walmart,Hyderabad,Career Portal,2025-10-12,2025-10-13,2025-10-16,2025-10-19,2025-11-18,Joined,2,1519786,1527799,37
+CAND0007,Gina Moore,Python Developer,Technology,Python,0.7,Vikram Mehta,Aisha Khan,ServiceNow,Noida,Naukri,2026-06-03,2026-06-04,2026-06-06,2026-06-08,2026-06-27,Joined,3,1760140,1806656,24
+CAND0008,Brandon Davis,Business Analyst,Technology,"Excel, SQL",10.4,Amit Verma,Rohan Gupta,Adobe,Chennai,Campus,2026-07-06,2026-07-09,,,,Screening,1,2324564,2141924,0
+CAND0009,Dennis Williams,Finance Analyst,Finance,Excel,7.2,Sneha Rao,Aisha Khan,Target,Pune,Naukri,2026-02-05,,,,,Applied,0,980205,957100,0
+CAND0010,Valerie Gray,Data Analyst,Technology,"SQL, Power BI",8.5,Priya Singh,Ritika Kapoor,Amazon,Chennai,Consultancy,2026-03-13,2026-03-15,2026-03-19,2026-03-22,2026-03-29,Joined,2,666454,638273,16
+CAND0011,Mark Mcclure,Finance Analyst,Finance,Excel,0.2,Sneha Rao,Rohan Gupta,Microsoft,Pune,Campus,2025-12-29,2026-01-01,,,,Withdrawn,0,1063361,1029395,0
+CAND0012,Michele Williams,QA Engineer,Technology,Testing,11.6,Neha Patel,Karan Shah,ServiceNow,Noida,Consultancy,2025-11-07,2025-11-10,2025-11-12,2025-11-15,2025-12-02,Joined,3,1234293,1139160,25
+CAND0013,Victoria Wyatt,Data Analyst,Technology,"SQL, Power BI",10.0,Priya Singh,Rohan Gupta,ServiceNow,Hyderabad,LinkedIn,2026-07-13,2026-07-14,2026-07-19,,,Rejected,1,1410288,1454996,0
+CAND0014,Donald Reid,Finance Analyst,Finance,Excel,2.5,Neha Patel,Ritika Kapoor,Deloitte,Noida,Naukri,2025-12-30,2025-12-31,2026-01-03,2026-01-06,2026-01-22,Joined,3,1511728,1480210,23
+CAND0015,Henry Santiago,DevOps Engineer,Technology,AWS,2.2,Vikram Mehta,Ankit Verma,Microsoft,Hyderabad,Naukri,2026-05-10,2026-05-11,2026-05-14,2026-05-15,2026-05-24,Joined,2,668544,635593,14
+CAND0016,Maria Lynch,Java Developer,Technology,Java,2.2,Priya Singh,Arjun Mehra,Walmart,Bangalore,Consultancy,2025-10-16,2025-10-19,2025-10-22,2025-10-25,,Offered,3,1398263,1316844,0
+CAND0017,Danielle Ford,Java Developer,Technology,Java,3.7,Vikram Mehta,Aisha Khan,Adobe,Bangalore,LinkedIn,2025-11-23,2025-11-26,2025-11-28,2025-12-01,,Offered,2,2207959,2104504,0
+CAND0018,Margaret Hawkins DDS,Data Analyst,Technology,"SQL, Power BI",6.3,Anjali Kapoor,Rohan Gupta,Microsoft,Hyderabad,Naukri,2026-07-04,2026-07-05,,,,Screening,1,1197793,1174367,0
+CAND0019,Amy Underwood,QA Engineer,Technology,Testing,5.2,Vikram Mehta,Vikas Sinha,Microsoft,Chennai,Consultancy,2026-06-19,2026-06-20,,,,Withdrawn,0,810658,735743,0
+CAND0020,Derek Clark,Business Analyst,Technology,"Excel, SQL",3.5,Amit Verma,Ritika Kapoor,Target,Chennai,Campus,2026-03-19,2026-03-20,2026-03-25,,,Rejected,1,1296521,1335024,0
+CAND0021,Emily Rios,HR Executive,HR,Recruitment,7.3,Sneha Rao,Ankit Verma,ServiceNow,Chennai,Career Portal,2026-01-11,2026-01-12,2026-01-14,,,Interview,2,2441247,2253806,0
+CAND0022,Maria Thomas,Data Analyst,Technology,"SQL, Power BI",1.7,Rahul Sharma,Ankit Verma,ANSR Internal,Noida,Naukri,2025-10-04,,,,,Applied,0,638570,666741,0
+CAND0023,Justin Baker,Python Developer,Technology,Python,3.5,Priya Singh,Karan Shah,Adobe,Chennai,LinkedIn,2026-03-26,,,,,Applied,0,1432702,1413844,0
+CAND0024,Kevin Cox,Business Analyst,Technology,"Excel, SQL",4.4,Anjali Kapoor,Rohan Gupta,ServiceNow,Hyderabad,Career Portal,2025-10-03,2025-10-06,2025-10-10,,,Interview,2,1717782,1607505,0
+CAND0025,Ann Williams,DevOps Engineer,Technology,AWS,5.5,Priya Singh,Arjun Mehra,Deloitte,Noida,Consultancy,2025-09-22,2025-09-24,2025-09-27,,,Interview,2,819351,746419,0
+CAND0026,Christopher Becker,Business Analyst,Technology,"Excel, SQL",9.4,Amit Verma,Rohan Gupta,ServiceNow,Hyderabad,Campus,2026-03-30,2026-04-02,,,,Withdrawn,0,1668848,1655082,0
+CAND0027,James Ferrell,Finance Analyst,Finance,Excel,2.4,Rahul Sharma,Pooja Nair,Microsoft,Hyderabad,Referral,2026-03-04,2026-03-05,2026-03-09,2026-03-11,2026-04-06,Joined,2,884142,913722,33
+CAND0028,Juan Dunlap,DevOps Engineer,Technology,AWS,6.2,Amit Verma,Pooja Nair,ANSR Internal,Chennai,Referral,2026-05-02,2026-05-04,2026-05-06,2026-05-07,,Offered,3,613066,560247,0
+CAND0029,Melanie Herrera,Python Developer,Technology,Python,7.1,Sneha Rao,Ritika Kapoor,Deloitte,Noida,Career Portal,2025-11-22,2025-11-25,,,,Screening,1,2193848,2159044,0
+CAND0030,Gina Carter,Python Developer,Technology,Python,0.6,Rahul Sharma,Rohan Gupta,ANSR Internal,Hyderabad,Campus,2025-10-11,2025-10-12,2025-10-16,,,Interview,1,934545,846954,0
+CAND0031,Troy Liu,Java Developer,Technology,Java,7.3,Priya Singh,Rohan Gupta,ANSR Internal,Chennai,Consultancy,2025-11-21,2025-11-22,2025-11-25,,,Interview,2,1048243,1088982,0
+CAND0032,Pamela Romero,Data Analyst,Technology,"SQL, Power BI",2.0,Neha Patel,Rohan Gupta,Target,Hyderabad,Referral,2025-09-21,2025-09-22,,,,Screening,1,1067724,1087056,0
+CAND0033,Elizabeth Fowler,Recruiter,HR,Talent Acquisition,0.8,Amit Verma,Vikas Sinha,Deloitte,Pune,Referral,2026-04-04,2026-04-06,2026-04-10,2026-04-12,2026-04-21,Joined,3,1354604,1264439,17
+CAND0034,James Martin,DevOps Engineer,Technology,AWS,11.4,Anjali Kapoor,Rohan Gupta,Google,Bangalore,Referral,2026-06-09,2026-06-10,,,,Withdrawn,0,1148967,1134132,0
+CAND0035,Tamara George,Business Analyst,Technology,"Excel, SQL",11.6,Anjali Kapoor,Rohan Gupta,Walmart,Chennai,Consultancy,2026-02-16,2026-02-18,2026-02-20,2026-02-23,2026-03-15,Joined,2,885053,847685,27
+CAND0036,Timothy Koch,Finance Analyst,Finance,Excel,9.7,Amit Verma,Rohan Gupta,Target,Bangalore,Career Portal,2026-06-29,2026-06-30,2026-07-04,2026-07-07,2026-07-23,Joined,3,1784959,1773309,24
+CAND0037,Cynthia Allen,DevOps Engineer,Technology,AWS,3.7,Anjali Kapoor,Pooja Nair,ANSR Internal,Hyderabad,Naukri,2026-03-19,2026-03-22,2026-03-25,,,Interview,2,2163479,2162915,0
+CAND0038,Angelica Tucker,HR Executive,HR,Recruitment,1.2,Rahul Sharma,Pooja Nair,ServiceNow,Hyderabad,Campus,2025-09-06,2025-09-07,2025-09-12,2025-09-15,,Offered,2,1751611,1698621,0
+CAND0039,Kim Martinez,Business Analyst,Technology,"Excel, SQL",8.2,Sneha Rao,Rohan Gupta,Microsoft,Hyderabad,Career Portal,2026-04-24,2026-04-25,,,,Screening,1,1701993,1589144,0
+CAND0040,Joshua Baker,Data Analyst,Technology,"SQL, Power BI",5.3,Amit Verma,Ankit Verma,Microsoft,Chennai,Campus,2026-07-15,2026-07-17,2026-07-20,,,Interview,1,1215520,1224942,0
+CAND0041,Tracey Hickman,Data Analyst,Technology,"SQL, Power BI",1.5,Priya Singh,Aisha Khan,Adobe,Hyderabad,Career Portal,2026-05-31,2026-06-01,2026-06-06,,,Interview,1,2348463,2131307,0
+CAND0042,Christina Collins,Recruiter,HR,Talent Acquisition,5.9,Rohit Jain,Ankit Verma,ANSR Internal,Chennai,Consultancy,2026-04-28,2026-04-30,2026-05-05,2026-05-07,2026-05-21,Joined,3,2270297,2348806,23
+CAND0043,Jessica Holmes,Finance Analyst,Finance,Excel,0.4,Vikram Mehta,Vikas Sinha,ServiceNow,Chennai,LinkedIn,2025-09-26,2025-09-29,2025-10-01,,,Interview,1,1598430,1494810,0
+CAND0044,Austin Smith,Python Developer,Technology,Python,10.9,Amit Verma,Aisha Khan,Amazon,Hyderabad,LinkedIn,2026-03-14,2026-03-16,2026-03-18,2026-03-19,,Offered,3,2140082,2056918,0
+CAND0045,Daniel Jones,HR Executive,HR,Recruitment,3.1,Rahul Sharma,Aisha Khan,Deloitte,Bangalore,Referral,2026-04-13,2026-04-15,2026-04-18,,,Rejected,2,1652472,1673989,0
+CAND0046,Austin Johnson,Java Developer,Technology,Java,8.0,Sneha Rao,Aisha Khan,Deloitte,Bangalore,Campus,2025-12-17,2025-12-20,2025-12-23,2025-12-25,2026-01-05,Joined,2,1809829,1810428,19
+CAND0047,David Caldwell,HR Executive,HR,Recruitment,3.7,Rahul Sharma,Karan Shah,Target,Hyderabad,Campus,2025-11-02,2025-11-03,2025-11-08,,,Interview,2,1162226,1054769,0
+CAND0048,Miranda Khan,DevOps Engineer,Technology,AWS,6.2,Anjali Kapoor,Pooja Nair,Target,Pune,LinkedIn,2026-03-22,2026-03-24,2026-03-27,2026-03-30,,Offered,2,2372609,2142246,0
+CAND0049,Richard Aguirre,Data Analyst,Technology,"SQL, Power BI",6.6,Rahul Sharma,Vikas Sinha,Adobe,Bangalore,Consultancy,2025-10-23,2025-10-24,2025-10-27,2025-10-29,,Offered,3,1039137,972405,0
+CAND0050,Matthew Gomez,DevOps Engineer,Technology,AWS,2.2,Neha Patel,Karan Shah,Amazon,Pune,LinkedIn,2026-01-17,2026-01-19,2026-01-24,2026-01-27,2026-02-09,Joined,2,507703,527672,23
+CAND0051,Nicholas Nunez,Sales Executive,Sales,CRM,11.6,Amit Verma,Karan Shah,ServiceNow,Noida,LinkedIn,2026-04-18,2026-04-20,2026-04-22,2026-04-25,,Offered,3,572256,544833,0
+CAND0052,James Morgan,Data Analyst,Technology,"SQL, Power BI",9.3,Anjali Kapoor,Ankit Verma,Microsoft,Chennai,Referral,2026-07-11,2026-07-14,2026-07-18,2026-07-21,,Offered,3,2328286,2342479,0
+CAND0053,Corey Herrera,Recruiter,HR,Talent Acquisition,11.3,Anjali Kapoor,Pooja Nair,Walmart,Hyderabad,LinkedIn,2025-10-04,2025-10-06,2025-10-11,,,Interview,2,1569909,1620530,0
+CAND0054,Donald Wright,Data Analyst,Technology,"SQL, Power BI",10.7,Vikram Mehta,Rohan Gupta,Amazon,Chennai,Naukri,2026-08-04,2026-08-07,2026-08-11,,,Interview,1,1888243,1925393,0
+CAND0055,Robert Chase,Finance Analyst,Finance,Excel,7.2,Amit Verma,Karan Shah,Adobe,Chennai,Campus,2025-09-18,2025-09-20,2025-09-25,2025-09-26,2025-10-05,Joined,3,1407991,1413047,17
+CAND0056,Zachary Huff,Java Developer,Technology,Java,11.1,Anjali Kapoor,Vikas Sinha,ServiceNow,Noida,Referral,2025-09-16,2025-09-19,2025-09-23,,,Interview,2,2384998,2344502,0
+CAND0057,Sarah Martin,Recruiter,HR,Talent Acquisition,1.1,Sneha Rao,Pooja Nair,ServiceNow,Hyderabad,LinkedIn,2026-02-15,2026-02-18,2026-02-21,2026-02-22,2026-03-07,Joined,3,1207757,1144147,20
+CAND0058,Dr. Steven Martin,QA Engineer,Technology,Testing,2.4,Sneha Rao,Karan Shah,Adobe,Pune,Naukri,2025-08-11,,,,,Applied,0,1913644,1773787,0
+CAND0059,Mrs. Rachel Gibson,Finance Analyst,Finance,Excel,0.5,Neha Patel,Pooja Nair,Google,Bangalore,Consultancy,2026-01-22,2026-01-24,,,,Screening,1,1625309,1632805,0
+CAND0060,Monica Logan,Business Analyst,Technology,"Excel, SQL",3.9,Rahul Sharma,Pooja Nair,Deloitte,Chennai,Campus,2026-04-25,,,,,Applied,0,1829024,1696702,0
+CAND0061,Brittney Phillips,Recruiter,HR,Talent Acquisition,4.7,Priya Singh,Karan Shah,Target,Chennai,LinkedIn,2025-09-02,2025-09-04,2025-09-06,,,Rejected,1,624852,576587,0
+CAND0062,Kimberly Adkins,Business Analyst,Technology,"Excel, SQL",3.3,Anjali Kapoor,Vikas Sinha,ANSR Internal,Chennai,Campus,2025-09-02,2025-09-04,2025-09-08,2025-09-11,2025-10-07,Joined,2,2256906,2131880,35
+CAND0063,John Calhoun,Sales Executive,Sales,CRM,9.9,Priya Singh,Vikas Sinha,Adobe,Pune,Career Portal,2026-03-05,2026-03-06,,,,Screening,1,740524,683917,0
+CAND0064,Tyler Miller,Python Developer,Technology,Python,4.3,Rahul Sharma,Aisha Khan,Deloitte,Noida,Campus,2025-10-22,2025-10-24,2025-10-29,,,Interview,1,1621630,1467406,0
+CAND0065,Barry Hensley,Java Developer,Technology,Java,3.4,Sneha Rao,Vikas Sinha,Target,Bangalore,Consultancy,2026-01-14,2026-01-15,2026-01-17,,,Rejected,1,1342919,1339085,0
+CAND0066,Steve Sanchez,Python Developer,Technology,Python,6.5,Sneha Rao,Pooja Nair,Deloitte,Bangalore,Campus,2026-03-29,2026-04-01,2026-04-06,,,Rejected,2,1675450,1683760,0
+CAND0067,Bradley Sandoval,Business Analyst,Technology,"Excel, SQL",1.7,Rahul Sharma,Aisha Khan,Walmart,Noida,Referral,2026-03-18,2026-03-21,,,,Withdrawn,0,508485,464602,0
+CAND0068,Taylor Harris,Sales Executive,Sales,CRM,9.6,Rahul Sharma,Pooja Nair,Google,Hyderabad,Campus,2026-05-16,2026-05-19,,,,Screening,1,2254844,2339199,0
+CAND0069,Derek Anderson,HR Executive,HR,Recruitment,0.9,Vikram Mehta,Karan Shah,Deloitte,Pune,Campus,2026-04-18,2026-04-19,,,,Screening,1,1797996,1704785,0
+CAND0070,Eugene Walton,DevOps Engineer,Technology,AWS,11.8,Anjali Kapoor,Ankit Verma,ServiceNow,Chennai,Consultancy,2025-09-08,2025-09-10,2025-09-12,,,Interview,2,553918,536316,0
+CAND0071,Marc Hart,Finance Analyst,Finance,Excel,9.3,Rahul Sharma,Ankit Verma,Target,Bangalore,Naukri,2025-09-18,2025-09-20,2025-09-22,2025-09-23,,Offered,3,1917412,1904747,0
+CAND0072,Daniel Baker,Finance Analyst,Finance,Excel,2.4,Neha Patel,Pooja Nair,Deloitte,Chennai,LinkedIn,2026-08-08,2026-08-09,2026-08-12,2026-08-14,2026-09-07,Joined,2,521087,545042,30
+CAND0073,Benjamin Sanchez,Finance Analyst,Finance,Excel,0.1,Anjali Kapoor,Karan Shah,Adobe,Bangalore,Campus,2025-11-29,2025-12-02,,,,Screening,1,892688,890149,0
+CAND0074,Roy Warner,QA Engineer,Technology,Testing,9.8,Sneha Rao,Aisha Khan,Deloitte,Chennai,Naukri,2026-04-05,2026-04-08,2026-04-11,,,Interview,1,2315901,2275812,0
+CAND0075,Dr. Kendra Contreras,QA Engineer,Technology,Testing,8.5,Anjali Kapoor,Rohan Gupta,ANSR Internal,Pune,LinkedIn,2026-03-14,2026-03-17,2026-03-22,,,Rejected,1,1586312,1600442,0
+CAND0076,Matthew Mcmillan,Recruiter,HR,Talent Acquisition,8.7,Vikram Mehta,Rohan Gupta,Walmart,Noida,Consultancy,2025-10-02,2025-10-03,2025-10-06,,,Interview,2,1982133,1919302,0
+CAND0077,Steve Newton,Java Developer,Technology,Java,9.3,Anjali Kapoor,Arjun Mehra,Walmart,Chennai,Career Portal,2025-10-10,2025-10-13,2025-10-16,2025-10-18,2025-10-26,Joined,2,1998999,1914864,16
+CAND0078,Larry Robbins,Finance Analyst,Finance,Excel,0.9,Rohit Jain,Karan Shah,Deloitte,Bangalore,Consultancy,2025-10-29,2025-11-01,,,,Screening,1,2316495,2090178,0
+CAND0079,Sarah Wagner,Python Developer,Technology,Python,4.3,Priya Singh,Ankit Verma,ServiceNow,Pune,Consultancy,2025-11-16,2025-11-19,2025-11-24,,,Rejected,2,2067165,2061946,0
+CAND0080,Sarah Davis,Recruiter,HR,Talent Acquisition,1.4,Rahul Sharma,Karan Shah,Adobe,Pune,Naukri,2026-01-22,,,,,Applied,0,779078,751884,0
+CAND0081,Amanda Cook,Business Analyst,Technology,"Excel, SQL",10.4,Vikram Mehta,Ritika Kapoor,ServiceNow,Bangalore,LinkedIn,2025-09-30,2025-10-02,2025-10-07,,,Interview,1,1760525,1794717,0
+CAND0082,Deborah Figueroa,Java Developer,Technology,Java,7.5,Anjali Kapoor,Ritika Kapoor,Amazon,Hyderabad,LinkedIn,2026-03-13,2026-03-16,2026-03-19,,,Interview,1,2004507,1990388,0
+CAND0083,Kristina Rodriguez,Recruiter,HR,Talent Acquisition,4.0,Sneha Rao,Ankit Verma,ServiceNow,Bangalore,Campus,2026-07-19,2026-07-21,,,,Screening,1,1606414,1609051,0
+CAND0084,Brittany Johnson,DevOps Engineer,Technology,AWS,0.8,Sneha Rao,Aisha Khan,ServiceNow,Chennai,Referral,2026-01-01,2026-01-02,2026-01-05,,,Rejected,2,1235576,1297238,0
+CAND0085,Brittany Anderson,Sales Executive,Sales,CRM,3.7,Rohit Jain,Pooja Nair,ServiceNow,Bangalore,Career Portal,2025-12-08,2025-12-11,2025-12-13,2025-12-16,2026-01-15,Joined,3,2060129,1938935,38
+CAND0086,Timothy Stanton,QA Engineer,Technology,Testing,3.9,Amit Verma,Rohan Gupta,Adobe,Hyderabad,Consultancy,2025-08-26,2025-08-29,2025-09-01,2025-09-04,2025-09-14,Joined,2,1451204,1453619,19
+CAND0087,Christine Wright,QA Engineer,Technology,Testing,8.8,Vikram Mehta,Arjun Mehra,Walmart,Hyderabad,LinkedIn,2025-09-19,2025-09-20,2025-09-23,2025-09-26,,Offered,3,1637782,1554268,0
+CAND0088,Justin Baxter,Finance Analyst,Finance,Excel,7.7,Sneha Rao,Ritika Kapoor,ServiceNow,Chennai,Referral,2026-04-09,2026-04-10,2026-04-13,2026-04-14,,Offered,3,1820674,1858243,0
+CAND0089,Tammy Young,Finance Analyst,Finance,Excel,10.6,Rohit Jain,Karan Shah,Target,Bangalore,Referral,2025-10-13,2025-10-16,2025-10-20,2025-10-23,2025-11-11,Joined,3,918368,889180,29
+CAND0090,Rita Keith,Business Analyst,Technology,"Excel, SQL",5.7,Amit Verma,Ankit Verma,Google,Noida,Consultancy,2025-08-20,2025-08-21,2025-08-26,,,Interview,2,1775758,1841973,0
+CAND0091,Tim Patton,HR Executive,HR,Recruitment,1.4,Priya Singh,Ritika Kapoor,Google,Bangalore,Referral,2026-01-17,2026-01-20,2026-01-23,,,Interview,2,2466217,2262552,0
+CAND0092,Sharon Cochran,Recruiter,HR,Talent Acquisition,8.6,Rohit Jain,Aisha Khan,Amazon,Chennai,Career Portal,2025-11-22,2025-11-24,2025-11-26,2025-11-29,2025-12-17,Joined,2,815326,835753,25
+CAND0093,Michael Reyes,Recruiter,HR,Talent Acquisition,9.1,Vikram Mehta,Vikas Sinha,Walmart,Bangalore,Career Portal,2025-08-26,2025-08-28,,,,Withdrawn,0,1940714,1905140,0
+CAND0094,Courtney Velasquez,Data Analyst,Technology,"SQL, Power BI",6.7,Anjali Kapoor,Pooja Nair,Adobe,Bangalore,Campus,2026-02-05,2026-02-08,2026-02-10,2026-02-11,2026-02-28,Joined,2,784506,784047,23
+CAND0095,Robert Savage,Python Developer,Technology,Python,9.3,Amit Verma,Karan Shah,ANSR Internal,Hyderabad,Consultancy,2025-11-05,2025-11-06,2025-11-08,,,Interview,2,1305765,1334436,0
+CAND0096,Corey Murphy,Python Developer,Technology,Python,5.9,Neha Patel,Pooja Nair,Amazon,Bangalore,Career Portal,2026-07-12,2026-07-13,2026-07-17,,,Interview,1,508129,467362,0
+CAND0097,Raymond Bell,Python Developer,Technology,Python,6.3,Sneha Rao,Arjun Mehra,Amazon,Chennai,Consultancy,2026-02-24,2026-02-26,2026-02-28,2026-03-02,,Offered,2,876679,887067,0
+CAND0098,William Herrera,Sales Executive,Sales,CRM,5.1,Rahul Sharma,Pooja Nair,Deloitte,Bangalore,LinkedIn,2026-08-10,2026-08-11,2026-08-16,2026-08-19,,Offered,3,2408995,2474266,0
+CAND0099,Shawn Green,Business Analyst,Technology,"Excel, SQL",0.3,Priya Singh,Rohan Gupta,Amazon,Bangalore,Naukri,2026-03-24,2026-03-27,2026-03-31,2026-04-02,2026-04-28,Joined,3,1553500,1543631,35
+CAND0100,Deborah Rodriguez,Recruiter,HR,Talent Acquisition,1.3,Anjali Kapoor,Karan Shah,Microsoft,Noida,Career Portal,2026-01-26,2026-01-28,2026-02-01,,,Rejected,2,1301872,1255669,0
+CAND0101,Richard Graham,HR Executive,HR,Recruitment,0.4,Anjali Kapoor,Karan Shah,Walmart,Chennai,Referral,2026-02-25,2026-02-27,,,,Screening,1,1469085,1404658,0
+CAND0102,Steven Lee,Business Analyst,Technology,"Excel, SQL",7.6,Priya Singh,Karan Shah,Microsoft,Chennai,LinkedIn,2025-08-28,2025-08-31,2025-09-04,2025-09-07,2025-09-17,Joined,3,1962994,2005719,20
+CAND0103,April Frost,DevOps Engineer,Technology,AWS,3.8,Anjali Kapoor,Arjun Mehra,ServiceNow,Noida,Referral,2026-03-08,2026-03-09,2026-03-14,2026-03-15,,Offered,2,1874911,1716556,0
+CAND0104,Teresa Mclaughlin,DevOps Engineer,Technology,AWS,6.1,Rohit Jain,Karan Shah,ServiceNow,Noida,Naukri,2025-10-26,2025-10-29,,,,Withdrawn,0,2199827,2258723,0
+CAND0105,Benjamin Beck,Sales Executive,Sales,CRM,10.9,Rahul Sharma,Pooja Nair,Google,Hyderabad,Referral,2025-12-17,2025-12-18,2025-12-21,,,Interview,2,1695975,1760813,0
+CAND0106,Mary Martinez,Business Analyst,Technology,"Excel, SQL",3.0,Neha Patel,Arjun Mehra,Microsoft,Noida,Naukri,2026-07-26,2026-07-28,2026-08-01,,,Interview,2,1977873,1904642,0
+CAND0107,Eric Ortiz,Sales Executive,Sales,CRM,4.9,Priya Singh,Arjun Mehra,Amazon,Hyderabad,Consultancy,2026-01-14,2026-01-17,2026-01-22,,,Interview,2,608719,609385,0
+CAND0108,Kristen Lee,Sales Executive,Sales,CRM,9.1,Vikram Mehta,Aisha Khan,ServiceNow,Hyderabad,Consultancy,2026-04-26,2026-04-29,,,,Screening,1,877385,835073,0
+CAND0109,Megan Orr,Sales Executive,Sales,CRM,2.7,Vikram Mehta,Pooja Nair,Google,Hyderabad,Campus,2026-04-07,2026-04-08,2026-04-11,,,Interview,2,629772,567520,0
+CAND0110,Jennifer Bass,QA Engineer,Technology,Testing,0.9,Rohit Jain,Karan Shah,Google,Chennai,Career Portal,2025-12-07,2025-12-10,2025-12-13,,,Interview,2,2206298,2043813,0
+CAND0111,Jeffrey Carpenter,Business Analyst,Technology,"Excel, SQL",3.5,Anjali Kapoor,Arjun Mehra,Target,Bangalore,Campus,2026-04-22,2026-04-25,2026-04-30,2026-05-03,2026-05-30,Joined,3,726579,747879,38
+CAND0112,Jeremy Lowe,QA Engineer,Technology,Testing,1.9,Priya Singh,Aisha Khan,Google,Pune,Naukri,2026-02-25,2026-02-26,2026-03-03,,,Rejected,1,2329786,2387573,0
+CAND0113,Steven Flynn,Java Developer,Technology,Java,11.2,Anjali Kapoor,Aisha Khan,ANSR Internal,Bangalore,Campus,2025-10-15,2025-10-16,2025-10-18,,,Interview,1,1701385,1721581,0
+CAND0114,Diane Beck,Finance Analyst,Finance,Excel,9.7,Amit Verma,Rohan Gupta,Walmart,Hyderabad,Naukri,2026-04-08,2026-04-11,,,,Screening,1,831193,766332,0
+CAND0115,Robert Potter,Python Developer,Technology,Python,7.6,Priya Singh,Ritika Kapoor,Deloitte,Chennai,Consultancy,2026-04-29,2026-05-02,2026-05-06,,,Rejected,3,2282845,2287798,0
+CAND0116,Robert Hernandez,DevOps Engineer,Technology,AWS,10.5,Neha Patel,Ankit Verma,Microsoft,Chennai,Campus,2025-08-28,2025-08-30,2025-09-01,2025-09-03,2025-09-24,Joined,3,1670120,1702602,27
+CAND0117,John Atkinson,Data Analyst,Technology,"SQL, Power BI",9.6,Rahul Sharma,Rohan Gupta,ServiceNow,Bangalore,Career Portal,2025-09-08,2025-09-10,2025-09-12,2025-09-14,,Offered,2,778730,772695,0
+CAND0118,Stephen Johnston,DevOps Engineer,Technology,AWS,2.2,Vikram Mehta,Ritika Kapoor,Google,Chennai,LinkedIn,2026-05-16,,,,,Applied,0,1840482,1927643,0
+CAND0119,Kathleen Sanchez,Python Developer,Technology,Python,10.7,Rahul Sharma,Vikas Sinha,Deloitte,Chennai,Consultancy,2026-04-22,2026-04-24,2026-04-29,,,Rejected,2,1065829,1017424,0
+CAND0120,Stephanie Dalton,Sales Executive,Sales,CRM,6.5,Rahul Sharma,Rohan Gupta,Microsoft,Pune,LinkedIn,2026-07-20,2026-07-23,2026-07-26,2026-07-28,2026-08-06,Joined,2,2021367,1905385,17
+CAND0121,Jeffery Thompson,DevOps Engineer,Technology,AWS,9.7,Sneha Rao,Aisha Khan,Amazon,Noida,Career Portal,2026-05-08,2026-05-10,2026-05-13,,,Interview,1,755337,714879,0
+CAND0122,Amber Wright,HR Executive,HR,Recruitment,10.8,Rohit Jain,Arjun Mehra,Walmart,Pune,Naukri,2026-07-06,2026-07-07,2026-07-10,2026-07-11,2026-07-22,Joined,2,1298389,1235105,16
+CAND0123,Casey Marshall,QA Engineer,Technology,Testing,3.8,Priya Singh,Arjun Mehra,Walmart,Noida,Naukri,2026-03-05,2026-03-08,,,,Screening,1,1980077,1827884,0
+CAND0124,Linda Dodson DVM,Sales Executive,Sales,CRM,1.3,Neha Patel,Ankit Verma,Google,Chennai,Referral,2026-04-05,2026-04-08,2026-04-13,2026-04-14,2026-05-08,Joined,2,1396273,1459717,33
+CAND0125,Stephanie Simmons,QA Engineer,Technology,Testing,2.7,Vikram Mehta,Vikas Sinha,Walmart,Noida,Campus,2026-07-29,2026-08-01,2026-08-06,2026-08-07,2026-08-20,Joined,2,2336426,2372443,22
+CAND0126,Stephanie Manning,QA Engineer,Technology,Testing,5.1,Rahul Sharma,Ankit Verma,Walmart,Noida,LinkedIn,2026-02-11,2026-02-13,2026-02-18,2026-02-21,2026-03-04,Joined,3,922936,870106,21
+CAND0127,Paul Larsen,Business Analyst,Technology,"Excel, SQL",9.8,Amit Verma,Ankit Verma,Walmart,Bangalore,Campus,2025-11-26,2025-11-28,2025-11-30,,,Interview,2,623375,598108,0
+CAND0128,Kelly Sims,Java Developer,Technology,Java,10.3,Rahul Sharma,Rohan Gupta,Microsoft,Pune,Naukri,2025-11-25,2025-11-27,2025-11-30,,,Rejected,3,977134,885034,0
+CAND0129,Micheal Young,Recruiter,HR,Talent Acquisition,0.1,Vikram Mehta,Arjun Mehra,Microsoft,Bangalore,Referral,2025-12-19,2025-12-22,2025-12-27,2025-12-28,,Offered,3,1304521,1337452,0
+CAND0130,Joshua Taylor,Java Developer,Technology,Java,6.1,Sneha Rao,Karan Shah,Google,Hyderabad,Campus,2025-11-08,2025-11-10,2025-11-12,,,Rejected,3,2317273,2107376,0
+CAND0131,Christian Lewis,Finance Analyst,Finance,Excel,5.0,Amit Verma,Ritika Kapoor,ServiceNow,Chennai,LinkedIn,2026-01-19,2026-01-22,2026-01-24,2026-01-27,,Offered,3,1879817,1759667,0
+CAND0132,Joshua Perry,Business Analyst,Technology,"Excel, SQL",2.7,Rahul Sharma,Aisha Khan,Deloitte,Bangalore,Career Portal,2025-10-30,2025-10-31,2025-11-04,,,Interview,1,2022697,2118079,0
+CAND0133,Jean Carrillo,DevOps Engineer,Technology,AWS,1.4,Amit Verma,Karan Shah,Walmart,Hyderabad,LinkedIn,2026-05-08,2026-05-09,2026-05-14,,,Rejected,3,1877649,1843667,0
+CAND0134,Spencer Johnston,Recruiter,HR,Talent Acquisition,4.1,Neha Patel,Ritika Kapoor,Microsoft,Chennai,LinkedIn,2026-02-12,2026-02-13,2026-02-17,2026-02-19,2026-03-14,Joined,3,1630787,1517021,30
+CAND0135,Guy Molina,Finance Analyst,Finance,Excel,11.3,Vikram Mehta,Pooja Nair,Google,Hyderabad,Referral,2026-07-08,,,,,Applied,0,1897258,1952887,0
+CAND0136,Sara Medina,DevOps Engineer,Technology,AWS,3.9,Sneha Rao,Karan Shah,Walmart,Chennai,Campus,2026-05-23,2026-05-24,2026-05-29,,,Interview,2,2244389,2321137,0
+CAND0137,Lindsey Walker,DevOps Engineer,Technology,AWS,6.2,Sneha Rao,Karan Shah,Target,Bangalore,Campus,2025-11-04,2025-11-05,2025-11-09,,,Interview,2,1156889,1135858,0
+CAND0138,John Price,QA Engineer,Technology,Testing,8.4,Vikram Mehta,Aisha Khan,Amazon,Chennai,Referral,2026-04-27,2026-04-29,2026-05-04,,,Rejected,2,2275397,2062313,0
+CAND0139,Jennifer Martin,Data Analyst,Technology,"SQL, Power BI",4.4,Priya Singh,Aisha Khan,Walmart,Noida,Career Portal,2026-02-08,2026-02-11,,,,Screening,1,1071032,1116998,0
+CAND0140,Veronica Ferguson,Recruiter,HR,Talent Acquisition,11.7,Rahul Sharma,Ritika Kapoor,Microsoft,Hyderabad,Career Portal,2026-07-29,2026-07-30,2026-08-02,,,Rejected,3,1936492,1848038,0
+CAND0141,Justin Johnson,Recruiter,HR,Talent Acquisition,11.5,Rohit Jain,Rohan Gupta,Deloitte,Bangalore,Consultancy,2026-04-17,2026-04-20,2026-04-24,,,Interview,1,977535,957416,0
+CAND0142,Sean White,Business Analyst,Technology,"Excel, SQL",3.0,Rahul Sharma,Ritika Kapoor,Deloitte,Noida,Campus,2025-11-20,2025-11-22,2025-11-25,,,Interview,2,893925,839633,0
+CAND0143,Daniel Murphy,Recruiter,HR,Talent Acquisition,6.0,Amit Verma,Karan Shah,Amazon,Bangalore,Campus,2026-06-02,2026-06-03,2026-06-07,2026-06-10,,Offered,3,1124173,1163296,0
+CAND0144,Diana Bean,Business Analyst,Technology,"Excel, SQL",3.6,Sneha Rao,Pooja Nair,Amazon,Hyderabad,Referral,2026-01-21,2026-01-22,2026-01-25,,,Interview,2,1340537,1230886,0
+CAND0145,Bradley Smith,Data Analyst,Technology,"SQL, Power BI",3.4,Rohit Jain,Rohan Gupta,Deloitte,Noida,Naukri,2026-03-08,2026-03-11,2026-03-16,,,Interview,2,761613,692962,0
+CAND0146,Trevor Walker,HR Executive,HR,Recruitment,0.4,Priya Singh,Ritika Kapoor,Walmart,Bangalore,Campus,2025-09-06,2025-09-09,2025-09-12,,,Interview,1,2353846,2358592,0
+CAND0147,Marissa Webster,HR Executive,HR,Recruitment,7.3,Rahul Sharma,Karan Shah,ANSR Internal,Hyderabad,Referral,2025-11-15,2025-11-16,2025-11-20,,,Rejected,3,1090621,1008055,0
+CAND0148,Alex Hernandez,QA Engineer,Technology,Testing,6.0,Priya Singh,Pooja Nair,Adobe,Noida,Referral,2025-09-29,2025-09-30,2025-10-03,2025-10-06,2025-10-31,Joined,2,925002,919223,32
+CAND0149,Brian Gould,Python Developer,Technology,Python,0.6,Rohit Jain,Arjun Mehra,Google,Bangalore,LinkedIn,2026-02-07,2026-02-09,2026-02-11,2026-02-13,2026-03-12,Joined,3,1510047,1506527,33
+CAND0150,Pamela Jackson,QA Engineer,Technology,Testing,3.3,Vikram Mehta,Vikas Sinha,Target,Pune,Campus,2026-04-03,2026-04-05,,,,Screening,1,706071,708395,0
+CAND0151,Michelle Strickland,Recruiter,HR,Talent Acquisition,10.9,Vikram Mehta,Vikas Sinha,Walmart,Noida,Naukri,2025-10-13,2025-10-15,2025-10-20,,,Interview,1,1711066,1761068,0
+CAND0152,Ashley Johnson,DevOps Engineer,Technology,AWS,2.9,Priya Singh,Rohan Gupta,Adobe,Chennai,LinkedIn,2025-12-10,2025-12-11,,,,Screening,1,1521857,1472304,0
+CAND0153,Susan Brooks,QA Engineer,Technology,Testing,1.7,Anjali Kapoor,Aisha Khan,Adobe,Hyderabad,Referral,2026-05-15,2026-05-18,,,,Screening,1,1711621,1589197,0
+CAND0154,Kevin Rivas,Recruiter,HR,Talent Acquisition,5.9,Vikram Mehta,Pooja Nair,Deloitte,Bangalore,LinkedIn,2025-11-13,2025-11-14,,,,Withdrawn,0,2049377,1999816,0
+CAND0155,Raymond Jefferson,Sales Executive,Sales,CRM,11.8,Rohit Jain,Arjun Mehra,Google,Pune,Campus,2026-04-01,,,,,Applied,0,2373784,2238151,0
+CAND0156,Rebecca Knight,Business Analyst,Technology,"Excel, SQL",2.9,Anjali Kapoor,Ritika Kapoor,ServiceNow,Pune,Campus,2025-08-26,,,,,Applied,0,1934852,1754497,0
+CAND0157,Jeffrey Wood,Finance Analyst,Finance,Excel,8.1,Amit Verma,Rohan Gupta,ANSR Internal,Pune,LinkedIn,2026-02-23,2026-02-25,2026-02-27,2026-02-28,2026-03-10,Joined,3,2020464,1971242,15
+CAND0158,Alexandria Fisher,DevOps Engineer,Technology,AWS,9.1,Rohit Jain,Rohan Gupta,Amazon,Hyderabad,Consultancy,2026-02-17,,,,,Applied,0,2083539,2031474,0
+CAND0159,Tyler Reid,Python Developer,Technology,Python,2.9,Rohit Jain,Ankit Verma,ANSR Internal,Chennai,Naukri,2026-06-28,2026-06-29,2026-07-04,2026-07-07,2026-08-06,Joined,3,986283,936174,39
+CAND0160,Christian Thompson,Sales Executive,Sales,CRM,8.7,Rohit Jain,Ankit Verma,ServiceNow,Chennai,LinkedIn,2026-03-01,2026-03-03,,,,Screening,1,1945004,1847142,0
+CAND0161,Debra Morton,Sales Executive,Sales,CRM,4.4,Sneha Rao,Arjun Mehra,Deloitte,Pune,Career Portal,2026-03-08,2026-03-09,2026-03-14,2026-03-15,2026-04-12,Joined,2,1354385,1365504,35
+CAND0162,Julie Petersen,Data Analyst,Technology,"SQL, Power BI",7.6,Priya Singh,Vikas Sinha,Google,Chennai,Referral,2026-03-29,2026-03-31,2026-04-05,2026-04-08,2026-05-08,Joined,2,2156491,1989825,40
+CAND0163,Samuel Rivas,Python Developer,Technology,Python,7.6,Amit Verma,Rohan Gupta,Deloitte,Noida,Campus,2025-09-13,2025-09-16,2025-09-20,2025-09-23,,Offered,3,1715973,1790622,0
+CAND0164,Jerry Christensen,QA Engineer,Technology,Testing,6.4,Vikram Mehta,Vikas Sinha,Adobe,Pune,Consultancy,2026-03-20,2026-03-22,,,,Withdrawn,0,1651996,1542518,0
+CAND0165,Jamie Johnson,QA Engineer,Technology,Testing,1.1,Amit Verma,Ankit Verma,Walmart,Chennai,Referral,2026-07-07,2026-07-10,2026-07-15,2026-07-17,2026-08-04,Joined,2,1546964,1459047,28
+CAND0166,John Kelly,QA Engineer,Technology,Testing,10.0,Rahul Sharma,Pooja Nair,Microsoft,Pune,Campus,2025-11-19,2025-11-22,2025-11-26,,,Interview,2,1475603,1493458,0
+CAND0167,Spencer Haynes,Python Developer,Technology,Python,3.8,Priya Singh,Vikas Sinha,Adobe,Bangalore,Career Portal,2025-11-26,,,,,Applied,0,1346535,1340733,0
+CAND0168,Kellie Lee,HR Executive,HR,Recruitment,2.2,Rohit Jain,Ankit Verma,Microsoft,Hyderabad,LinkedIn,2025-11-12,2025-11-14,2025-11-19,,,Rejected,3,1062452,1021054,0
+CAND0169,Katherine Chang,Java Developer,Technology,Java,0.5,Sneha Rao,Rohan Gupta,ServiceNow,Bangalore,LinkedIn,2026-05-06,2026-05-07,2026-05-10,2026-05-12,2026-05-24,Joined,2,1374002,1346896,18
+CAND0170,Michael West,HR Executive,HR,Recruitment,7.1,Vikram Mehta,Ritika Kapoor,ServiceNow,Bangalore,LinkedIn,2025-08-17,2025-08-19,,,,Screening,1,1651547,1627094,0
+CAND0171,Daniel Holt,QA Engineer,Technology,Testing,8.1,Vikram Mehta,Ankit Verma,Amazon,Noida,Campus,2025-12-07,2025-12-08,,,,Screening,1,1544361,1434590,0
+CAND0172,Jackie Tran,Recruiter,HR,Talent Acquisition,0.2,Sneha Rao,Ritika Kapoor,Google,Pune,Referral,2025-12-22,2025-12-24,2025-12-29,,,Rejected,3,1210177,1121016,0
+CAND0173,Patrick Rivera,DevOps Engineer,Technology,AWS,6.1,Priya Singh,Aisha Khan,Microsoft,Hyderabad,Naukri,2026-05-10,2026-05-12,2026-05-17,,,Interview,1,2402587,2278950,0
+CAND0174,Eric Hall,Recruiter,HR,Talent Acquisition,2.7,Sneha Rao,Rohan Gupta,ServiceNow,Noida,Career Portal,2026-05-18,2026-05-19,2026-05-21,,,Interview,1,447964,420742,0
+CAND0175,Bryan Herrera,Recruiter,HR,Talent Acquisition,7.7,Sneha Rao,Ritika Kapoor,Target,Noida,Career Portal,2026-06-03,2026-06-05,2026-06-09,2026-06-12,2026-06-26,Joined,2,1704336,1710375,23
+CAND0176,Cheryl Rodgers,Python Developer,Technology,Python,2.1,Vikram Mehta,Ritika Kapoor,Deloitte,Noida,Referral,2025-11-26,2025-11-29,2025-12-02,,,Rejected,1,2144182,2155527,0
+CAND0177,Vanessa Warren,Sales Executive,Sales,CRM,8.3,Priya Singh,Ankit Verma,ANSR Internal,Pune,LinkedIn,2025-11-28,2025-12-01,2025-12-04,2025-12-07,,Offered,2,870637,791638,0
+CAND0178,Dr. Elizabeth Ward,Python Developer,Technology,Python,4.6,Rohit Jain,Ankit Verma,Microsoft,Hyderabad,Career Portal,2025-12-06,2025-12-07,2025-12-12,2025-12-13,,Offered,3,2450293,2238688,0
+CAND0179,Joseph Hill,Recruiter,HR,Talent Acquisition,11.2,Rahul Sharma,Ankit Verma,ServiceNow,Bangalore,Campus,2025-09-01,2025-09-04,2025-09-06,2025-09-07,2025-09-27,Joined,3,1467270,1500236,26
+CAND0180,Melissa Martinez,Business Analyst,Technology,"Excel, SQL",1.7,Rahul Sharma,Karan Shah,Deloitte,Bangalore,Referral,2026-07-14,2026-07-17,,,,Screening,1,2114912,1960517,0
+CAND0181,Ashley Smith,HR Executive,HR,Recruitment,4.1,Rohit Jain,Aisha Khan,Deloitte,Chennai,Campus,2025-11-29,2025-12-02,2025-12-05,2025-12-08,2025-12-26,Joined,2,736592,738366,27
+CAND0182,Jeremiah Lopez,Python Developer,Technology,Python,1.4,Anjali Kapoor,Ritika Kapoor,Adobe,Bangalore,LinkedIn,2025-08-30,2025-09-01,2025-09-06,2025-09-07,2025-09-21,Joined,3,1651425,1600974,22
+CAND0183,Scott Wilson,DevOps Engineer,Technology,AWS,11.1,Neha Patel,Pooja Nair,Adobe,Bangalore,LinkedIn,2025-09-05,2025-09-06,2025-09-09,,,Rejected,1,2158422,2141669,0
+CAND0184,Benjamin Soto,Business Analyst,Technology,"Excel, SQL",10.5,Priya Singh,Arjun Mehra,Deloitte,Noida,Career Portal,2025-08-31,,,,,Applied,0,604163,565925,0
+CAND0185,Robert Avery,Recruiter,HR,Talent Acquisition,3.1,Amit Verma,Vikas Sinha,Google,Hyderabad,Consultancy,2025-09-13,2025-09-16,2025-09-20,,,Rejected,3,1613258,1508596,0
+CAND0186,Bailey Duran DDS,Sales Executive,Sales,CRM,7.9,Rohit Jain,Vikas Sinha,ServiceNow,Hyderabad,Career Portal,2026-06-14,2026-06-17,2026-06-20,,,Interview,2,1327120,1276734,0
+CAND0187,Patricia James,Finance Analyst,Finance,Excel,9.8,Vikram Mehta,Arjun Mehra,Walmart,Chennai,Consultancy,2026-07-29,2026-07-31,2026-08-05,2026-08-06,,Offered,3,1736869,1744591,0
+CAND0188,Scott Branch,Java Developer,Technology,Java,6.7,Amit Verma,Pooja Nair,Amazon,Chennai,LinkedIn,2025-12-07,2025-12-08,2025-12-13,2025-12-14,2025-12-29,Joined,2,2130894,2227142,22
+CAND0189,Amy Choi,DevOps Engineer,Technology,AWS,6.4,Priya Singh,Ankit Verma,Walmart,Bangalore,Consultancy,2025-09-18,2025-09-21,2025-09-23,,,Interview,1,1198937,1088311,0
+CAND0190,Christine Clark,Java Developer,Technology,Java,2.9,Amit Verma,Ankit Verma,Adobe,Pune,Referral,2026-04-24,2026-04-27,,,,Screening,1,464314,432634,0
+CAND0191,David Arnold,Business Analyst,Technology,"Excel, SQL",1.1,Vikram Mehta,Vikas Sinha,Adobe,Chennai,Naukri,2025-10-10,2025-10-13,2025-10-17,,,Interview,2,1748951,1777506,0
+CAND0192,Jerry Wheeler,QA Engineer,Technology,Testing,10.8,Rohit Jain,Ankit Verma,Deloitte,Bangalore,Career Portal,2025-12-02,2025-12-03,2025-12-07,,,Interview,2,2369185,2402932,0
+CAND0193,Dwayne Campbell,HR Executive,HR,Recruitment,10.8,Rahul Sharma,Vikas Sinha,Amazon,Bangalore,Referral,2026-07-10,2026-07-11,,,,Screening,1,2151449,2031567,0
+CAND0194,Michael Bradshaw,HR Executive,HR,Recruitment,7.6,Amit Verma,Ankit Verma,ANSR Internal,Pune,Referral,2026-06-12,2026-06-14,2026-06-19,2026-06-20,2026-07-20,Joined,3,2449425,2559590,38
+CAND0195,Leah Lara,Python Developer,Technology,Python,4.1,Neha Patel,Ankit Verma,Amazon,Noida,Career Portal,2025-10-26,2025-10-27,2025-10-29,,,Rejected,1,646340,632502,0
+CAND0196,Joshua Holland,HR Executive,HR,Recruitment,4.2,Neha Patel,Vikas Sinha,Microsoft,Hyderabad,LinkedIn,2026-07-29,2026-08-01,2026-08-06,,,Interview,2,1317376,1285574,0
+CAND0197,Charles Brown,Data Analyst,Technology,"SQL, Power BI",8.7,Rahul Sharma,Aisha Khan,Google,Bangalore,Consultancy,2026-06-14,2026-06-17,2026-06-22,,,Interview,1,1552346,1521859,0
+CAND0198,Paul Carroll,Business Analyst,Technology,"Excel, SQL",10.8,Priya Singh,Ritika Kapoor,Adobe,Hyderabad,Consultancy,2025-12-01,2025-12-03,2025-12-05,,,Interview,2,1458718,1491221,0
+CAND0199,John Torres,HR Executive,HR,Recruitment,10.6,Vikram Mehta,Vikas Sinha,Adobe,Pune,Career Portal,2026-01-14,2026-01-15,2026-01-17,,,Rejected,2,738131,736699,0
+CAND0200,Kathryn Snyder,HR Executive,HR,Recruitment,9.4,Anjali Kapoor,Ankit Verma,Google,Bangalore,Career Portal,2025-09-11,2025-09-14,2025-09-18,,,Rejected,3,1118834,1020827,0
+CAND0201,Stacy Navarro,Business Analyst,Technology,"Excel, SQL",7.7,Rahul Sharma,Vikas Sinha,Adobe,Noida,Campus,2026-04-02,,,,,Applied,0,1537055,1394084,0
+CAND0202,Brandon Hayden,QA Engineer,Technology,Testing,1.0,Rahul Sharma,Ritika Kapoor,Walmart,Bangalore,Naukri,2026-07-01,2026-07-03,2026-07-05,2026-07-07,2026-07-19,Joined,2,1004783,1017682,18
+CAND0203,Laurie Smith,Sales Executive,Sales,CRM,1.9,Anjali Kapoor,Rohan Gupta,Target,Hyderabad,Career Portal,2026-06-04,2026-06-05,,,,Withdrawn,0,728949,710811,0
+CAND0204,Debra Williams,Business Analyst,Technology,"Excel, SQL",10.8,Anjali Kapoor,Vikas Sinha,Microsoft,Pune,Consultancy,2026-05-31,2026-06-03,2026-06-07,,,Interview,2,2063893,2157465,0
+CAND0205,Joseph Ramos,Recruiter,HR,Talent Acquisition,7.3,Amit Verma,Rohan Gupta,ANSR Internal,Chennai,Campus,2025-11-27,2025-11-28,2025-12-02,2025-12-03,2026-01-01,Joined,2,1179040,1181344,35
+CAND0206,Kevin Walters,Business Analyst,Technology,"Excel, SQL",0.1,Sneha Rao,Ritika Kapoor,Target,Hyderabad,Career Portal,2026-02-17,2026-02-18,,,,Screening,1,2034193,1927401,0
+CAND0207,Julie Ortiz,QA Engineer,Technology,Testing,1.2,Vikram Mehta,Rohan Gupta,ServiceNow,Bangalore,Naukri,2025-12-13,2025-12-16,2025-12-21,2025-12-22,,Offered,2,766151,711071,0
+CAND0208,Shannon Rivera,Business Analyst,Technology,"Excel, SQL",8.0,Rohit Jain,Karan Shah,Walmart,Chennai,LinkedIn,2026-05-07,2026-05-10,2026-05-13,2026-05-16,2026-06-08,Joined,2,1624096,1562496,32
+CAND0209,Matthew Morales DDS,HR Executive,HR,Recruitment,0.1,Neha Patel,Ritika Kapoor,ServiceNow,Pune,Referral,2025-08-25,2025-08-27,,,,Screening,1,2468311,2275511,0
+CAND0210,Ernest Morris,HR Executive,HR,Recruitment,1.9,Sneha Rao,Ankit Verma,Microsoft,Pune,Referral,2026-06-07,2026-06-10,2026-06-13,2026-06-15,,Offered,2,1434273,1445940,0
+CAND0211,Jose Travis,Python Developer,Technology,Python,6.6,Sneha Rao,Arjun Mehra,Target,Pune,Consultancy,2026-04-23,2026-04-25,2026-04-30,,,Interview,1,1993373,2034459,0
+CAND0212,Julia Brown,QA Engineer,Technology,Testing,8.3,Rohit Jain,Vikas Sinha,Deloitte,Pune,Naukri,2026-02-28,2026-03-03,2026-03-08,,,Interview,1,2070337,2164141,0
+CAND0213,Peter Garrett,DevOps Engineer,Technology,AWS,7.8,Anjali Kapoor,Pooja Nair,Target,Pune,LinkedIn,2026-06-02,2026-06-05,2026-06-07,2026-06-10,,Offered,3,1238022,1224198,0
+CAND0214,Derek Anderson,Java Developer,Technology,Java,2.7,Vikram Mehta,Pooja Nair,Microsoft,Chennai,Career Portal,2025-11-30,2025-12-02,2025-12-05,,,Interview,2,2494229,2296877,0
+CAND0215,Michael Martinez,HR Executive,HR,Recruitment,8.5,Priya Singh,Ankit Verma,Deloitte,Noida,Campus,2026-04-12,2026-04-14,2026-04-16,2026-04-17,2026-05-01,Joined,3,2154480,2114722,19
+CAND0216,Cynthia Moore,Python Developer,Technology,Python,2.8,Rahul Sharma,Aisha Khan,Walmart,Chennai,LinkedIn,2026-03-12,2026-03-15,2026-03-18,,,Interview,2,444240,406386,0
+CAND0217,Jason Walker,DevOps Engineer,Technology,AWS,3.9,Anjali Kapoor,Ankit Verma,ANSR Internal,Hyderabad,Referral,2026-07-03,2026-07-04,2026-07-06,,,Interview,1,503023,489147,0
+CAND0218,Julia Wilson,DevOps Engineer,Technology,AWS,9.0,Sneha Rao,Rohan Gupta,Deloitte,Hyderabad,Consultancy,2026-06-30,,,,,Applied,0,2425538,2309706,0
+CAND0219,Timothy Carter,Recruiter,HR,Talent Acquisition,7.8,Rohit Jain,Karan Shah,ServiceNow,Bangalore,Career Portal,2026-05-11,2026-05-12,2026-05-15,,,Interview,1,882702,797422,0
+CAND0220,Ruben Baird,Finance Analyst,Finance,Excel,10.2,Neha Patel,Ritika Kapoor,Walmart,Noida,Campus,2025-11-13,2025-11-14,2025-11-17,2025-11-20,,Offered,3,2337995,2185507,0
+CAND0221,Charles Lee,HR Executive,HR,Recruitment,7.9,Rahul Sharma,Vikas Sinha,Deloitte,Noida,Campus,2026-03-31,2026-04-02,2026-04-04,,,Interview,1,2030895,1829161,0
+CAND0222,Sherry Shields,Finance Analyst,Finance,Excel,6.8,Neha Patel,Rohan Gupta,Walmart,Hyderabad,Campus,2025-11-26,2025-11-29,2025-12-03,,,Rejected,3,877961,824715,0
+CAND0223,Sarah Morgan,HR Executive,HR,Recruitment,1.1,Anjali Kapoor,Karan Shah,Walmart,Pune,Campus,2026-06-12,2026-06-14,2026-06-16,2026-06-19,2026-06-30,Joined,3,1123632,1148420,18
+CAND0224,Samantha Campbell,Business Analyst,Technology,"Excel, SQL",4.4,Amit Verma,Pooja Nair,Microsoft,Hyderabad,Referral,2025-12-04,2025-12-05,2025-12-10,2025-12-12,,Offered,2,992900,969689,0
+CAND0225,Lauren Keller,Recruiter,HR,Talent Acquisition,3.2,Neha Patel,Ritika Kapoor,Deloitte,Pune,Naukri,2026-07-13,2026-07-14,2026-07-18,2026-07-19,,Offered,3,1184748,1122177,0
+CAND0226,Joshua Reed,Python Developer,Technology,Python,2.9,Amit Verma,Aisha Khan,ANSR Internal,Noida,Career Portal,2026-03-13,2026-03-16,2026-03-21,2026-03-23,,Offered,2,2476054,2380404,0
+CAND0227,Jamie Cantu,Business Analyst,Technology,"Excel, SQL",11.7,Rahul Sharma,Vikas Sinha,ServiceNow,Bangalore,Referral,2026-07-14,2026-07-16,,,,Screening,1,1343061,1317061,0
+CAND0228,Michael Armstrong,Sales Executive,Sales,CRM,4.7,Vikram Mehta,Karan Shah,Microsoft,Pune,Consultancy,2025-11-09,2025-11-12,2025-11-17,2025-11-20,2025-12-03,Joined,3,1938729,1902487,24
+CAND0229,Jennifer Flores,Business Analyst,Technology,"Excel, SQL",10.7,Amit Verma,Pooja Nair,Google,Chennai,Referral,2026-02-10,,,,,Applied,0,1862037,1916650,0
+CAND0230,Roberta Hughes,Business Analyst,Technology,"Excel, SQL",7.6,Amit Verma,Vikas Sinha,Walmart,Noida,Career Portal,2026-04-25,2026-04-26,,,,Screening,1,2195862,2030946,0
+CAND0231,Marissa Hernandez,Java Developer,Technology,Java,9.5,Rahul Sharma,Rohan Gupta,ANSR Internal,Pune,Consultancy,2025-08-25,2025-08-27,2025-08-31,2025-09-03,2025-10-01,Joined,2,1106225,1049307,37
+CAND0232,Vincent Rivera,Python Developer,Technology,Python,6.0,Anjali Kapoor,Arjun Mehra,ServiceNow,Hyderabad,Career Portal,2025-09-18,2025-09-19,2025-09-24,2025-09-26,2025-10-07,Joined,3,956545,896714,19
+CAND0233,Jessica Fox,HR Executive,HR,Recruitment,6.9,Anjali Kapoor,Ankit Verma,Microsoft,Bangalore,Campus,2026-02-04,2026-02-06,2026-02-11,,,Rejected,2,1566963,1573552,0
+CAND0234,Charles Pitts,Sales Executive,Sales,CRM,5.9,Rahul Sharma,Karan Shah,Deloitte,Pune,LinkedIn,2025-10-09,2025-10-10,2025-10-15,2025-10-17,,Offered,3,2068141,1928902,0
+CAND0235,Richard Baker,QA Engineer,Technology,Testing,2.3,Rohit Jain,Ritika Kapoor,Deloitte,Pune,Career Portal,2026-04-10,2026-04-12,2026-04-14,2026-04-15,2026-04-27,Joined,3,603043,546894,17
+CAND0236,Marie Christian,Recruiter,HR,Talent Acquisition,8.7,Rahul Sharma,Aisha Khan,Adobe,Hyderabad,Career Portal,2026-07-08,2026-07-10,2026-07-12,,,Rejected,3,1666115,1539234,0
+CAND0237,Kimberly Finley,DevOps Engineer,Technology,AWS,3.4,Sneha Rao,Karan Shah,Walmart,Hyderabad,LinkedIn,2026-04-11,2026-04-12,2026-04-17,2026-04-20,2026-04-29,Joined,2,2062377,2049674,18
+CAND0238,Olivia Brennan,Data Analyst,Technology,"SQL, Power BI",0.3,Amit Verma,Ankit Verma,Microsoft,Hyderabad,Consultancy,2025-08-24,2025-08-25,2025-08-29,2025-08-30,,Offered,3,1348713,1318928,0
+CAND0239,Cynthia Cohen,Python Developer,Technology,Python,7.7,Vikram Mehta,Karan Shah,Adobe,Chennai,LinkedIn,2025-11-30,2025-12-02,2025-12-05,,,Interview,2,829610,759491,0
+CAND0240,Nicole Hamilton MD,Python Developer,Technology,Python,2.1,Neha Patel,Karan Shah,ANSR Internal,Noida,LinkedIn,2026-04-14,2026-04-17,2026-04-20,2026-04-22,2026-05-18,Joined,3,1088354,1051366,34
+CAND0241,Ashlee Jackson,Java Developer,Technology,Java,11.3,Priya Singh,Karan Shah,Amazon,Bangalore,Consultancy,2025-12-05,2025-12-06,2025-12-09,2025-12-11,,Offered,2,2010746,1915698,0
+CAND0242,Amber Flynn,Java Developer,Technology,Java,11.4,Sneha Rao,Arjun Mehra,ServiceNow,Hyderabad,Consultancy,2025-12-02,2025-12-03,2025-12-06,,,Interview,2,1191240,1205745,0
+CAND0243,Jeffrey Sanchez,HR Executive,HR,Recruitment,11.0,Priya Singh,Vikas Sinha,Deloitte,Noida,LinkedIn,2026-01-18,2026-01-19,2026-01-24,,,Rejected,3,450612,472255,0
+CAND0244,Rebecca Jackson,HR Executive,HR,Recruitment,4.4,Rohit Jain,Ritika Kapoor,Deloitte,Bangalore,LinkedIn,2025-09-10,2025-09-11,2025-09-16,,,Interview,2,683252,616340,0
+CAND0245,Janet Vega,Finance Analyst,Finance,Excel,0.2,Anjali Kapoor,Aisha Khan,Target,Bangalore,Career Portal,2026-02-20,2026-02-23,2026-02-26,,,Interview,1,1040388,979650,0
+CAND0246,Briana Murray,Finance Analyst,Finance,Excel,11.1,Rohit Jain,Aisha Khan,Microsoft,Pune,Career Portal,2025-11-17,2025-11-18,2025-11-21,,,Rejected,1,2234949,2256167,0
+CAND0247,Michael Nolan,HR Executive,HR,Recruitment,5.1,Priya Singh,Ankit Verma,Google,Pune,Career Portal,2026-02-07,2026-02-10,2026-02-12,2026-02-13,2026-03-07,Joined,3,1136712,1043406,28
+CAND0248,Megan Moore,Finance Analyst,Finance,Excel,11.6,Sneha Rao,Ritika Kapoor,Walmart,Hyderabad,Career Portal,2026-01-29,2026-01-30,,,,Screening,1,1527279,1542460,0
+CAND0249,Victoria Evans,DevOps Engineer,Technology,AWS,11.6,Anjali Kapoor,Pooja Nair,ANSR Internal,Bangalore,Referral,2026-01-22,2026-01-23,2026-01-28,2026-01-31,,Offered,2,723255,704755,0
+CAND0250,Joyce Turner,DevOps Engineer,Technology,AWS,10.2,Neha Patel,Pooja Nair,Microsoft,Noida,Career Portal,2026-01-07,2026-01-08,2026-01-10,2026-01-11,,Offered,2,883744,825647,0
+CAND0251,Ashley James,Recruiter,HR,Talent Acquisition,3.5,Rohit Jain,Aisha Khan,Amazon,Hyderabad,LinkedIn,2025-12-28,2025-12-31,2026-01-04,,,Interview,2,2158962,2015773,0
+CAND0252,Wendy Phillips,Business Analyst,Technology,"Excel, SQL",4.6,Rohit Jain,Karan Shah,ANSR Internal,Bangalore,Naukri,2026-06-29,2026-07-01,,,,Withdrawn,0,1336105,1363696,0
+CAND0253,Denise Knight,Business Analyst,Technology,"Excel, SQL",10.2,Vikram Mehta,Pooja Nair,ServiceNow,Pune,LinkedIn,2026-05-04,2026-05-07,2026-05-11,,,Interview,1,2315732,2086926,0
+CAND0254,Valerie Lozano,Recruiter,HR,Talent Acquisition,3.8,Rohit Jain,Ankit Verma,Adobe,Noida,Naukri,2026-05-27,2026-05-28,2026-06-01,2026-06-04,,Offered,2,1031521,929355,0
+CAND0255,Tanner Mitchell DDS,DevOps Engineer,Technology,AWS,2.0,Rahul Sharma,Aisha Khan,ServiceNow,Bangalore,Naukri,2026-04-03,2026-04-04,,,,Withdrawn,0,1398947,1347147,0
+CAND0256,Colleen Lee,QA Engineer,Technology,Testing,6.7,Priya Singh,Arjun Mehra,Adobe,Noida,Campus,2025-11-16,2025-11-19,2025-11-21,2025-11-24,2025-12-05,Joined,3,1962344,1901057,19
+CAND0257,Michelle Hopkins,Business Analyst,Technology,"Excel, SQL",11.2,Rahul Sharma,Aisha Khan,Amazon,Hyderabad,Referral,2026-07-02,2026-07-04,2026-07-08,,,Rejected,2,1494675,1535983,0
+CAND0258,Brent Burton,Recruiter,HR,Talent Acquisition,8.4,Sneha Rao,Vikas Sinha,Microsoft,Hyderabad,Naukri,2025-08-26,2025-08-28,,,,Screening,1,857065,791338,0
+CAND0259,Jeremiah Riley,DevOps Engineer,Technology,AWS,6.8,Anjali Kapoor,Karan Shah,ANSR Internal,Pune,Naukri,2026-05-22,2026-05-23,2026-05-25,,,Interview,1,2295477,2172086,0
+CAND0260,Theodore Murphy,QA Engineer,Technology,Testing,1.2,Rahul Sharma,Vikas Sinha,Walmart,Hyderabad,LinkedIn,2026-01-19,2026-01-20,2026-01-24,,,Interview,2,1441105,1506329,0
+CAND0261,Carlos Ryan,Python Developer,Technology,Python,7.4,Rahul Sharma,Aisha Khan,Deloitte,Noida,Career Portal,2025-12-31,2026-01-01,,,,Screening,1,1447957,1323735,0
+CAND0262,Susan Rivas,Business Analyst,Technology,"Excel, SQL",11.9,Rahul Sharma,Arjun Mehra,Adobe,Hyderabad,Naukri,2025-11-18,2025-11-21,2025-11-23,2025-11-26,2025-12-21,Joined,3,2080161,1988292,33
+CAND0263,Terry Coffey,Business Analyst,Technology,"Excel, SQL",1.7,Rahul Sharma,Karan Shah,Adobe,Chennai,Naukri,2025-12-03,2025-12-05,2025-12-07,,,Rejected,1,785786,813887,0
+CAND0264,Gina Wilson,Recruiter,HR,Talent Acquisition,6.2,Rahul Sharma,Ritika Kapoor,Target,Chennai,Campus,2025-09-09,2025-09-11,2025-09-14,2025-09-15,,Offered,3,523657,501354,0
+CAND0265,Vincent Dalton,QA Engineer,Technology,Testing,10.5,Vikram Mehta,Ritika Kapoor,Google,Noida,Consultancy,2026-05-19,2026-05-22,2026-05-27,2026-05-28,,Offered,2,1430896,1426734,0
+CAND0266,Jennifer Singleton,QA Engineer,Technology,Testing,8.9,Anjali Kapoor,Ritika Kapoor,Target,Hyderabad,Career Portal,2026-03-15,2026-03-16,2026-03-21,,,Rejected,3,1445001,1437217,0
+CAND0267,Richard Smith,DevOps Engineer,Technology,AWS,8.4,Vikram Mehta,Ankit Verma,Walmart,Noida,Consultancy,2026-03-07,2026-03-09,,,,Screening,1,1748906,1675901,0
+CAND0268,Jacob Curry,Sales Executive,Sales,CRM,8.4,Amit Verma,Arjun Mehra,ServiceNow,Bangalore,Campus,2025-11-20,2025-11-21,,,,Withdrawn,0,1899182,1927719,0
+CAND0269,Samantha Bentley,Business Analyst,Technology,"Excel, SQL",4.3,Amit Verma,Vikas Sinha,ServiceNow,Noida,Career Portal,2025-09-22,2025-09-25,2025-09-30,,,Rejected,2,634497,643765,0
+CAND0270,Kaitlyn Harvey,Python Developer,Technology,Python,3.5,Neha Patel,Vikas Sinha,Walmart,Pune,Consultancy,2026-03-17,2026-03-20,2026-03-23,,,Interview,1,518306,521165,0
+CAND0271,Leonard Holland,Recruiter,HR,Talent Acquisition,9.7,Sneha Rao,Ritika Kapoor,Deloitte,Bangalore,LinkedIn,2026-04-14,2026-04-17,2026-04-22,,,Interview,1,635585,594204,0
+CAND0272,Susan Turner,DevOps Engineer,Technology,AWS,9.7,Amit Verma,Ritika Kapoor,Walmart,Hyderabad,Referral,2026-01-16,2026-01-17,2026-01-19,2026-01-22,2026-02-09,Joined,2,649795,586951,24
+CAND0273,Andrew Johnson,DevOps Engineer,Technology,AWS,10.4,Anjali Kapoor,Karan Shah,Walmart,Pune,Referral,2026-02-18,2026-02-20,2026-02-25,2026-02-28,2026-03-17,Joined,2,972319,1017414,27
+CAND0274,David Medina,Finance Analyst,Finance,Excel,11.0,Rohit Jain,Vikas Sinha,Amazon,Chennai,Referral,2026-01-08,2026-01-11,2026-01-16,2026-01-19,2026-01-27,Joined,2,1635294,1503002,19
+CAND0275,Michael Paul,Sales Executive,Sales,CRM,6.1,Rohit Jain,Vikas Sinha,Microsoft,Chennai,Naukri,2026-03-08,2026-03-10,2026-03-13,,,Interview,1,1789021,1810134,0
+CAND0276,Patrick Moore,DevOps Engineer,Technology,AWS,6.0,Vikram Mehta,Arjun Mehra,ServiceNow,Hyderabad,Naukri,2026-01-19,2026-01-22,2026-01-24,2026-01-25,2026-02-13,Joined,3,684351,651893,25
+CAND0277,Sandra Gilbert,HR Executive,HR,Recruitment,9.6,Neha Patel,Aisha Khan,Deloitte,Chennai,Referral,2026-08-10,2026-08-13,2026-08-16,2026-08-17,,Offered,3,1974321,1806926,0
+CAND0278,Amanda Wood,Business Analyst,Technology,"Excel, SQL",7.8,Rahul Sharma,Pooja Nair,Google,Pune,Referral,2026-01-30,2026-02-01,,,,Screening,1,839248,764664,0
+CAND0279,David Cox,Python Developer,Technology,Python,8.4,Priya Singh,Karan Shah,Walmart,Noida,Consultancy,2026-05-04,2026-05-07,2026-05-10,2026-05-13,,Offered,3,2424744,2438506,0
+CAND0280,Steven Newman,Python Developer,Technology,Python,9.5,Rahul Sharma,Karan Shah,Walmart,Hyderabad,Naukri,2025-09-03,2025-09-06,2025-09-10,2025-09-13,2025-09-29,Joined,3,2116644,2126337,26
+CAND0281,Colton Martinez,Java Developer,Technology,Java,10.7,Priya Singh,Arjun Mehra,Target,Noida,Consultancy,2026-07-06,2026-07-08,2026-07-10,,,Interview,2,2459186,2269923,0
+CAND0282,Anna Lewis,Sales Executive,Sales,CRM,4.1,Vikram Mehta,Vikas Sinha,Microsoft,Bangalore,Naukri,2026-04-16,2026-04-18,,,,Withdrawn,0,1116522,1111752,0
+CAND0283,Alison Buchanan,Business Analyst,Technology,"Excel, SQL",4.5,Sneha Rao,Aisha Khan,Deloitte,Chennai,Career Portal,2025-11-13,2025-11-14,2025-11-18,2025-11-20,,Offered,3,1511509,1381021,0
+CAND0284,Rachel Harris DVM,Python Developer,Technology,Python,1.1,Vikram Mehta,Arjun Mehra,ServiceNow,Chennai,Campus,2026-03-14,2026-03-15,2026-03-18,,,Interview,1,1504783,1405371,0
+CAND0285,Daniel Kane,Business Analyst,Technology,"Excel, SQL",6.9,Rohit Jain,Aisha Khan,Adobe,Noida,LinkedIn,2025-12-16,2025-12-19,2025-12-24,2025-12-27,,Offered,2,2023640,2069699,0
+CAND0286,Rachel Carlson,Recruiter,HR,Talent Acquisition,0.4,Sneha Rao,Karan Shah,Target,Bangalore,Consultancy,2025-11-26,2025-11-27,2025-11-30,2025-12-01,2025-12-14,Joined,2,1018440,934970,18
+CAND0287,Brianna Anderson,Data Analyst,Technology,"SQL, Power BI",5.6,Anjali Kapoor,Karan Shah,Target,Hyderabad,Career Portal,2025-11-16,2025-11-19,2025-11-21,,,Interview,1,1020246,1045870,0
+CAND0288,Ashley Delacruz,HR Executive,HR,Recruitment,6.5,Anjali Kapoor,Rohan Gupta,ServiceNow,Noida,Campus,2025-10-01,2025-10-04,2025-10-09,2025-10-10,2025-10-30,Joined,2,451857,459982,29
+CAND0289,Richard Young,Python Developer,Technology,Python,3.4,Priya Singh,Karan Shah,Microsoft,Pune,Consultancy,2025-12-14,2025-12-17,2025-12-22,,,Interview,2,1842291,1900662,0
+CAND0290,Derek Martinez,Data Analyst,Technology,"SQL, Power BI",7.1,Neha Patel,Pooja Nair,Target,Hyderabad,Consultancy,2026-01-21,2026-01-23,2026-01-26,,,Rejected,1,2084935,1888570,0
+CAND0291,Nichole Alvarez,Recruiter,HR,Talent Acquisition,0.4,Sneha Rao,Rohan Gupta,Google,Pune,Referral,2026-06-09,2026-06-12,2026-06-14,2026-06-15,,Offered,2,1704215,1605459,0
+CAND0292,Kevin Hayes,QA Engineer,Technology,Testing,0.4,Vikram Mehta,Rohan Gupta,ServiceNow,Chennai,Consultancy,2025-11-05,2025-11-07,2025-11-12,,,Interview,2,774496,718879,0
+CAND0293,Amanda Logan,Data Analyst,Technology,"SQL, Power BI",9.9,Neha Patel,Karan Shah,ServiceNow,Noida,Campus,2026-07-13,2026-07-16,2026-07-18,2026-07-19,,Offered,2,968956,985503,0
+CAND0294,Elizabeth Schneider,Java Developer,Technology,Java,4.3,Rahul Sharma,Vikas Sinha,Google,Chennai,LinkedIn,2025-08-23,2025-08-25,2025-08-30,,,Interview,1,1911522,1922408,0
+CAND0295,John Morales,Data Analyst,Technology,"SQL, Power BI",1.5,Amit Verma,Rohan Gupta,Deloitte,Noida,Campus,2026-05-04,2026-05-07,2026-05-11,2026-05-13,,Offered,2,1144839,1195301,0
+CAND0296,Micheal Wallace,QA Engineer,Technology,Testing,6.3,Priya Singh,Pooja Nair,Google,Chennai,LinkedIn,2026-07-26,2026-07-27,2026-07-30,2026-08-02,2026-08-16,Joined,2,1083283,1113694,21
+CAND0297,Lee Jones,QA Engineer,Technology,Testing,9.2,Anjali Kapoor,Arjun Mehra,Google,Chennai,Naukri,2025-11-25,,,,,Applied,0,1126456,1115384,0
+CAND0298,Lauren Joseph,QA Engineer,Technology,Testing,2.6,Sneha Rao,Pooja Nair,Target,Chennai,Referral,2026-01-05,2026-01-08,2026-01-13,2026-01-16,,Offered,2,2325177,2180550,0
+CAND0299,Kerry Chavez DDS,Data Analyst,Technology,"SQL, Power BI",7.5,Rohit Jain,Pooja Nair,ServiceNow,Bangalore,Campus,2025-09-18,2025-09-20,2025-09-24,,,Interview,2,667752,634659,0
+CAND0300,Ashley Pena,QA Engineer,Technology,Testing,1.0,Amit Verma,Ritika Kapoor,ANSR Internal,Hyderabad,LinkedIn,2026-07-17,2026-07-20,2026-07-22,2026-07-25,2026-08-16,Joined,3,2094911,2092982,30
+CAND0301,Michelle Lewis,QA Engineer,Technology,Testing,0.6,Anjali Kapoor,Aisha Khan,Target,Bangalore,Consultancy,2026-02-02,2026-02-05,2026-02-10,2026-02-13,2026-03-03,Joined,3,1196561,1138497,29
+CAND0302,Jennifer Wilcox,Python Developer,Technology,Python,6.4,Neha Patel,Pooja Nair,Microsoft,Chennai,Naukri,2026-01-12,2026-01-13,2026-01-17,2026-01-20,2026-01-29,Joined,2,1484864,1497898,17
+CAND0303,Brandon Simmons,DevOps Engineer,Technology,AWS,6.5,Amit Verma,Pooja Nair,Target,Pune,Referral,2026-04-26,2026-04-27,2026-05-02,2026-05-03,,Offered,2,1492864,1474704,0
+CAND0304,Troy Mcdaniel,Recruiter,HR,Talent Acquisition,7.6,Amit Verma,Karan Shah,Target,Noida,Referral,2026-02-11,2026-02-12,2026-02-15,,,Rejected,2,2132697,1936721,0
+CAND0305,Ronald Davis,HR Executive,HR,Recruitment,8.7,Vikram Mehta,Ritika Kapoor,Walmart,Hyderabad,LinkedIn,2025-09-17,2025-09-19,,,,Withdrawn,0,2445062,2322550,0
+CAND0306,Jacqueline Anderson,Data Analyst,Technology,"SQL, Power BI",11.7,Rahul Sharma,Ankit Verma,ServiceNow,Hyderabad,Naukri,2025-09-03,2025-09-04,2025-09-07,2025-09-10,2025-09-30,Joined,3,1064525,1036247,27
+CAND0307,Kristina Rivera,HR Executive,HR,Recruitment,6.2,Anjali Kapoor,Ankit Verma,Target,Bangalore,LinkedIn,2025-09-27,2025-09-29,,,,Withdrawn,0,1236403,1248271,0
+CAND0308,Shane Pugh,Finance Analyst,Finance,Excel,3.9,Amit Verma,Arjun Mehra,Google,Hyderabad,Naukri,2026-01-22,2026-01-25,,,,Screening,1,1844307,1746215,0
+CAND0309,Michelle Schmitt,Sales Executive,Sales,CRM,9.5,Sneha Rao,Ritika Kapoor,Microsoft,Bangalore,Referral,2026-04-01,2026-04-04,2026-04-08,2026-04-10,,Offered,2,1619820,1568615,0
+CAND0310,Brian Romero,DevOps Engineer,Technology,AWS,3.2,Vikram Mehta,Rohan Gupta,Adobe,Hyderabad,Campus,2025-10-10,2025-10-11,2025-10-14,2025-10-17,2025-10-24,Joined,2,480214,448646,14
+CAND0311,Courtney Rodriguez,Business Analyst,Technology,"Excel, SQL",5.3,Rohit Jain,Arjun Mehra,Target,Pune,Consultancy,2026-07-05,,,,,Applied,0,603788,597199,0
+CAND0312,Ashley Ramirez,Business Analyst,Technology,"Excel, SQL",0.9,Rahul Sharma,Arjun Mehra,Microsoft,Chennai,Campus,2025-11-06,2025-11-09,2025-11-12,,,Interview,1,1994899,1832393,0
+CAND0313,Sarah Villegas,Data Analyst,Technology,"SQL, Power BI",0.3,Sneha Rao,Aisha Khan,Microsoft,Noida,Referral,2026-06-24,2026-06-27,2026-06-29,,,Rejected,2,975305,939046,0
+CAND0314,Megan Hawkins,Business Analyst,Technology,"Excel, SQL",11.6,Priya Singh,Ankit Verma,Adobe,Noida,Naukri,2026-04-04,2026-04-06,,,,Withdrawn,0,1503076,1540239,0
+CAND0315,Sandra Adams,HR Executive,HR,Recruitment,10.0,Sneha Rao,Ritika Kapoor,Google,Noida,Campus,2025-10-20,2025-10-21,2025-10-23,2025-10-24,,Offered,2,1271131,1275237,0
+CAND0316,Phillip Dorsey,Business Analyst,Technology,"Excel, SQL",8.4,Vikram Mehta,Ritika Kapoor,Microsoft,Noida,LinkedIn,2025-12-25,2025-12-27,2025-12-31,2026-01-02,2026-01-23,Joined,2,824843,854303,29
+CAND0317,Sergio Knight,Business Analyst,Technology,"Excel, SQL",4.9,Neha Patel,Arjun Mehra,ServiceNow,Pune,Career Portal,2026-01-13,2026-01-14,,,,Screening,1,1711588,1649798,0
+CAND0318,Patrick Bonilla,Data Analyst,Technology,"SQL, Power BI",2.1,Neha Patel,Ritika Kapoor,Walmart,Pune,Campus,2025-09-15,,,,,Applied,0,1525371,1573834,0
+CAND0319,Cindy Barnes,DevOps Engineer,Technology,AWS,1.9,Neha Patel,Karan Shah,Target,Chennai,Campus,2025-12-21,2025-12-23,2025-12-28,2025-12-31,2026-01-12,Joined,2,1540150,1579202,22
+CAND0320,Eric Nguyen,Python Developer,Technology,Python,3.0,Rahul Sharma,Ritika Kapoor,Microsoft,Chennai,Consultancy,2026-03-19,2026-03-20,2026-03-25,2026-03-27,2026-04-22,Joined,2,2424485,2473798,34
+CAND0321,Sophia Moore,Python Developer,Technology,Python,6.6,Vikram Mehta,Ankit Verma,Microsoft,Chennai,Campus,2026-05-30,2026-05-31,2026-06-03,2026-06-06,2026-06-23,Joined,2,592821,539170,24
+CAND0322,Megan Nelson,HR Executive,HR,Recruitment,8.6,Amit Verma,Ankit Verma,Walmart,Chennai,Naukri,2026-04-25,2026-04-28,2026-05-03,,,Rejected,2,628866,567077,0
+CAND0323,Lawrence Perry,Python Developer,Technology,Python,7.9,Priya Singh,Ankit Verma,Walmart,Hyderabad,Referral,2025-11-02,2025-11-05,2025-11-10,,,Interview,2,1566675,1421839,0
+CAND0324,Ashley Jordan,Java Developer,Technology,Java,3.4,Priya Singh,Ankit Verma,Deloitte,Noida,Campus,2025-11-29,2025-11-30,2025-12-05,2025-12-08,,Offered,2,769182,791094,0
+CAND0325,Leslie Rose,Business Analyst,Technology,"Excel, SQL",11.5,Anjali Kapoor,Aisha Khan,Google,Noida,Consultancy,2025-12-08,2025-12-11,2025-12-15,2025-12-18,2026-01-11,Joined,2,400711,410282,34
+CAND0326,James Greene,Recruiter,HR,Talent Acquisition,8.9,Rohit Jain,Rohan Gupta,Google,Hyderabad,Campus,2025-08-13,2025-08-15,2025-08-19,2025-08-22,2025-09-12,Joined,2,1792394,1763756,30
+CAND0327,Tony Saunders,Business Analyst,Technology,"Excel, SQL",6.7,Amit Verma,Arjun Mehra,Walmart,Pune,Career Portal,2026-06-03,2026-06-04,2026-06-06,,,Interview,1,1624667,1595672,0
+CAND0328,Garrett Smith,Recruiter,HR,Talent Acquisition,7.3,Neha Patel,Aisha Khan,Microsoft,Pune,Consultancy,2026-05-28,2026-05-30,2026-06-02,,,Rejected,2,1221754,1133948,0
+CAND0329,Carl Patel,Java Developer,Technology,Java,5.0,Rohit Jain,Karan Shah,Target,Bangalore,Career Portal,2025-11-08,2025-11-11,2025-11-14,2025-11-16,,Offered,2,916818,931323,0
+CAND0330,Sandra Drake,Finance Analyst,Finance,Excel,3.0,Rahul Sharma,Aisha Khan,Deloitte,Noida,Naukri,2025-09-07,2025-09-09,,,,Screening,1,1128342,1139144,0
+CAND0331,Patrick Graham,Sales Executive,Sales,CRM,4.3,Rohit Jain,Aisha Khan,Target,Noida,Career Portal,2026-02-05,2026-02-07,,,,Withdrawn,0,1441188,1356214,0
+CAND0332,Shannon Johnston,Recruiter,HR,Talent Acquisition,9.1,Neha Patel,Ritika Kapoor,Target,Noida,Career Portal,2026-03-21,2026-03-23,2026-03-26,2026-03-27,,Offered,2,1653732,1697491,0
+CAND0333,Mark Roberts,Sales Executive,Sales,CRM,0.2,Sneha Rao,Rohan Gupta,Amazon,Hyderabad,Consultancy,2026-01-15,2026-01-18,2026-01-23,2026-01-26,2026-02-20,Joined,3,1752165,1763646,36
+CAND0334,Frederick Solis,Finance Analyst,Finance,Excel,1.4,Sneha Rao,Aisha Khan,Google,Noida,LinkedIn,2026-04-08,,,,,Applied,0,505999,484307,0
+CAND0335,Michael Cox,Data Analyst,Technology,"SQL, Power BI",0.6,Amit Verma,Pooja Nair,Amazon,Pune,Career Portal,2026-01-27,,,,,Applied,0,1450929,1337704,0
+CAND0336,Dana Chapman,QA Engineer,Technology,Testing,0.5,Amit Verma,Arjun Mehra,Walmart,Chennai,LinkedIn,2026-03-02,2026-03-03,2026-03-07,2026-03-10,2026-04-07,Joined,2,1340813,1356047,36
+CAND0337,Seth Reese,HR Executive,HR,Recruitment,10.3,Anjali Kapoor,Aisha Khan,Walmart,Noida,LinkedIn,2025-11-05,2025-11-07,2025-11-10,,,Interview,2,454380,459628,0
+CAND0338,Christopher Dixon,Sales Executive,Sales,CRM,8.4,Amit Verma,Vikas Sinha,ServiceNow,Chennai,Naukri,2025-09-24,2025-09-27,,,,Screening,1,712345,661089,0
+CAND0339,Cheyenne Parsons,Business Analyst,Technology,"Excel, SQL",5.7,Anjali Kapoor,Arjun Mehra,Target,Pune,Consultancy,2025-12-25,2025-12-27,2025-12-29,2025-12-31,2026-01-21,Joined,2,1508301,1386897,27
+CAND0340,Sabrina Briggs,Data Analyst,Technology,"SQL, Power BI",1.2,Neha Patel,Rohan Gupta,Google,Noida,Career Portal,2025-11-10,2025-11-12,2025-11-14,2025-11-17,2025-12-04,Joined,2,1663134,1619198,24
+CAND0341,David Thompson,Python Developer,Technology,Python,5.9,Priya Singh,Ritika Kapoor,Target,Noida,Consultancy,2025-10-09,2025-10-10,2025-10-14,,,Interview,2,2092053,1911700,0
+CAND0342,Mary Thompson,DevOps Engineer,Technology,AWS,5.7,Sneha Rao,Vikas Sinha,ANSR Internal,Chennai,Consultancy,2026-06-07,2026-06-08,2026-06-11,,,Interview,1,436925,400751,0
+CAND0343,Julie Elliott,DevOps Engineer,Technology,AWS,2.1,Anjali Kapoor,Karan Shah,Target,Pune,Consultancy,2026-03-24,2026-03-26,2026-03-31,2026-04-02,,Offered,2,1586270,1433521,0
+CAND0344,Thomas Cunningham,QA Engineer,Technology,Testing,5.2,Amit Verma,Rohan Gupta,ANSR Internal,Bangalore,LinkedIn,2026-04-14,2026-04-17,2026-04-19,2026-04-22,2026-05-01,Joined,2,1102104,1152518,17
+CAND0345,Mrs. Tricia Stewart,Java Developer,Technology,Java,4.8,Anjali Kapoor,Karan Shah,Adobe,Noida,Career Portal,2026-01-28,2026-01-31,2026-02-03,,,Rejected,1,2225519,2218807,0
+CAND0346,Jeremy Turner,Recruiter,HR,Talent Acquisition,7.4,Rohit Jain,Arjun Mehra,Microsoft,Bangalore,LinkedIn,2025-11-25,2025-11-28,2025-12-01,2025-12-03,2025-12-23,Joined,3,1146553,1168489,28
+CAND0347,Heather Jones,Recruiter,HR,Talent Acquisition,7.6,Anjali Kapoor,Aisha Khan,Walmart,Bangalore,Campus,2026-02-06,2026-02-09,2026-02-11,2026-02-14,2026-03-11,Joined,2,896210,878487,33
+CAND0348,Anthony Decker,Business Analyst,Technology,"Excel, SQL",0.5,Rohit Jain,Karan Shah,ServiceNow,Pune,Consultancy,2025-09-09,2025-09-11,2025-09-16,,,Rejected,3,762829,718758,0
+CAND0349,Vanessa Davis,Data Analyst,Technology,"SQL, Power BI",4.5,Vikram Mehta,Ritika Kapoor,ANSR Internal,Hyderabad,Naukri,2026-03-29,2026-03-31,2026-04-03,,,Rejected,2,2039941,2079751,0
+CAND0350,Julie Spencer,DevOps Engineer,Technology,AWS,7.5,Rahul Sharma,Ritika Kapoor,Microsoft,Bangalore,LinkedIn,2026-06-14,2026-06-16,2026-06-19,,,Rejected,3,2052898,2013015,0
+CAND0351,Amanda Stout,DevOps Engineer,Technology,AWS,6.0,Amit Verma,Aisha Khan,ANSR Internal,Hyderabad,Naukri,2026-03-21,2026-03-22,2026-03-24,,,Rejected,1,1171721,1093354,0
+CAND0352,Erica Alvarez,Sales Executive,Sales,CRM,10.3,Rahul Sharma,Ankit Verma,ANSR Internal,Bangalore,Referral,2025-10-08,2025-10-11,,,,Screening,1,682539,639950,0
+CAND0353,Joanna Shepherd,Recruiter,HR,Talent Acquisition,7.9,Rohit Jain,Rohan Gupta,Amazon,Hyderabad,LinkedIn,2026-07-02,2026-07-04,2026-07-09,,,Rejected,2,1595951,1584663,0
+CAND0354,Miguel Wagner,DevOps Engineer,Technology,AWS,2.0,Sneha Rao,Ritika Kapoor,Walmart,Pune,Campus,2025-10-17,2025-10-18,2025-10-23,,,Interview,2,1107325,997395,0
+CAND0355,Michael Ritter,DevOps Engineer,Technology,AWS,0.8,Neha Patel,Rohan Gupta,Deloitte,Chennai,Campus,2026-03-02,2026-03-03,2026-03-06,2026-03-09,,Offered,2,1904671,1935555,0
+CAND0356,Caitlin Watson,QA Engineer,Technology,Testing,7.7,Neha Patel,Vikas Sinha,ServiceNow,Bangalore,Career Portal,2025-11-28,2025-12-01,2025-12-03,,,Rejected,3,716250,740470,0
+CAND0357,Raymond Shelton,Sales Executive,Sales,CRM,0.3,Anjali Kapoor,Vikas Sinha,Google,Noida,Referral,2025-08-31,2025-09-02,,,,Screening,1,2380147,2375591,0
+CAND0358,Maria Jones,Java Developer,Technology,Java,7.0,Sneha Rao,Ritika Kapoor,Deloitte,Noida,Consultancy,2025-09-16,2025-09-19,2025-09-22,2025-09-25,,Offered,2,779811,748242,0
+CAND0359,Jasmine King,Finance Analyst,Finance,Excel,11.3,Neha Patel,Ankit Verma,Amazon,Hyderabad,Consultancy,2026-07-07,2026-07-09,2026-07-11,2026-07-12,,Offered,3,1013203,1023728,0
+CAND0360,Susan Marks,Java Developer,Technology,Java,6.9,Priya Singh,Pooja Nair,Walmart,Hyderabad,LinkedIn,2025-12-18,2025-12-20,2025-12-25,2025-12-27,2026-01-04,Joined,2,1267273,1238990,17
+CAND0361,Matthew Rangel,DevOps Engineer,Technology,AWS,4.7,Priya Singh,Pooja Nair,ServiceNow,Noida,Consultancy,2025-12-09,2025-12-12,2025-12-14,,,Interview,2,1129178,1080057,0
+CAND0362,Melissa Myers,HR Executive,HR,Recruitment,7.7,Amit Verma,Aisha Khan,Walmart,Pune,Campus,2026-03-30,,,,,Applied,0,2422116,2502229,0
+CAND0363,Angela Hansen,Python Developer,Technology,Python,5.5,Vikram Mehta,Ritika Kapoor,Adobe,Bangalore,Consultancy,2026-04-17,2026-04-19,,,,Screening,1,1577800,1470079,0
+CAND0364,Robin Santiago,Sales Executive,Sales,CRM,6.5,Priya Singh,Vikas Sinha,Target,Pune,Career Portal,2026-06-28,2026-06-29,2026-07-02,2026-07-05,,Offered,3,875376,851064,0
+CAND0365,Yolanda Gaines,Data Analyst,Technology,"SQL, Power BI",11.3,Amit Verma,Arjun Mehra,Amazon,Noida,Consultancy,2025-09-16,2025-09-19,2025-09-22,2025-09-23,,Offered,2,1075824,989982,0
+CAND0366,Jessica Cox,QA Engineer,Technology,Testing,4.6,Neha Patel,Aisha Khan,Google,Pune,LinkedIn,2025-12-29,2025-12-31,,,,Withdrawn,0,1308458,1265776,0
+CAND0367,Trevor Peterson,Python Developer,Technology,Python,11.5,Amit Verma,Aisha Khan,Amazon,Noida,Naukri,2026-06-04,2026-06-06,2026-06-08,2026-06-09,2026-06-28,Joined,3,1509480,1396507,24
+CAND0368,Mr. Chad Jones,Python Developer,Technology,Python,10.9,Priya Singh,Arjun Mehra,Adobe,Noida,Consultancy,2026-07-04,2026-07-05,2026-07-10,2026-07-13,2026-08-08,Joined,2,2160747,2212555,35
+CAND0369,Katie Fernandez,Finance Analyst,Finance,Excel,2.3,Priya Singh,Karan Shah,Deloitte,Hyderabad,Consultancy,2026-05-24,2026-05-27,2026-06-01,2026-06-04,2026-06-24,Joined,3,405034,419026,31
+CAND0370,Amanda Rogers,Data Analyst,Technology,"SQL, Power BI",0.8,Anjali Kapoor,Vikas Sinha,Deloitte,Chennai,Referral,2026-06-04,2026-06-05,2026-06-07,,,Interview,2,809854,780556,0
+CAND0371,Linda Moore,Sales Executive,Sales,CRM,1.2,Anjali Kapoor,Pooja Nair,Adobe,Bangalore,Career Portal,2025-10-20,2025-10-21,,,,Screening,1,429838,424120,0
+CAND0372,Patricia Lamb,HR Executive,HR,Recruitment,0.2,Amit Verma,Rohan Gupta,Target,Pune,LinkedIn,2025-10-14,2025-10-16,2025-10-21,2025-10-24,2025-11-11,Joined,3,1049188,1011323,28
+CAND0373,Amanda Diaz,HR Executive,HR,Recruitment,1.1,Amit Verma,Aisha Khan,ANSR Internal,Noida,Campus,2026-05-17,2026-05-19,2026-05-23,2026-05-26,2026-06-13,Joined,3,1149604,1098483,27
+CAND0374,Jeremy Mitchell,Python Developer,Technology,Python,8.2,Priya Singh,Vikas Sinha,Deloitte,Hyderabad,LinkedIn,2026-05-28,2026-05-31,2026-06-02,2026-06-03,2026-06-22,Joined,2,1299502,1268640,25
+CAND0375,Cynthia Allen,Business Analyst,Technology,"Excel, SQL",0.9,Neha Patel,Ankit Verma,Target,Bangalore,LinkedIn,2026-06-21,,,,,Applied,0,1503487,1403152,0
+CAND0376,Stephanie Lee,Data Analyst,Technology,"SQL, Power BI",3.8,Anjali Kapoor,Aisha Khan,ANSR Internal,Pune,Career Portal,2026-05-01,2026-05-04,2026-05-09,,,Rejected,2,641017,667848,0
+CAND0377,Victoria Murray,Data Analyst,Technology,"SQL, Power BI",10.1,Amit Verma,Pooja Nair,Adobe,Bangalore,Consultancy,2025-11-28,2025-11-30,2025-12-03,2025-12-06,2025-12-13,Joined,2,1371698,1361106,15
+CAND0378,Kathryn Barnes,Business Analyst,Technology,"Excel, SQL",0.3,Sneha Rao,Aisha Khan,Walmart,Chennai,Campus,2025-10-12,2025-10-13,2025-10-15,2025-10-18,2025-11-03,Joined,3,1240162,1212458,22
+CAND0379,Rebecca Taylor,DevOps Engineer,Technology,AWS,9.8,Sneha Rao,Vikas Sinha,Adobe,Chennai,Campus,2025-11-16,2025-11-17,2025-11-19,2025-11-22,,Offered,3,419509,393988,0
+CAND0380,John Watson,DevOps Engineer,Technology,AWS,3.4,Priya Singh,Pooja Nair,ANSR Internal,Noida,Referral,2026-08-08,2026-08-09,2026-08-13,2026-08-15,2026-09-12,Joined,3,2257106,2358468,35
+CAND0381,Ryan Rosales,Sales Executive,Sales,CRM,1.4,Rahul Sharma,Ankit Verma,Microsoft,Pune,LinkedIn,2025-11-29,2025-12-02,,,,Withdrawn,0,2005047,1995120,0
+CAND0382,Christopher Cole,Java Developer,Technology,Java,8.4,Rohit Jain,Aisha Khan,Walmart,Noida,Consultancy,2026-02-26,2026-02-28,2026-03-02,,,Interview,2,440782,443040,0
+CAND0383,Jeffrey Potts,DevOps Engineer,Technology,AWS,7.5,Priya Singh,Ritika Kapoor,Deloitte,Pune,Referral,2025-11-05,2025-11-08,2025-11-11,,,Interview,2,1316732,1361695,0
+CAND0384,Stacey Arias,Java Developer,Technology,Java,10.5,Amit Verma,Vikas Sinha,ServiceNow,Hyderabad,Naukri,2026-01-19,2026-01-21,2026-01-24,,,Rejected,1,1250464,1282027,0
+CAND0385,Jonathan Young,Business Analyst,Technology,"Excel, SQL",8.8,Priya Singh,Ankit Verma,Google,Noida,LinkedIn,2025-09-11,2025-09-14,2025-09-18,,,Interview,2,2422879,2315495,0
+CAND0386,Alfred Galvan,Python Developer,Technology,Python,9.6,Sneha Rao,Aisha Khan,Adobe,Noida,Naukri,2026-07-02,2026-07-05,2026-07-07,2026-07-10,,Offered,3,627113,613856,0
+CAND0387,Gabriela Thomas,HR Executive,HR,Recruitment,3.4,Neha Patel,Ankit Verma,Microsoft,Noida,Campus,2025-08-25,,,,,Applied,0,1723937,1729766,0
+CAND0388,Ronald Horton,Java Developer,Technology,Java,2.1,Anjali Kapoor,Karan Shah,Walmart,Pune,Consultancy,2025-10-03,2025-10-05,2025-10-10,,,Interview,2,1489263,1382144,0
+CAND0389,Julie Gilbert,DevOps Engineer,Technology,AWS,9.0,Neha Patel,Ankit Verma,Target,Hyderabad,Campus,2026-07-28,2026-07-30,2026-08-02,2026-08-05,,Offered,2,1961579,1872840,0
+CAND0390,David Conley,Sales Executive,Sales,CRM,9.7,Amit Verma,Karan Shah,ServiceNow,Hyderabad,Consultancy,2026-03-12,2026-03-15,,,,Screening,1,2212856,2275803,0
+CAND0391,Lisa Henderson,Python Developer,Technology,Python,11.9,Vikram Mehta,Arjun Mehra,Amazon,Chennai,Campus,2026-06-08,2026-06-11,2026-06-15,,,Rejected,2,964015,1011573,0
+CAND0392,Eric Williams,QA Engineer,Technology,Testing,5.0,Sneha Rao,Arjun Mehra,Target,Bangalore,Career Portal,2026-01-21,2026-01-23,2026-01-25,,,Rejected,2,1085105,986366,0
+CAND0393,Lisa Brown,DevOps Engineer,Technology,AWS,4.5,Sneha Rao,Rohan Gupta,Walmart,Noida,Consultancy,2026-07-01,2026-07-03,2026-07-06,2026-07-09,,Offered,2,1480934,1409287,0
+CAND0394,Linda Smith,QA Engineer,Technology,Testing,9.3,Rohit Jain,Rohan Gupta,ANSR Internal,Chennai,Career Portal,2026-02-27,2026-03-01,2026-03-06,,,Interview,1,2274560,2350632,0
+CAND0395,Michelle Carter,Python Developer,Technology,Python,4.1,Rohit Jain,Aisha Khan,Target,Bangalore,LinkedIn,2025-08-11,2025-08-14,2025-08-18,,,Interview,2,1079475,1027167,0
+CAND0396,Cynthia Butler,Sales Executive,Sales,CRM,11.2,Anjali Kapoor,Pooja Nair,Deloitte,Pune,Career Portal,2026-04-26,2026-04-27,,,,Screening,1,2288647,2201903,0
+CAND0397,Kelly Ward,Python Developer,Technology,Python,10.3,Amit Verma,Pooja Nair,Microsoft,Hyderabad,Naukri,2026-03-03,,,,,Applied,0,2065329,1890708,0
+CAND0398,Rachel Romero,Recruiter,HR,Talent Acquisition,5.1,Rahul Sharma,Arjun Mehra,Target,Noida,LinkedIn,2025-08-18,2025-08-21,,,,Screening,1,835907,785224,0
+CAND0399,John Reid,HR Executive,HR,Recruitment,9.0,Sneha Rao,Vikas Sinha,Adobe,Pune,Campus,2026-01-02,2026-01-03,2026-01-05,,,Rejected,3,930209,855505,0
+CAND0400,Alan Kramer,DevOps Engineer,Technology,AWS,9.1,Rohit Jain,Ankit Verma,Deloitte,Noida,Referral,2025-12-22,2025-12-25,2025-12-28,,,Rejected,3,2265814,2085154,0
+CAND0401,Matthew Garcia,Sales Executive,Sales,CRM,1.2,Vikram Mehta,Aisha Khan,ANSR Internal,Noida,Referral,2026-03-24,2026-03-25,2026-03-30,,,Interview,2,1856129,1804617,0
+CAND0402,Evelyn Williams,DevOps Engineer,Technology,AWS,10.8,Anjali Kapoor,Pooja Nair,Amazon,Pune,LinkedIn,2026-03-11,2026-03-12,2026-03-16,2026-03-18,2026-04-09,Joined,2,400387,391777,29
+CAND0403,Marvin Greer,Recruiter,HR,Talent Acquisition,6.1,Vikram Mehta,Pooja Nair,Google,Chennai,Referral,2026-05-03,2026-05-04,2026-05-09,2026-05-12,,Offered,3,1369787,1396518,0
+CAND0404,Michael Welch,HR Executive,HR,Recruitment,9.9,Amit Verma,Ritika Kapoor,Target,Chennai,Naukri,2026-06-22,2026-06-25,2026-06-29,2026-07-01,2026-07-28,Joined,3,1503019,1370575,36
+CAND0405,Mike Acevedo,HR Executive,HR,Recruitment,3.8,Amit Verma,Karan Shah,Amazon,Hyderabad,Referral,2025-08-25,2025-08-27,2025-09-01,2025-09-02,2025-09-19,Joined,2,862868,859014,25
+CAND0406,Andrew Gonzalez,Python Developer,Technology,Python,10.7,Rahul Sharma,Arjun Mehra,Amazon,Bangalore,Referral,2025-08-27,2025-08-28,2025-08-31,2025-09-01,,Offered,2,1529086,1404856,0
+CAND0407,Eric Sanders,Data Analyst,Technology,"SQL, Power BI",4.7,Vikram Mehta,Vikas Sinha,Walmart,Chennai,Referral,2026-06-23,2026-06-24,2026-06-28,2026-06-29,,Offered,2,2490423,2614183,0
+CAND0408,Dawn Mullins,Data Analyst,Technology,"SQL, Power BI",0.1,Sneha Rao,Aisha Khan,Microsoft,Noida,Campus,2025-10-24,2025-10-26,2025-10-28,,,Rejected,1,1161701,1079021,0
+CAND0409,Scott Williams,Java Developer,Technology,Java,10.9,Anjali Kapoor,Ankit Verma,Adobe,Bangalore,Naukri,2026-04-22,,,,,Applied,0,2332880,2356904,0
+CAND0410,Caleb Richardson,Java Developer,Technology,Java,1.1,Vikram Mehta,Aisha Khan,ServiceNow,Pune,Naukri,2026-07-22,2026-07-23,2026-07-27,2026-07-29,,Offered,3,576940,583695,0
+CAND0411,Jeremiah Huber,Java Developer,Technology,Java,3.8,Rohit Jain,Arjun Mehra,Adobe,Bangalore,Naukri,2025-12-20,2025-12-22,,,,Screening,1,2221005,2107016,0
+CAND0412,Kathleen Jimenez,Sales Executive,Sales,CRM,11.4,Priya Singh,Aisha Khan,Adobe,Bangalore,LinkedIn,2026-08-04,2026-08-05,,,,Screening,1,2393429,2401233,0
+CAND0413,Debra Miller,Java Developer,Technology,Java,11.4,Neha Patel,Ankit Verma,Microsoft,Noida,Referral,2026-01-22,2026-01-25,2026-01-27,2026-01-28,2026-02-19,Joined,2,651877,592534,28
+CAND0414,Lance Short,DevOps Engineer,Technology,AWS,6.9,Rohit Jain,Ankit Verma,Adobe,Bangalore,Career Portal,2026-03-10,2026-03-11,,,,Screening,1,1984477,1892645,0
+CAND0415,Brian Murphy,Recruiter,HR,Talent Acquisition,7.6,Vikram Mehta,Pooja Nair,ANSR Internal,Chennai,Naukri,2025-12-03,2025-12-05,2025-12-09,,,Interview,1,1182769,1160938,0
+CAND0416,Lance Simmons,Business Analyst,Technology,"Excel, SQL",5.4,Neha Patel,Ankit Verma,ServiceNow,Pune,Consultancy,2026-05-05,2026-05-08,2026-05-13,2026-05-16,2026-05-28,Joined,2,1939782,1877925,23
+CAND0417,Jeremy Acosta,Sales Executive,Sales,CRM,3.5,Rohit Jain,Vikas Sinha,Walmart,Bangalore,Career Portal,2026-07-31,2026-08-03,2026-08-06,2026-08-09,2026-08-25,Joined,3,2025254,1880408,25
+CAND0418,Zachary Hill,HR Executive,HR,Recruitment,3.9,Rohit Jain,Karan Shah,Microsoft,Noida,Career Portal,2026-06-14,2026-06-15,2026-06-17,,,Rejected,1,679675,616170,0
+CAND0419,Angela Walsh,Business Analyst,Technology,"Excel, SQL",8.1,Vikram Mehta,Vikas Sinha,Microsoft,Bangalore,Consultancy,2025-12-30,2026-01-02,2026-01-06,2026-01-07,,Offered,3,2029901,2027238,0
+CAND0420,Nicole Moore,Java Developer,Technology,Java,9.0,Priya Singh,Arjun Mehra,Adobe,Chennai,LinkedIn,2025-08-23,,,,,Applied,0,2363182,2410807,0
+CAND0421,Lawrence Harrington,Finance Analyst,Finance,Excel,9.5,Anjali Kapoor,Rohan Gupta,Google,Noida,Referral,2025-08-24,2025-08-25,2025-08-28,,,Rejected,3,570511,576298,0
+CAND0422,David Brewer,Business Analyst,Technology,"Excel, SQL",9.5,Priya Singh,Vikas Sinha,ANSR Internal,Chennai,Naukri,2025-12-29,2026-01-01,2026-01-04,,,Interview,2,1210001,1184504,0
+CAND0423,Keith Jacobs,Business Analyst,Technology,"Excel, SQL",1.1,Rohit Jain,Ankit Verma,Target,Bangalore,Naukri,2026-05-01,2026-05-04,2026-05-07,2026-05-10,,Offered,3,1156637,1136389,0
+CAND0424,Jacob Wallace,DevOps Engineer,Technology,AWS,5.9,Rohit Jain,Rohan Gupta,Walmart,Chennai,Career Portal,2025-09-09,2025-09-10,2025-09-13,,,Interview,2,2206017,2258792,0
+CAND0425,Kendra Sanders,Finance Analyst,Finance,Excel,0.7,Sneha Rao,Rohan Gupta,Deloitte,Chennai,Campus,2026-04-20,2026-04-23,,,,Withdrawn,0,400820,404406,0
+CAND0426,Tyler Johnson,Data Analyst,Technology,"SQL, Power BI",6.6,Neha Patel,Pooja Nair,Google,Pune,Naukri,2025-10-22,,,,,Applied,0,1301032,1337926,0
+CAND0427,Mr. Justin Green III,QA Engineer,Technology,Testing,5.3,Neha Patel,Karan Shah,Google,Chennai,Referral,2026-01-31,2026-02-03,2026-02-06,,,Interview,1,1054760,971182,0
+CAND0428,Logan Benson,QA Engineer,Technology,Testing,10.7,Sneha Rao,Karan Shah,Target,Noida,Naukri,2026-02-17,2026-02-18,2026-02-23,2026-02-26,2026-03-27,Joined,2,723806,729985,38
+CAND0429,Chad Jones,Sales Executive,Sales,CRM,4.2,Sneha Rao,Arjun Mehra,Target,Bangalore,LinkedIn,2025-10-17,2025-10-19,2025-10-21,,,Rejected,1,1802531,1716351,0
+CAND0430,Jill Miller,Sales Executive,Sales,CRM,1.4,Rahul Sharma,Aisha Khan,Google,Pune,Consultancy,2026-05-02,2026-05-04,2026-05-07,2026-05-08,2026-05-16,Joined,3,572730,542889,14
+CAND0431,Victoria Contreras,Recruiter,HR,Talent Acquisition,1.7,Priya Singh,Vikas Sinha,Target,Pune,Campus,2026-05-13,,,,,Applied,0,1020809,938969,0
+CAND0432,Joshua Vance,Sales Executive,Sales,CRM,9.1,Rahul Sharma,Aisha Khan,ServiceNow,Bangalore,Campus,2026-07-07,2026-07-08,,,,Screening,1,2222387,2258109,0
+CAND0433,Michael Graves,Recruiter,HR,Talent Acquisition,7.4,Amit Verma,Ankit Verma,Target,Noida,Naukri,2025-10-17,2025-10-19,2025-10-23,,,Interview,1,1432829,1341625,0
+CAND0434,Katie Martinez,Business Analyst,Technology,"Excel, SQL",1.2,Anjali Kapoor,Aisha Khan,Walmart,Pune,Naukri,2025-10-28,2025-10-30,2025-11-02,2025-11-04,2025-11-30,Joined,3,1745274,1660940,33
+CAND0435,Cynthia Snyder,Sales Executive,Sales,CRM,1.0,Neha Patel,Ankit Verma,Google,Hyderabad,Naukri,2025-12-29,2025-12-30,2026-01-01,2026-01-04,2026-01-12,Joined,2,1967918,1817172,14
+CAND0436,Jackie Lara,Sales Executive,Sales,CRM,8.4,Neha Patel,Pooja Nair,Google,Pune,Career Portal,2026-03-13,2026-03-15,2026-03-18,2026-03-21,,Offered,2,866733,819728,0
+CAND0437,Stephen Jones,Java Developer,Technology,Java,0.9,Sneha Rao,Ankit Verma,Amazon,Bangalore,Campus,2026-01-12,,,,,Applied,0,582376,546454,0
+CAND0438,Dr. Kelly Hammond DVM,Java Developer,Technology,Java,9.9,Sneha Rao,Arjun Mehra,Deloitte,Bangalore,LinkedIn,2025-09-08,2025-09-11,2025-09-15,2025-09-16,2025-09-23,Joined,3,2030095,2028178,15
+CAND0439,Evan Jones,HR Executive,HR,Recruitment,8.5,Amit Verma,Aisha Khan,ANSR Internal,Bangalore,Referral,2026-02-07,2026-02-08,2026-02-11,2026-02-14,,Offered,3,2432820,2505843,0
+CAND0440,Haley Humphrey,Finance Analyst,Finance,Excel,1.0,Rahul Sharma,Arjun Mehra,Adobe,Noida,Referral,2026-06-10,2026-06-11,2026-06-15,2026-06-18,2026-07-06,Joined,3,1799092,1751397,26
+CAND0441,Laurie Saunders,QA Engineer,Technology,Testing,1.0,Amit Verma,Pooja Nair,Google,Pune,Campus,2025-09-30,2025-10-01,2025-10-04,,,Rejected,2,523588,545379,0
+CAND0442,Thomas Brown,HR Executive,HR,Recruitment,11.8,Neha Patel,Karan Shah,Target,Noida,Career Portal,2025-09-28,2025-09-30,2025-10-04,2025-10-07,2025-10-24,Joined,3,1353902,1303266,26
+CAND0443,Elizabeth Martin,Finance Analyst,Finance,Excel,4.5,Neha Patel,Vikas Sinha,Amazon,Noida,Consultancy,2026-08-09,2026-08-12,2026-08-15,,,Interview,2,1248550,1285242,0
+CAND0444,Hannah Everett,Python Developer,Technology,Python,4.4,Neha Patel,Rohan Gupta,Microsoft,Noida,Consultancy,2026-07-24,2026-07-25,2026-07-27,,,Rejected,2,896552,831659,0
+CAND0445,Blake Gonzalez,HR Executive,HR,Recruitment,9.8,Anjali Kapoor,Pooja Nair,Deloitte,Pune,Naukri,2026-03-12,2026-03-15,,,,Screening,1,1188250,1088455,0
+CAND0446,Mario Mendez,Sales Executive,Sales,CRM,11.4,Sneha Rao,Vikas Sinha,Adobe,Hyderabad,Career Portal,2025-09-16,2025-09-18,2025-09-21,2025-09-24,2025-10-20,Joined,3,509406,485916,34
+CAND0447,Caroline David,DevOps Engineer,Technology,AWS,11.8,Neha Patel,Aisha Khan,Deloitte,Chennai,Naukri,2025-10-09,,,,,Applied,0,1086969,1009782,0
+CAND0448,Marcus Winters,Data Analyst,Technology,"SQL, Power BI",9.0,Sneha Rao,Aisha Khan,Adobe,Hyderabad,Naukri,2025-12-20,2025-12-22,,,,Withdrawn,0,677395,627648,0
+CAND0449,Kristy Bryan,Sales Executive,Sales,CRM,4.5,Vikram Mehta,Rohan Gupta,Deloitte,Hyderabad,Campus,2025-08-22,2025-08-24,2025-08-28,2025-08-30,2025-09-25,Joined,2,2098134,2132610,34
+CAND0450,Travis Wise,Finance Analyst,Finance,Excel,1.0,Priya Singh,Ankit Verma,Deloitte,Bangalore,Naukri,2025-11-21,,,,,Applied,0,2059313,2157283,0
+CAND0451,Pamela Butler,HR Executive,HR,Recruitment,9.3,Rahul Sharma,Vikas Sinha,ServiceNow,Chennai,Campus,2026-04-16,2026-04-17,2026-04-22,,,Interview,2,1677392,1704316,0
+CAND0452,Stephen Gardner,Sales Executive,Sales,CRM,6.7,Rahul Sharma,Ritika Kapoor,Deloitte,Chennai,LinkedIn,2026-04-17,2026-04-20,2026-04-23,2026-04-25,2026-05-15,Joined,3,2499910,2292356,28
+CAND0453,Karen Ballard,Recruiter,HR,Talent Acquisition,5.1,Rahul Sharma,Ritika Kapoor,Deloitte,Noida,Career Portal,2026-05-04,,,,,Applied,0,1246964,1287343,0
+CAND0454,Jesse Barker,DevOps Engineer,Technology,AWS,10.9,Neha Patel,Karan Shah,Microsoft,Bangalore,Career Portal,2025-10-11,,,,,Applied,0,2284913,2273741,0
+CAND0455,John Harris,HR Executive,HR,Recruitment,1.3,Neha Patel,Aisha Khan,ANSR Internal,Chennai,LinkedIn,2026-04-03,2026-04-06,2026-04-09,2026-04-10,2026-04-21,Joined,2,1116743,1157881,18
+CAND0456,Scott Flores,Data Analyst,Technology,"SQL, Power BI",5.9,Anjali Kapoor,Pooja Nair,ServiceNow,Chennai,Referral,2026-07-11,2026-07-12,,,,Screening,1,1157894,1062521,0
+CAND0457,James Hodges,Data Analyst,Technology,"SQL, Power BI",0.1,Sneha Rao,Arjun Mehra,Deloitte,Chennai,Campus,2026-02-26,2026-02-27,2026-03-04,2026-03-06,,Offered,3,424119,420385,0
+CAND0458,Emma Owens,Recruiter,HR,Talent Acquisition,5.6,Priya Singh,Arjun Mehra,Adobe,Noida,Referral,2025-11-22,2025-11-25,,,,Screening,1,1270895,1153131,0
+CAND0459,Charles Williams,DevOps Engineer,Technology,AWS,0.7,Rahul Sharma,Ritika Kapoor,Google,Noida,Consultancy,2026-01-07,,,,,Applied,0,1651754,1568615,0
+CAND0460,Jennifer Estes,Business Analyst,Technology,"Excel, SQL",1.4,Anjali Kapoor,Ritika Kapoor,Amazon,Pune,Consultancy,2026-07-27,2026-07-29,2026-07-31,2026-08-01,2026-08-17,Joined,3,1144150,1195572,21
+CAND0461,Garrett Lane,DevOps Engineer,Technology,AWS,1.4,Anjali Kapoor,Karan Shah,Target,Noida,LinkedIn,2025-12-10,2025-12-12,,,,Screening,1,1628229,1580395,0
+CAND0462,Christopher Ferrell,DevOps Engineer,Technology,AWS,7.8,Anjali Kapoor,Vikas Sinha,Adobe,Noida,LinkedIn,2026-02-08,2026-02-11,,,,Withdrawn,0,858446,846174,0
+CAND0463,Mr. Alexander Landry MD,Business Analyst,Technology,"Excel, SQL",9.0,Vikram Mehta,Pooja Nair,Target,Noida,Referral,2025-11-12,2025-11-14,,,,Withdrawn,0,1489093,1457537,0
+CAND0464,Harry Williams,Python Developer,Technology,Python,7.0,Vikram Mehta,Ankit Verma,Deloitte,Hyderabad,Consultancy,2026-02-19,2026-02-20,,,,Withdrawn,0,1376105,1384758,0
+CAND0465,Sarah Chambers,Business Analyst,Technology,"Excel, SQL",11.5,Rahul Sharma,Ankit Verma,Microsoft,Hyderabad,Consultancy,2025-11-29,2025-12-02,2025-12-05,,,Interview,1,2139093,2058034,0
+CAND0466,Sarah Jordan,Java Developer,Technology,Java,4.5,Sneha Rao,Pooja Nair,Microsoft,Pune,Referral,2026-07-19,2026-07-21,,,,Screening,1,1758635,1785111,0
+CAND0467,Jacob Powell,DevOps Engineer,Technology,AWS,3.4,Anjali Kapoor,Arjun Mehra,Amazon,Hyderabad,Referral,2025-08-28,2025-08-30,2025-09-01,2025-09-04,,Offered,2,1817409,1887092,0
+CAND0468,Kelly Lee,Recruiter,HR,Talent Acquisition,10.4,Neha Patel,Ankit Verma,ANSR Internal,Pune,Campus,2026-03-13,,,,,Applied,0,2136244,2219917,0
+CAND0469,James Cole,Finance Analyst,Finance,Excel,2.7,Sneha Rao,Rohan Gupta,ANSR Internal,Noida,LinkedIn,2026-03-12,2026-03-14,2026-03-16,,,Interview,1,1273516,1256463,0
+CAND0470,William Becker,QA Engineer,Technology,Testing,11.6,Rahul Sharma,Rohan Gupta,Target,Noida,Naukri,2025-09-26,2025-09-28,,,,Screening,1,2033959,1887731,0
+CAND0471,Brent Brooks,DevOps Engineer,Technology,AWS,0.1,Rahul Sharma,Pooja Nair,Target,Bangalore,Campus,2025-12-20,2025-12-22,2025-12-25,,,Rejected,3,1396743,1334919,0
+CAND0472,Holly Thomas,QA Engineer,Technology,Testing,11.6,Neha Patel,Karan Shah,Walmart,Bangalore,Naukri,2026-04-01,,,,,Applied,0,788409,762049,0
+CAND0473,Kathryn Williams,Recruiter,HR,Talent Acquisition,0.5,Neha Patel,Vikas Sinha,Walmart,Chennai,Career Portal,2025-10-03,2025-10-04,,,,Screening,1,1701738,1729527,0
+CAND0474,Regina Stone,Finance Analyst,Finance,Excel,10.7,Neha Patel,Vikas Sinha,Google,Chennai,Campus,2025-10-07,2025-10-10,2025-10-12,,,Rejected,2,885851,797812,0
+CAND0475,Kaylee Murphy,Recruiter,HR,Talent Acquisition,6.3,Rahul Sharma,Karan Shah,ANSR Internal,Pune,LinkedIn,2026-04-06,2026-04-07,2026-04-10,,,Interview,2,1709222,1702090,0
+CAND0476,James Jensen,QA Engineer,Technology,Testing,11.9,Rohit Jain,Ankit Verma,Microsoft,Pune,Naukri,2026-07-04,,,,,Applied,0,1060586,998059,0
+CAND0477,George Clayton,Sales Executive,Sales,CRM,0.9,Priya Singh,Vikas Sinha,ANSR Internal,Pune,Consultancy,2026-03-05,2026-03-07,2026-03-10,,,Rejected,1,1735822,1632814,0
+CAND0478,Justin Wells Jr.,Business Analyst,Technology,"Excel, SQL",6.6,Sneha Rao,Rohan Gupta,ANSR Internal,Chennai,LinkedIn,2025-12-17,2025-12-18,2025-12-20,,,Rejected,2,945569,855124,0
+CAND0479,Veronica Silva,Data Analyst,Technology,"SQL, Power BI",11.6,Priya Singh,Aisha Khan,Target,Hyderabad,Career Portal,2026-06-16,2026-06-17,2026-06-19,,,Interview,2,2269972,2252827,0
+CAND0480,Shelby Soto,Sales Executive,Sales,CRM,6.3,Neha Patel,Karan Shah,Deloitte,Bangalore,Campus,2026-03-30,2026-04-01,2026-04-06,2026-04-07,2026-04-21,Joined,2,1701877,1706423,22
+CAND0481,Walter Patton,Sales Executive,Sales,CRM,7.6,Sneha Rao,Rohan Gupta,Target,Hyderabad,Career Portal,2026-06-08,2026-06-10,2026-06-15,,,Rejected,1,1785495,1818199,0
+CAND0482,Crystal Williams,Business Analyst,Technology,"Excel, SQL",8.3,Vikram Mehta,Karan Shah,Walmart,Chennai,Campus,2026-02-13,2026-02-16,2026-02-19,,,Interview,1,1116393,1052020,0
+CAND0483,Mark Harvey,HR Executive,HR,Recruitment,5.5,Priya Singh,Rohan Gupta,ANSR Internal,Bangalore,Referral,2026-07-03,2026-07-06,2026-07-09,2026-07-12,,Offered,2,2333468,2240415,0
+CAND0484,Roberto Allen,Recruiter,HR,Talent Acquisition,7.5,Anjali Kapoor,Karan Shah,Walmart,Hyderabad,Career Portal,2026-03-21,2026-03-23,2026-03-26,2026-03-27,,Offered,2,2208367,2247338,0
+CAND0485,Ashley Smith,Sales Executive,Sales,CRM,7.0,Vikram Mehta,Karan Shah,Deloitte,Pune,Consultancy,2025-12-10,2025-12-12,,,,Screening,1,809590,828456,0
+CAND0486,Jason Harris,Business Analyst,Technology,"Excel, SQL",10.8,Priya Singh,Aisha Khan,Walmart,Chennai,Career Portal,2026-02-21,2026-02-24,2026-02-26,,,Rejected,1,657875,601021,0
+CAND0487,Tami Salas,Python Developer,Technology,Python,0.5,Vikram Mehta,Pooja Nair,Target,Noida,Consultancy,2026-05-23,2026-05-25,2026-05-29,2026-06-01,2026-06-29,Joined,3,2275524,2114758,37
+CAND0488,Michele Stone,HR Executive,HR,Recruitment,3.4,Rohit Jain,Karan Shah,Google,Noida,Consultancy,2026-03-16,2026-03-17,2026-03-21,,,Rejected,3,2095326,2152204,0
+CAND0489,Matthew Fox,Data Analyst,Technology,"SQL, Power BI",11.4,Rahul Sharma,Rohan Gupta,Microsoft,Pune,LinkedIn,2025-12-10,2025-12-13,2025-12-17,2025-12-20,2026-01-08,Joined,3,1386672,1337801,29
+CAND0490,Julia Patel,HR Executive,HR,Recruitment,10.7,Anjali Kapoor,Vikas Sinha,Amazon,Chennai,Naukri,2026-03-11,2026-03-13,2026-03-18,,,Rejected,1,1189480,1169631,0
+CAND0491,Raymond Le,QA Engineer,Technology,Testing,5.5,Neha Patel,Ritika Kapoor,Google,Bangalore,Career Portal,2026-04-17,2026-04-20,2026-04-25,,,Rejected,1,465883,429357,0
+CAND0492,Deborah Washington,Business Analyst,Technology,"Excel, SQL",7.4,Neha Patel,Aisha Khan,Deloitte,Noida,Campus,2025-11-14,2025-11-16,2025-11-21,2025-11-23,,Offered,2,1154124,1117375,0
+CAND0493,Edwin David,Python Developer,Technology,Python,3.3,Anjali Kapoor,Arjun Mehra,Deloitte,Hyderabad,Career Portal,2025-12-04,2025-12-06,2025-12-08,2025-12-09,,Offered,3,1529318,1470631,0
+CAND0494,Michele Vaughn,DevOps Engineer,Technology,AWS,2.3,Priya Singh,Ankit Verma,Microsoft,Hyderabad,Career Portal,2026-02-16,,,,,Applied,0,1571973,1524405,0
+CAND0495,Gregory Peck,Sales Executive,Sales,CRM,5.6,Priya Singh,Vikas Sinha,Deloitte,Bangalore,Career Portal,2026-06-15,2026-06-18,2026-06-20,,,Rejected,2,1710718,1696956,0
+CAND0496,Donna Berry,Recruiter,HR,Talent Acquisition,4.2,Vikram Mehta,Rohan Gupta,Target,Pune,Referral,2026-03-09,2026-03-12,2026-03-16,2026-03-19,2026-04-13,Joined,3,1613028,1492254,35
+CAND0497,William Cardenas,Data Analyst,Technology,"SQL, Power BI",7.0,Vikram Mehta,Ritika Kapoor,Google,Pune,Career Portal,2026-06-07,,,,,Applied,0,514496,485181,0
+CAND0498,Donna Roberts,Finance Analyst,Finance,Excel,0.9,Priya Singh,Pooja Nair,ServiceNow,Hyderabad,Consultancy,2026-05-15,2026-05-18,2026-05-20,,,Interview,1,1578481,1485796,0
+CAND0499,Thomas Douglas,Sales Executive,Sales,CRM,11.7,Neha Patel,Ankit Verma,Walmart,Hyderabad,Referral,2026-05-28,2026-05-29,2026-06-02,2026-06-03,2026-06-14,Joined,2,1390677,1352764,17
+CAND0500,Dale Ryan,Recruiter,HR,Talent Acquisition,11.8,Anjali Kapoor,Aisha Khan,Adobe,Chennai,Career Portal,2026-08-08,2026-08-10,2026-08-12,2026-08-15,2026-08-30,Joined,2,1101636,1026315,22
+CAND0501,Denise Rodriguez,Data Analyst,Technology,"SQL, Power BI",8.4,Neha Patel,Ankit Verma,Target,Chennai,Referral,2026-05-25,2026-05-28,2026-05-31,2026-06-02,2026-06-30,Joined,3,2397605,2426190,36
+CAND0502,Dana Santiago,Recruiter,HR,Talent Acquisition,6.4,Sneha Rao,Ritika Kapoor,ANSR Internal,Chennai,LinkedIn,2026-03-05,2026-03-08,2026-03-12,2026-03-15,,Offered,2,1611282,1674256,0
+CAND0503,David Garcia,Business Analyst,Technology,"Excel, SQL",3.7,Rohit Jain,Aisha Khan,ServiceNow,Pune,Referral,2025-12-17,2025-12-20,2025-12-25,,,Interview,2,1520247,1551180,0
+CAND0504,Ashlee Townsend,Java Developer,Technology,Java,9.8,Amit Verma,Rohan Gupta,Amazon,Pune,Consultancy,2025-08-13,2025-08-14,2025-08-19,,,Rejected,1,444367,444775,0
+CAND0505,Vanessa Moore,Finance Analyst,Finance,Excel,8.2,Priya Singh,Ankit Verma,Walmart,Hyderabad,Career Portal,2026-04-21,,,,,Applied,0,1588233,1489420,0
+CAND0506,Sherry Woods,Sales Executive,Sales,CRM,2.0,Priya Singh,Arjun Mehra,Adobe,Noida,Career Portal,2025-10-27,2025-10-30,,,,Screening,1,910824,916481,0
+CAND0507,Donna Mitchell,Python Developer,Technology,Python,10.9,Anjali Kapoor,Ritika Kapoor,Microsoft,Hyderabad,Referral,2025-09-02,2025-09-05,2025-09-10,,,Rejected,2,1635510,1586515,0
+CAND0508,Ann Andrews,HR Executive,HR,Recruitment,9.9,Rohit Jain,Pooja Nair,Amazon,Bangalore,Referral,2026-03-06,2026-03-07,2026-03-11,,,Interview,2,661671,633496,0
+CAND0509,Sarah Johnson,Python Developer,Technology,Python,11.4,Vikram Mehta,Karan Shah,Deloitte,Hyderabad,Consultancy,2026-08-03,2026-08-04,2026-08-09,2026-08-10,,Offered,2,2046828,1896931,0
+CAND0510,Stephen Thompson,Recruiter,HR,Talent Acquisition,8.7,Sneha Rao,Karan Shah,Google,Bangalore,LinkedIn,2026-08-03,,,,,Applied,0,1451077,1475143,0
+CAND0511,Russell French,Recruiter,HR,Talent Acquisition,7.4,Neha Patel,Arjun Mehra,Google,Chennai,Referral,2025-10-22,2025-10-25,2025-10-27,,,Rejected,3,1035887,1041075,0
+CAND0512,Tonya Howe,Recruiter,HR,Talent Acquisition,5.0,Vikram Mehta,Aisha Khan,Target,Bangalore,Consultancy,2026-07-17,2026-07-19,,,,Withdrawn,0,1347270,1213211,0
+CAND0513,Edwin Morrison,Business Analyst,Technology,"Excel, SQL",11.2,Rohit Jain,Rohan Gupta,ServiceNow,Chennai,LinkedIn,2026-08-06,2026-08-08,2026-08-10,,,Rejected,2,780284,745017,0
+CAND0514,Mrs. Virginia Daniels,QA Engineer,Technology,Testing,10.4,Amit Verma,Ritika Kapoor,ANSR Internal,Bangalore,Campus,2026-02-18,2026-02-19,2026-02-23,,,Interview,2,1201125,1134859,0
+CAND0515,Brandi Gordon,Business Analyst,Technology,"Excel, SQL",0.5,Vikram Mehta,Vikas Sinha,Amazon,Bangalore,Naukri,2025-11-24,2025-11-26,2025-12-01,2025-12-02,2025-12-26,Joined,3,506386,510417,32
+CAND0516,Brian Martin,Recruiter,HR,Talent Acquisition,0.3,Vikram Mehta,Arjun Mehra,Google,Pune,LinkedIn,2026-02-05,,,,,Applied,0,1816494,1849493,0
+CAND0517,Michelle Smith,Business Analyst,Technology,"Excel, SQL",4.5,Amit Verma,Ankit Verma,ANSR Internal,Hyderabad,Career Portal,2025-12-19,,,,,Applied,0,1377212,1430540,0
+CAND0518,Laura Todd,Python Developer,Technology,Python,9.7,Vikram Mehta,Arjun Mehra,Deloitte,Noida,LinkedIn,2025-10-18,2025-10-19,,,,Screening,1,1417884,1425249,0
+CAND0519,Margaret Sullivan,Data Analyst,Technology,"SQL, Power BI",11.8,Sneha Rao,Karan Shah,Deloitte,Noida,Naukri,2026-01-24,2026-01-26,,,,Screening,1,668257,683406,0
+CAND0520,Angie Caldwell,Sales Executive,Sales,CRM,1.8,Amit Verma,Karan Shah,Adobe,Chennai,Referral,2025-10-21,2025-10-24,,,,Withdrawn,0,2086146,1978991,0
+CAND0521,Mrs. Taylor Smith,Finance Analyst,Finance,Excel,7.1,Neha Patel,Rohan Gupta,Adobe,Bangalore,Consultancy,2026-01-06,2026-01-07,,,,Screening,1,1127492,1071484,0
+CAND0522,Paul Finley,HR Executive,HR,Recruitment,4.6,Neha Patel,Rohan Gupta,ANSR Internal,Hyderabad,Campus,2025-12-06,,,,,Applied,0,1421919,1477162,0
+CAND0523,Laura Green,Business Analyst,Technology,"Excel, SQL",11.6,Anjali Kapoor,Ritika Kapoor,Google,Chennai,LinkedIn,2025-12-28,2025-12-31,2026-01-04,,,Rejected,2,426632,384431,0
+CAND0524,Amy Wilson,Recruiter,HR,Talent Acquisition,10.1,Neha Patel,Vikas Sinha,Amazon,Pune,Consultancy,2025-12-08,2025-12-11,2025-12-13,,,Rejected,3,2289194,2201757,0
+CAND0525,Michael Leblanc,Python Developer,Technology,Python,10.1,Vikram Mehta,Karan Shah,ServiceNow,Pune,Campus,2026-07-21,2026-07-24,,,,Screening,1,419168,412317,0
+CAND0526,Emily Wilson,Business Analyst,Technology,"Excel, SQL",5.6,Rohit Jain,Vikas Sinha,Deloitte,Hyderabad,Referral,2026-08-01,2026-08-04,2026-08-09,2026-08-11,2026-08-23,Joined,2,622587,578419,22
+CAND0527,Holly Walker,Data Analyst,Technology,"SQL, Power BI",5.0,Rahul Sharma,Rohan Gupta,ServiceNow,Hyderabad,Campus,2025-10-01,2025-10-03,2025-10-05,,,Rejected,1,1454371,1381862,0
+CAND0528,Jesse Zhang,Data Analyst,Technology,"SQL, Power BI",3.3,Neha Patel,Ritika Kapoor,Google,Chennai,Consultancy,2026-01-03,2026-01-05,2026-01-09,,,Interview,2,886812,807556,0
+CAND0529,Joshua Ruiz,Java Developer,Technology,Java,0.7,Rohit Jain,Vikas Sinha,Microsoft,Pune,Naukri,2026-03-07,2026-03-08,2026-03-13,2026-03-14,,Offered,2,811310,759035,0
+CAND0530,Samantha Gill,Recruiter,HR,Talent Acquisition,10.4,Vikram Mehta,Arjun Mehra,Target,Hyderabad,Naukri,2026-05-02,2026-05-04,2026-05-07,,,Interview,2,2308370,2139187,0
+CAND0531,Shelley Miller,QA Engineer,Technology,Testing,9.8,Amit Verma,Rohan Gupta,Amazon,Bangalore,Career Portal,2026-01-31,2026-02-02,,,,Screening,1,650197,612544,0
+CAND0532,Heidi Stark,Recruiter,HR,Talent Acquisition,12.0,Anjali Kapoor,Ritika Kapoor,Walmart,Hyderabad,Referral,2025-09-23,2025-09-26,2025-09-29,2025-10-02,2025-10-26,Joined,2,1057617,1077111,33
+CAND0533,Joshua Wagner,Business Analyst,Technology,"Excel, SQL",12.0,Anjali Kapoor,Ankit Verma,Adobe,Noida,Campus,2026-03-21,2026-03-24,2026-03-27,2026-03-28,2026-04-14,Joined,3,2340968,2204900,24
+CAND0534,Carmen Bond,Sales Executive,Sales,CRM,6.7,Amit Verma,Ritika Kapoor,Google,Chennai,LinkedIn,2026-01-29,2026-02-01,2026-02-03,2026-02-05,2026-02-28,Joined,3,568018,595675,30
+CAND0535,Daniel Aguilar,Recruiter,HR,Talent Acquisition,9.2,Priya Singh,Ankit Verma,Deloitte,Hyderabad,LinkedIn,2025-09-15,2025-09-16,2025-09-19,2025-09-21,,Offered,3,452105,453901,0
+CAND0536,Jill Brown,Java Developer,Technology,Java,11.3,Priya Singh,Arjun Mehra,Deloitte,Pune,Naukri,2025-10-01,2025-10-02,2025-10-07,2025-10-09,2025-10-20,Joined,3,2326371,2393110,19
+CAND0537,Joyce Brown,Python Developer,Technology,Python,10.2,Rohit Jain,Ankit Verma,Google,Bangalore,Campus,2026-02-06,2026-02-08,2026-02-11,,,Interview,1,1796309,1759732,0
+CAND0538,Elizabeth Johnson,Sales Executive,Sales,CRM,3.0,Rohit Jain,Arjun Mehra,ANSR Internal,Pune,LinkedIn,2025-11-17,2025-11-18,2025-11-22,2025-11-24,,Offered,2,865427,828597,0
+CAND0539,Nichole Lane,Finance Analyst,Finance,Excel,5.4,Priya Singh,Vikas Sinha,Amazon,Pune,Naukri,2025-08-28,2025-08-31,2025-09-03,2025-09-06,2025-09-20,Joined,3,876295,873977,23
+CAND0540,Michael Weaver,DevOps Engineer,Technology,AWS,1.5,Sneha Rao,Aisha Khan,ServiceNow,Bangalore,LinkedIn,2025-09-03,2025-09-06,2025-09-08,2025-09-10,,Offered,3,1963694,1869012,0
+CAND0541,Andrea Peck,Recruiter,HR,Talent Acquisition,11.4,Rohit Jain,Karan Shah,Adobe,Chennai,LinkedIn,2025-08-23,2025-08-24,,,,Screening,1,736259,705779,0
+CAND0542,Christopher Taylor,Business Analyst,Technology,"Excel, SQL",7.3,Neha Patel,Pooja Nair,Microsoft,Hyderabad,Campus,2026-04-17,2026-04-20,2026-04-22,2026-04-24,,Offered,3,1031234,1063459,0
+CAND0543,Maria Fisher,Finance Analyst,Finance,Excel,2.7,Neha Patel,Ankit Verma,Walmart,Chennai,Campus,2026-07-23,,,,,Applied,0,490103,462523,0
+CAND0544,Sergio Knox,Java Developer,Technology,Java,8.1,Rohit Jain,Aisha Khan,Walmart,Pune,Campus,2026-01-03,2026-01-05,2026-01-08,2026-01-10,2026-01-24,Joined,3,2267540,2196568,21
+CAND0545,Victor Baxter,DevOps Engineer,Technology,AWS,7.4,Sneha Rao,Arjun Mehra,Amazon,Pune,Referral,2025-10-01,2025-10-02,2025-10-06,2025-10-07,2025-10-19,Joined,2,2312294,2412721,18
+CAND0546,Hannah White,Python Developer,Technology,Python,4.3,Amit Verma,Karan Shah,Google,Pune,Consultancy,2026-03-07,2026-03-08,2026-03-10,,,Interview,2,930468,898956,0
+CAND0547,Cameron Irwin,DevOps Engineer,Technology,AWS,1.4,Neha Patel,Rohan Gupta,Deloitte,Noida,Naukri,2026-07-01,,,,,Applied,0,1664833,1528688,0
+CAND0548,Alexander Evans,Recruiter,HR,Talent Acquisition,8.1,Neha Patel,Ankit Verma,Walmart,Hyderabad,LinkedIn,2026-04-29,2026-05-01,2026-05-04,,,Interview,2,1789491,1784277,0
+CAND0549,Jessica Gray,DevOps Engineer,Technology,AWS,6.2,Priya Singh,Ankit Verma,Google,Hyderabad,Career Portal,2025-11-08,2025-11-09,2025-11-14,2025-11-16,,Offered,2,890213,842330,0
+CAND0550,Gregory Hill,DevOps Engineer,Technology,AWS,9.3,Rahul Sharma,Vikas Sinha,ANSR Internal,Hyderabad,Referral,2026-08-10,2026-08-12,2026-08-14,2026-08-17,,Offered,3,1220891,1102931,0
+CAND0551,Pamela Johnson,Java Developer,Technology,Java,6.2,Vikram Mehta,Rohan Gupta,ANSR Internal,Bangalore,Career Portal,2026-04-24,2026-04-26,2026-04-30,2026-05-02,2026-05-20,Joined,2,1914415,1837137,26
+CAND0552,Ralph Stephenson,QA Engineer,Technology,Testing,10.2,Rohit Jain,Rohan Gupta,ServiceNow,Chennai,Consultancy,2025-08-17,2025-08-20,2025-08-25,,,Rejected,2,767415,715502,0
+CAND0553,Austin Wheeler,QA Engineer,Technology,Testing,6.6,Neha Patel,Aisha Khan,Target,Hyderabad,Consultancy,2026-01-31,2026-02-03,2026-02-07,,,Interview,1,761037,701330,0
+CAND0554,Michele Williams,Sales Executive,Sales,CRM,6.7,Anjali Kapoor,Karan Shah,Google,Chennai,Career Portal,2026-05-25,2026-05-28,2026-05-31,2026-06-01,2026-06-13,Joined,3,1546424,1487933,19
+CAND0555,Jeffrey Fernandez,QA Engineer,Technology,Testing,10.5,Vikram Mehta,Arjun Mehra,ServiceNow,Noida,Referral,2026-05-30,2026-05-31,2026-06-02,2026-06-03,,Offered,3,2472407,2432581,0
+CAND0556,Amy Gordon,QA Engineer,Technology,Testing,4.8,Vikram Mehta,Karan Shah,ServiceNow,Chennai,Naukri,2025-12-01,2025-12-02,2025-12-04,2025-12-06,2025-12-28,Joined,2,2463121,2551840,27
+CAND0557,Thomas Johnston,Sales Executive,Sales,CRM,1.6,Rohit Jain,Ankit Verma,Target,Pune,Career Portal,2026-03-23,2026-03-25,2026-03-27,,,Rejected,2,2396659,2507237,0
+CAND0558,Megan Flores,Python Developer,Technology,Python,0.3,Rahul Sharma,Ritika Kapoor,Walmart,Chennai,Career Portal,2025-12-06,,,,,Applied,0,968317,923394,0
+CAND0559,Victoria Boyd,DevOps Engineer,Technology,AWS,9.1,Anjali Kapoor,Rohan Gupta,Google,Pune,Referral,2026-01-18,2026-01-19,2026-01-21,2026-01-24,2026-02-05,Joined,3,722234,705680,18
+CAND0560,Antonio Fry,DevOps Engineer,Technology,AWS,7.4,Sneha Rao,Pooja Nair,Walmart,Bangalore,Consultancy,2026-07-18,,,,,Applied,0,1874840,1918893,0
+CAND0561,Casey Shelton,Finance Analyst,Finance,Excel,8.4,Sneha Rao,Rohan Gupta,Deloitte,Chennai,Referral,2026-03-14,2026-03-15,,,,Screening,1,1083793,992063,0
+CAND0562,William David DDS,Java Developer,Technology,Java,2.6,Priya Singh,Aisha Khan,Deloitte,Bangalore,LinkedIn,2026-06-12,2026-06-14,2026-06-18,2026-06-19,,Offered,3,950427,987029,0
+CAND0563,Melissa Russell,Sales Executive,Sales,CRM,1.6,Rohit Jain,Ritika Kapoor,ServiceNow,Bangalore,Career Portal,2025-12-05,2025-12-06,2025-12-09,,,Rejected,2,897431,837620,0
+CAND0564,Paul Wells,Python Developer,Technology,Python,0.2,Amit Verma,Ritika Kapoor,Microsoft,Chennai,Career Portal,2026-07-06,2026-07-08,2026-07-10,2026-07-11,2026-07-21,Joined,2,868596,791864,15
+CAND0565,Scott Thomas,Finance Analyst,Finance,Excel,4.2,Rahul Sharma,Ankit Verma,Microsoft,Pune,LinkedIn,2026-02-06,,,,,Applied,0,677861,640745,0
+CAND0566,Kristina Faulkner,Business Analyst,Technology,"Excel, SQL",7.1,Priya Singh,Vikas Sinha,Adobe,Hyderabad,Career Portal,2026-03-15,2026-03-18,,,,Screening,1,1874439,1695221,0
+CAND0567,Jasmine Scott,QA Engineer,Technology,Testing,4.7,Rohit Jain,Rohan Gupta,Amazon,Noida,Career Portal,2025-12-17,,,,,Applied,0,1414277,1379961,0
+CAND0568,Tammy Boone,Sales Executive,Sales,CRM,5.2,Rahul Sharma,Vikas Sinha,Adobe,Pune,Naukri,2025-09-15,,,,,Applied,0,418156,437406,0
+CAND0569,Sandra Williams,Java Developer,Technology,Java,10.8,Vikram Mehta,Rohan Gupta,Amazon,Chennai,Career Portal,2026-01-04,2026-01-06,2026-01-11,,,Interview,1,850151,788198,0
+CAND0570,Lindsey Russo,Finance Analyst,Finance,Excel,4.2,Amit Verma,Aisha Khan,Microsoft,Pune,LinkedIn,2025-10-23,2025-10-25,,,,Screening,1,2354133,2157674,0
+CAND0571,Laurie Powers,QA Engineer,Technology,Testing,6.2,Rahul Sharma,Karan Shah,Walmart,Chennai,LinkedIn,2025-11-03,2025-11-05,2025-11-10,2025-11-11,2025-12-05,Joined,3,2013888,1898173,32
+CAND0572,Sean Cook,QA Engineer,Technology,Testing,9.4,Anjali Kapoor,Vikas Sinha,Microsoft,Chennai,Career Portal,2026-07-30,2026-08-01,,,,Withdrawn,0,1941160,1799250,0
+CAND0573,Timothy Hayden,Business Analyst,Technology,"Excel, SQL",4.8,Anjali Kapoor,Ankit Verma,ANSR Internal,Bangalore,LinkedIn,2025-09-25,2025-09-26,2025-09-29,2025-09-30,2025-10-18,Joined,2,1001327,960494,23
+CAND0574,Nicole Rocha,DevOps Engineer,Technology,AWS,7.5,Amit Verma,Aisha Khan,Microsoft,Hyderabad,Campus,2026-05-08,2026-05-11,2026-05-15,2026-05-18,2026-06-06,Joined,3,2493419,2348246,29
+CAND0575,Christine Herman,Recruiter,HR,Talent Acquisition,10.3,Anjali Kapoor,Ankit Verma,ANSR Internal,Pune,Naukri,2026-03-13,2026-03-15,2026-03-18,,,Interview,1,2306876,2113572,0
+CAND0576,Douglas Owens,Data Analyst,Technology,"SQL, Power BI",11.4,Priya Singh,Arjun Mehra,Microsoft,Chennai,Career Portal,2026-04-19,2026-04-22,2026-04-26,,,Interview,1,512192,535655,0
+CAND0577,Dennis Hunt,QA Engineer,Technology,Testing,1.8,Priya Singh,Karan Shah,ANSR Internal,Chennai,Campus,2026-02-20,2026-02-23,2026-02-27,2026-03-02,,Offered,3,1246963,1177176,0
+CAND0578,Robert Bowen,Finance Analyst,Finance,Excel,11.1,Rahul Sharma,Arjun Mehra,Target,Bangalore,Campus,2026-06-02,2026-06-04,2026-06-06,,,Interview,1,2287921,2167081,0
+CAND0579,Suzanne Wood,Python Developer,Technology,Python,5.9,Sneha Rao,Ritika Kapoor,Deloitte,Chennai,Naukri,2026-01-18,2026-01-19,2026-01-24,2026-01-27,,Offered,3,1710550,1723137,0
+CAND0580,Sean Figueroa,Recruiter,HR,Talent Acquisition,3.1,Neha Patel,Arjun Mehra,Target,Pune,Campus,2025-08-17,2025-08-19,2025-08-23,,,Interview,1,1984598,1969794,0
+CAND0581,Timothy Riley,Data Analyst,Technology,"SQL, Power BI",5.5,Rahul Sharma,Ritika Kapoor,Walmart,Pune,Career Portal,2026-01-20,2026-01-22,2026-01-24,2026-01-26,2026-02-13,Joined,3,512826,520405,24
+CAND0582,Craig Hall,HR Executive,HR,Recruitment,11.8,Rohit Jain,Arjun Mehra,Adobe,Hyderabad,Naukri,2026-03-20,2026-03-21,2026-03-25,,,Rejected,1,1709040,1690035,0
+CAND0583,Kathryn Pena,DevOps Engineer,Technology,AWS,5.9,Neha Patel,Arjun Mehra,ANSR Internal,Pune,LinkedIn,2026-05-03,2026-05-06,2026-05-11,2026-05-13,,Offered,2,2333194,2330079,0
+CAND0584,Phillip Burns,Recruiter,HR,Talent Acquisition,3.9,Rahul Sharma,Rohan Gupta,Target,Noida,Campus,2026-05-19,2026-05-20,2026-05-23,,,Rejected,2,1752333,1727591,0
+CAND0585,Katherine Jackson,Recruiter,HR,Talent Acquisition,7.6,Rohit Jain,Ritika Kapoor,ServiceNow,Pune,Campus,2026-06-15,2026-06-16,2026-06-19,,,Rejected,2,1246237,1214511,0
+CAND0586,Charles Payne,QA Engineer,Technology,Testing,2.9,Rahul Sharma,Pooja Nair,Target,Hyderabad,Consultancy,2025-10-21,2025-10-24,2025-10-28,2025-10-30,2025-11-08,Joined,3,785699,791714,18
+CAND0587,Kimberly May,HR Executive,HR,Recruitment,0.9,Amit Verma,Rohan Gupta,Microsoft,Pune,Consultancy,2025-09-02,2025-09-03,2025-09-08,2025-09-10,,Offered,3,1657909,1599777,0
+CAND0588,Sara Jones,Sales Executive,Sales,CRM,1.5,Vikram Mehta,Ritika Kapoor,Google,Noida,Naukri,2026-06-24,2026-06-27,,,,Withdrawn,0,2493811,2324089,0
+CAND0589,Pamela Gutierrez,Recruiter,HR,Talent Acquisition,1.5,Sneha Rao,Aisha Khan,Google,Noida,Naukri,2026-07-04,2026-07-07,2026-07-11,,,Interview,2,1927878,1868832,0
+CAND0590,Andrea Hernandez,HR Executive,HR,Recruitment,1.8,Rohit Jain,Karan Shah,Adobe,Chennai,Referral,2025-11-03,2025-11-06,2025-11-09,,,Interview,2,1603952,1598990,0
+CAND0591,Jacqueline Williamson,Java Developer,Technology,Java,1.7,Priya Singh,Ritika Kapoor,Adobe,Bangalore,Naukri,2026-04-26,2026-04-28,2026-05-03,2026-05-06,2026-05-14,Joined,2,1702501,1650785,18
+CAND0592,Susan Hopkins,Python Developer,Technology,Python,7.7,Sneha Rao,Ritika Kapoor,Google,Pune,Referral,2025-08-17,,,,,Applied,0,1138135,1134315,0
+CAND0593,Juan Smith,Recruiter,HR,Talent Acquisition,2.2,Rahul Sharma,Arjun Mehra,Microsoft,Pune,Consultancy,2026-03-04,2026-03-06,2026-03-10,,,Rejected,3,1649815,1699434,0
+CAND0594,Kimberly Mitchell,Business Analyst,Technology,"Excel, SQL",4.1,Anjali Kapoor,Ritika Kapoor,Adobe,Bangalore,Consultancy,2026-02-22,2026-02-25,2026-03-01,2026-03-03,,Offered,2,2498194,2597972,0
+CAND0595,Megan Drake,Java Developer,Technology,Java,10.8,Priya Singh,Rohan Gupta,Walmart,Noida,Career Portal,2026-07-30,2026-08-01,2026-08-04,2026-08-05,2026-08-15,Joined,2,2035571,2078066,16
+CAND0596,Thomas Warren,Java Developer,Technology,Java,5.7,Sneha Rao,Ankit Verma,Target,Pune,Consultancy,2025-11-12,2025-11-13,2025-11-17,,,Interview,2,634568,617786,0
+CAND0597,Joseph Ochoa,Recruiter,HR,Talent Acquisition,8.0,Amit Verma,Pooja Nair,Amazon,Pune,Campus,2025-11-22,,,,,Applied,0,1942410,1987483,0
+CAND0598,Angela Chung,Sales Executive,Sales,CRM,2.1,Rahul Sharma,Arjun Mehra,Adobe,Pune,Consultancy,2026-02-05,2026-02-07,,,,Withdrawn,0,2013507,1905563,0
+CAND0599,Wanda Perez,Business Analyst,Technology,"Excel, SQL",2.3,Amit Verma,Ankit Verma,Target,Bangalore,Campus,2026-05-03,2026-05-04,2026-05-08,,,Rejected,1,1471785,1391032,0
+CAND0600,Angela Frey,Python Developer,Technology,Python,0.5,Vikram Mehta,Rohan Gupta,Target,Bangalore,Referral,2026-04-20,2026-04-22,2026-04-27,,,Rejected,2,735940,753219,0
+CAND0601,Anna Gray,HR Executive,HR,Recruitment,2.0,Priya Singh,Ritika Kapoor,ServiceNow,Noida,LinkedIn,2026-03-13,2026-03-16,2026-03-20,2026-03-22,2026-04-20,Joined,2,1875792,1806632,38
+CAND0602,Mark Warner,Data Analyst,Technology,"SQL, Power BI",3.3,Neha Patel,Ankit Verma,Amazon,Bangalore,Campus,2025-09-12,2025-09-13,2025-09-15,,,Interview,1,1239176,1232043,0
+CAND0603,Mr. Richard Knight PhD,Java Developer,Technology,Java,2.1,Neha Patel,Aisha Khan,Walmart,Chennai,Campus,2025-09-17,2025-09-19,2025-09-23,2025-09-24,2025-10-03,Joined,3,959980,901519,16
+CAND0604,Tamara Hall,DevOps Engineer,Technology,AWS,1.1,Neha Patel,Aisha Khan,Target,Noida,Naukri,2026-07-27,2026-07-30,2026-08-02,,,Rejected,1,486967,507524,0
+CAND0605,Stacy Alvarez,Recruiter,HR,Talent Acquisition,1.4,Amit Verma,Pooja Nair,Amazon,Bangalore,Campus,2025-08-29,2025-08-31,,,,Screening,1,2198951,2177091,0
+CAND0606,Melinda Ramirez,Python Developer,Technology,Python,5.5,Priya Singh,Arjun Mehra,ANSR Internal,Chennai,Campus,2026-03-09,2026-03-10,2026-03-14,2026-03-16,2026-04-15,Joined,3,2472611,2269305,37
+CAND0607,Amanda Mcfarland,HR Executive,HR,Recruitment,2.5,Neha Patel,Aisha Khan,Adobe,Noida,Naukri,2025-12-11,2025-12-12,,,,Screening,1,1586850,1601141,0
+CAND0608,Daniel Thomas,HR Executive,HR,Recruitment,4.4,Neha Patel,Arjun Mehra,ServiceNow,Pune,Naukri,2026-06-25,2026-06-28,2026-07-03,,,Interview,1,2291533,2374255,0
+CAND0609,Jennifer Jones,Data Analyst,Technology,"SQL, Power BI",6.0,Vikram Mehta,Ritika Kapoor,Walmart,Chennai,Career Portal,2025-10-13,2025-10-16,2025-10-20,2025-10-21,2025-10-31,Joined,2,1290105,1299136,18
+CAND0610,Lacey Atkinson,Data Analyst,Technology,"SQL, Power BI",8.3,Rohit Jain,Vikas Sinha,Deloitte,Pune,Consultancy,2026-04-30,2026-05-02,2026-05-06,2026-05-08,,Offered,3,590890,532276,0
+CAND0611,Evelyn Campos,Python Developer,Technology,Python,0.5,Rahul Sharma,Ritika Kapoor,ServiceNow,Hyderabad,Consultancy,2025-10-04,2025-10-05,2025-10-07,,,Rejected,2,2467120,2564692,0
+CAND0612,Melissa Miller,Finance Analyst,Finance,Excel,9.6,Anjali Kapoor,Ritika Kapoor,ServiceNow,Bangalore,Referral,2026-05-27,2026-05-29,2026-06-02,2026-06-04,,Offered,3,585229,612604,0
+CAND0613,Amy Kim,QA Engineer,Technology,Testing,7.5,Sneha Rao,Rohan Gupta,Target,Hyderabad,Referral,2026-07-02,2026-07-05,,,,Screening,1,2460555,2496359,0
+CAND0614,Larry Austin,Recruiter,HR,Talent Acquisition,1.0,Rahul Sharma,Vikas Sinha,Amazon,Bangalore,Naukri,2026-03-30,2026-04-02,2026-04-07,,,Interview,2,1168150,1057618,0
+CAND0615,Raymond Johnson,Business Analyst,Technology,"Excel, SQL",10.5,Vikram Mehta,Arjun Mehra,Deloitte,Pune,Career Portal,2025-11-25,2025-11-28,,,,Screening,1,2435074,2358768,0
+CAND0616,Joanne Perez,Python Developer,Technology,Python,11.1,Priya Singh,Rohan Gupta,Microsoft,Hyderabad,Referral,2026-03-13,2026-03-15,2026-03-18,2026-03-21,2026-03-28,Joined,2,1157721,1186945,15
+CAND0617,Jessica Frazier,HR Executive,HR,Recruitment,0.7,Priya Singh,Vikas Sinha,Deloitte,Bangalore,Referral,2026-04-24,2026-04-25,,,,Withdrawn,0,508893,479704,0
+CAND0618,Raymond Phillips,HR Executive,HR,Recruitment,3.3,Rohit Jain,Karan Shah,Walmart,Hyderabad,LinkedIn,2025-11-14,2025-11-16,2025-11-21,2025-11-24,2025-12-09,Joined,2,740003,717088,25
+CAND0619,Angela Moore,DevOps Engineer,Technology,AWS,9.7,Rahul Sharma,Ankit Verma,Walmart,Noida,Naukri,2026-05-14,2026-05-16,2026-05-20,,,Rejected,1,1286536,1324478,0
+CAND0620,Brittany Price,Business Analyst,Technology,"Excel, SQL",9.0,Anjali Kapoor,Karan Shah,Target,Pune,Naukri,2025-12-29,2025-12-30,2026-01-01,,,Rejected,1,1406969,1469941,0
+CAND0621,Aaron Parker,Python Developer,Technology,Python,2.2,Anjali Kapoor,Aisha Khan,ServiceNow,Hyderabad,LinkedIn,2025-12-28,2025-12-30,2026-01-02,2026-01-04,,Offered,2,1652195,1608621,0
+CAND0622,Ashley Miller,DevOps Engineer,Technology,AWS,2.5,Amit Verma,Ankit Verma,Deloitte,Chennai,Campus,2026-01-25,2026-01-27,2026-01-31,2026-02-03,,Offered,2,1526084,1502366,0
+CAND0623,Justin Russell,HR Executive,HR,Recruitment,4.4,Anjali Kapoor,Karan Shah,Google,Noida,Referral,2025-08-21,2025-08-24,2025-08-27,2025-08-29,2025-09-21,Joined,2,2344164,2347600,31
+CAND0624,Julian Carlson,QA Engineer,Technology,Testing,5.8,Vikram Mehta,Aisha Khan,Microsoft,Chennai,Referral,2026-06-11,2026-06-13,2026-06-16,2026-06-19,2026-07-09,Joined,3,1023300,1072037,28
+CAND0625,James Carter,Sales Executive,Sales,CRM,7.4,Rahul Sharma,Karan Shah,Google,Noida,LinkedIn,2026-01-08,2026-01-11,2026-01-15,2026-01-17,,Offered,3,2182216,2099189,0
+CAND0626,Misty Hansen,Sales Executive,Sales,CRM,4.4,Priya Singh,Arjun Mehra,Microsoft,Chennai,Naukri,2025-11-13,,,,,Applied,0,1164236,1195014,0
+CAND0627,Carolyn James,HR Executive,HR,Recruitment,5.6,Sneha Rao,Rohan Gupta,Deloitte,Chennai,Consultancy,2025-10-03,2025-10-04,2025-10-07,,,Rejected,1,1511802,1438026,0
+CAND0628,Derrick Thomas,Business Analyst,Technology,"Excel, SQL",9.0,Sneha Rao,Karan Shah,Target,Noida,LinkedIn,2025-10-14,,,,,Applied,0,424524,407220,0
+CAND0629,Jason Washington,Recruiter,HR,Talent Acquisition,0.4,Vikram Mehta,Aisha Khan,Deloitte,Pune,Consultancy,2025-09-09,2025-09-12,,,,Withdrawn,0,1913006,1919891,0
+CAND0630,Tony Le,HR Executive,HR,Recruitment,3.0,Sneha Rao,Karan Shah,Amazon,Hyderabad,LinkedIn,2026-02-19,,,,,Applied,0,1200281,1100401,0
+CAND0631,Christina Rodriguez,Java Developer,Technology,Java,8.6,Rahul Sharma,Vikas Sinha,Deloitte,Hyderabad,Career Portal,2025-12-07,2025-12-10,2025-12-13,2025-12-14,2025-12-30,Joined,3,1414099,1365126,23
+CAND0632,James Skinner,Python Developer,Technology,Python,10.7,Vikram Mehta,Aisha Khan,Google,Bangalore,Naukri,2026-01-05,2026-01-07,2026-01-12,2026-01-13,,Offered,3,1039305,1050547,0
+CAND0633,Erin Cook,Sales Executive,Sales,CRM,6.1,Amit Verma,Vikas Sinha,ServiceNow,Noida,Campus,2026-06-23,2026-06-26,,,,Screening,1,613583,582951,0
+CAND0634,Marilyn Wheeler,HR Executive,HR,Recruitment,6.4,Anjali Kapoor,Ankit Verma,ANSR Internal,Pune,LinkedIn,2025-12-05,2025-12-08,2025-12-13,2025-12-14,,Offered,2,2444708,2346802,0
+CAND0635,Travis Harris,Finance Analyst,Finance,Excel,1.3,Rahul Sharma,Aisha Khan,Walmart,Noida,LinkedIn,2025-12-11,2025-12-13,2025-12-15,2025-12-17,,Offered,3,1523439,1575131,0
+CAND0636,James Flores,Recruiter,HR,Talent Acquisition,5.4,Anjali Kapoor,Arjun Mehra,Amazon,Pune,Career Portal,2026-05-23,2026-05-26,2026-05-29,2026-06-01,,Offered,3,1206150,1170431,0
+CAND0637,Katherine Johnston,Sales Executive,Sales,CRM,6.4,Vikram Mehta,Ritika Kapoor,ServiceNow,Chennai,Campus,2025-11-13,2025-11-14,2025-11-17,2025-11-19,2025-12-18,Joined,2,1911021,1948086,35
+CAND0638,Douglas Hartman,Recruiter,HR,Talent Acquisition,2.9,Neha Patel,Ritika Kapoor,Adobe,Hyderabad,Consultancy,2025-12-30,2026-01-01,2026-01-05,2026-01-06,,Offered,2,2464376,2255238,0
+CAND0639,Justin Vargas,Finance Analyst,Finance,Excel,3.2,Rahul Sharma,Arjun Mehra,Walmart,Pune,Referral,2026-03-10,2026-03-13,2026-03-15,,,Rejected,1,1065239,986632,0
+CAND0640,Randall Johnson,DevOps Engineer,Technology,AWS,4.5,Anjali Kapoor,Karan Shah,Adobe,Bangalore,Consultancy,2026-05-20,2026-05-22,,,,Withdrawn,0,1339925,1303686,0
+CAND0641,Michael Gonzales,Data Analyst,Technology,"SQL, Power BI",0.2,Sneha Rao,Ritika Kapoor,ANSR Internal,Noida,Career Portal,2025-12-02,2025-12-04,2025-12-09,,,Rejected,1,836803,841790,0
+CAND0642,Andrea Abbott,Business Analyst,Technology,"Excel, SQL",3.9,Priya Singh,Arjun Mehra,ANSR Internal,Bangalore,Naukri,2026-06-15,2026-06-16,2026-06-20,,,Rejected,3,895176,922595,0
+CAND0643,Jonathan Schultz,Recruiter,HR,Talent Acquisition,2.5,Vikram Mehta,Karan Shah,Amazon,Pune,Referral,2025-11-12,2025-11-14,2025-11-16,,,Interview,1,977859,898112,0
+CAND0644,Christian Henderson,Recruiter,HR,Talent Acquisition,3.9,Rohit Jain,Pooja Nair,ANSR Internal,Hyderabad,LinkedIn,2026-01-04,2026-01-06,2026-01-09,2026-01-10,2026-02-02,Joined,3,1515750,1448853,29
+CAND0645,William Mendoza,Java Developer,Technology,Java,1.4,Neha Patel,Aisha Khan,Target,Chennai,Campus,2026-01-13,2026-01-14,2026-01-16,2026-01-17,,Offered,3,1917391,1997079,0
+CAND0646,Tammy Kane,DevOps Engineer,Technology,AWS,10.7,Anjali Kapoor,Ritika Kapoor,Target,Bangalore,Campus,2026-01-20,2026-01-23,2026-01-25,2026-01-28,2026-02-26,Joined,3,555582,555041,37
+CAND0647,Rachel Ward,HR Executive,HR,Recruitment,7.1,Anjali Kapoor,Pooja Nair,Walmart,Pune,LinkedIn,2026-07-24,2026-07-25,2026-07-30,2026-08-01,2026-08-28,Joined,2,1573485,1628606,35
+CAND0648,Linda Rocha,Finance Analyst,Finance,Excel,8.1,Vikram Mehta,Rohan Gupta,Target,Hyderabad,Referral,2025-09-22,2025-09-25,2025-09-28,,,Interview,2,753499,682327,0
+CAND0649,Mary Kelly,Java Developer,Technology,Java,9.5,Priya Singh,Pooja Nair,ANSR Internal,Pune,Career Portal,2026-04-19,2026-04-22,2026-04-26,,,Rejected,1,1071203,967846,0
+CAND0650,Kristine Newman,QA Engineer,Technology,Testing,6.0,Anjali Kapoor,Karan Shah,Google,Pune,Referral,2026-04-19,2026-04-20,2026-04-25,2026-04-27,2026-05-22,Joined,2,1886768,1733132,33
+CAND0651,Paul Sheppard,Recruiter,HR,Talent Acquisition,1.0,Rohit Jain,Vikas Sinha,ANSR Internal,Noida,Naukri,2026-01-25,2026-01-28,2026-01-31,2026-02-03,2026-02-22,Joined,2,1869420,1766378,28
+CAND0652,Brett Walker,Business Analyst,Technology,"Excel, SQL",6.4,Rohit Jain,Vikas Sinha,Walmart,Chennai,LinkedIn,2026-05-28,2026-05-29,2026-05-31,,,Rejected,1,1014688,1021533,0
+CAND0653,Lauren Johnston,HR Executive,HR,Recruitment,7.0,Neha Patel,Ankit Verma,Adobe,Chennai,LinkedIn,2026-01-31,2026-02-03,2026-02-08,2026-02-10,,Offered,3,1948932,1951900,0
+CAND0654,Joel Frazier,HR Executive,HR,Recruitment,8.9,Vikram Mehta,Ankit Verma,Target,Hyderabad,Naukri,2026-05-06,2026-05-09,2026-05-11,2026-05-14,,Offered,2,933196,907733,0
+CAND0655,Haley Johnson,Recruiter,HR,Talent Acquisition,5.2,Vikram Mehta,Arjun Mehra,Amazon,Noida,Referral,2025-09-20,2025-09-21,2025-09-25,2025-09-28,,Offered,3,898140,889374,0
+CAND0656,Thomas Miller,Data Analyst,Technology,"SQL, Power BI",1.5,Neha Patel,Karan Shah,Walmart,Pune,Referral,2026-06-29,,,,,Applied,0,1671964,1578496,0
+CAND0657,Brenda Collins,Python Developer,Technology,Python,3.4,Neha Patel,Aisha Khan,Google,Pune,Referral,2026-02-03,2026-02-04,2026-02-06,2026-02-09,2026-02-27,Joined,2,1304214,1209608,24
+CAND0658,Kelly Bailey,Data Analyst,Technology,"SQL, Power BI",4.4,Anjali Kapoor,Ankit Verma,ServiceNow,Noida,Campus,2025-09-17,2025-09-20,2025-09-23,2025-09-24,,Offered,3,1816933,1848188,0
+CAND0659,Michael Flores,Recruiter,HR,Talent Acquisition,7.8,Vikram Mehta,Ritika Kapoor,Walmart,Bangalore,Consultancy,2025-12-05,2025-12-07,2025-12-09,,,Rejected,3,2118105,2029325,0
+CAND0660,Michael Johnson,Recruiter,HR,Talent Acquisition,6.8,Sneha Rao,Karan Shah,Amazon,Bangalore,Consultancy,2025-12-22,2025-12-25,,,,Screening,1,1695402,1668541,0
+CAND0661,Megan Martin,Business Analyst,Technology,"Excel, SQL",4.3,Amit Verma,Arjun Mehra,ANSR Internal,Hyderabad,Campus,2026-05-25,2026-05-26,2026-05-28,,,Rejected,2,478282,439083,0
+CAND0662,Christopher Moore,Java Developer,Technology,Java,11.8,Amit Verma,Ankit Verma,Microsoft,Noida,Consultancy,2026-03-16,,,,,Applied,0,1743985,1674695,0
+CAND0663,Joel Salinas,Data Analyst,Technology,"SQL, Power BI",7.3,Rohit Jain,Aisha Khan,Amazon,Chennai,LinkedIn,2026-04-12,,,,,Applied,0,1731198,1657278,0
+CAND0664,Martin Reynolds,Business Analyst,Technology,"Excel, SQL",2.8,Neha Patel,Pooja Nair,Amazon,Hyderabad,Referral,2025-08-22,2025-08-25,,,,Withdrawn,0,775929,716286,0
+CAND0665,Sonya Cole,Python Developer,Technology,Python,1.2,Rahul Sharma,Rohan Gupta,Amazon,Bangalore,Career Portal,2026-01-24,,,,,Applied,0,645374,609687,0
+CAND0666,Michael Harris,Python Developer,Technology,Python,1.8,Anjali Kapoor,Rohan Gupta,ServiceNow,Chennai,LinkedIn,2026-05-30,2026-06-02,2026-06-05,2026-06-07,2026-06-30,Joined,3,617592,574597,31
+CAND0667,Rebecca Ray,Business Analyst,Technology,"Excel, SQL",3.0,Sneha Rao,Arjun Mehra,Walmart,Chennai,Consultancy,2026-06-17,,,,,Applied,0,2107402,1917353,0
+CAND0668,Chelsea Nguyen,Java Developer,Technology,Java,1.9,Rahul Sharma,Pooja Nair,ANSR Internal,Noida,Career Portal,2026-02-04,2026-02-05,2026-02-09,2026-02-12,2026-03-04,Joined,3,825761,773694,28
+CAND0669,Michael Burns,Business Analyst,Technology,"Excel, SQL",2.2,Amit Verma,Ritika Kapoor,Walmart,Noida,Naukri,2026-04-16,2026-04-19,2026-04-24,2026-04-25,,Offered,2,1428281,1400615,0
+CAND0670,James Long,Recruiter,HR,Talent Acquisition,3.4,Sneha Rao,Ritika Kapoor,Google,Bangalore,Campus,2025-09-24,2025-09-26,2025-09-30,,,Rejected,3,1546315,1530357,0
+CAND0671,Ryan Williamson,Java Developer,Technology,Java,2.1,Sneha Rao,Arjun Mehra,Amazon,Noida,Consultancy,2026-06-23,2026-06-24,2026-06-27,,,Interview,2,693329,655262,0
+CAND0672,Rebecca Sellers,HR Executive,HR,Recruitment,10.8,Amit Verma,Rohan Gupta,Walmart,Pune,Career Portal,2026-03-28,2026-03-30,2026-04-03,2026-04-04,2026-04-25,Joined,3,2298837,2163095,28
+CAND0673,Cesar Wilson,Data Analyst,Technology,"SQL, Power BI",1.0,Neha Patel,Arjun Mehra,Deloitte,Bangalore,LinkedIn,2025-12-07,2025-12-10,2025-12-15,,,Rejected,2,1127862,1084974,0
+CAND0674,James Thomas,Finance Analyst,Finance,Excel,6.3,Priya Singh,Karan Shah,ANSR Internal,Bangalore,Career Portal,2026-01-08,2026-01-10,2026-01-14,,,Interview,2,2267206,2269103,0
+CAND0675,Chad Reyes,Python Developer,Technology,Python,4.9,Rahul Sharma,Karan Shah,Deloitte,Pune,Naukri,2025-10-22,2025-10-24,2025-10-28,2025-10-29,2025-11-07,Joined,3,2264693,2041404,16
+CAND0676,Mr. Thomas Arias,Java Developer,Technology,Java,11.8,Amit Verma,Ankit Verma,Walmart,Bangalore,Referral,2025-10-17,2025-10-18,2025-10-20,2025-10-21,2025-11-17,Joined,3,2467111,2555127,31
+CAND0677,Katherine Taylor,Business Analyst,Technology,"Excel, SQL",1.3,Sneha Rao,Ankit Verma,Amazon,Noida,Naukri,2025-12-11,2025-12-12,,,,Screening,1,1136221,1033738,0
+CAND0678,Lisa Glenn,Python Developer,Technology,Python,4.8,Sneha Rao,Vikas Sinha,ANSR Internal,Pune,Naukri,2025-08-14,2025-08-17,2025-08-21,2025-08-24,2025-09-17,Joined,3,496961,521209,34
+CAND0679,Mr. James Hoffman,Data Analyst,Technology,"SQL, Power BI",11.6,Anjali Kapoor,Arjun Mehra,Walmart,Chennai,Campus,2026-04-21,2026-04-23,2026-04-27,2026-04-30,,Offered,2,1549388,1422737,0
+CAND0680,Michael Perry PhD,Java Developer,Technology,Java,10.4,Rahul Sharma,Pooja Nair,Target,Noida,Campus,2026-02-16,2026-02-17,,,,Screening,1,1726414,1555108,0
+CAND0681,Keith Flynn,Sales Executive,Sales,CRM,9.8,Rahul Sharma,Vikas Sinha,Target,Bangalore,Naukri,2025-11-04,2025-11-07,2025-11-09,,,Interview,1,1225761,1133427,0
+CAND0682,Donald Medina,Recruiter,HR,Talent Acquisition,3.1,Anjali Kapoor,Arjun Mehra,Walmart,Pune,Naukri,2025-10-15,2025-10-16,,,,Withdrawn,0,852316,827629,0
+CAND0683,Krystal Barton,DevOps Engineer,Technology,AWS,2.1,Amit Verma,Karan Shah,Deloitte,Bangalore,Career Portal,2026-02-19,,,,,Applied,0,2272572,2242665,0
+CAND0684,Ashley Wilson,Data Analyst,Technology,"SQL, Power BI",8.0,Rahul Sharma,Aisha Khan,Walmart,Bangalore,Naukri,2026-06-08,2026-06-10,2026-06-15,2026-06-16,,Offered,2,660056,685050,0
+CAND0685,Wendy Weaver,Data Analyst,Technology,"SQL, Power BI",11.2,Rahul Sharma,Pooja Nair,Target,Chennai,LinkedIn,2026-05-31,2026-06-03,2026-06-05,2026-06-07,2026-06-26,Joined,3,2124311,1986160,26
+CAND0686,Nathan Payne,HR Executive,HR,Recruitment,6.7,Priya Singh,Rohan Gupta,Google,Chennai,Consultancy,2026-01-23,2026-01-24,,,,Screening,1,1776544,1755531,0
+CAND0687,Ronald Potter,Sales Executive,Sales,CRM,6.9,Priya Singh,Vikas Sinha,Amazon,Noida,Referral,2025-12-04,2025-12-06,2025-12-09,2025-12-10,2025-12-21,Joined,2,1890618,1820950,17
+CAND0688,Amanda Baker,Data Analyst,Technology,"SQL, Power BI",3.4,Neha Patel,Pooja Nair,Target,Noida,Career Portal,2026-07-11,2026-07-12,2026-07-15,,,Rejected,2,1900485,1799147,0
+CAND0689,Jessica Mcknight,QA Engineer,Technology,Testing,9.2,Rohit Jain,Pooja Nair,Walmart,Bangalore,Consultancy,2026-06-08,2026-06-11,2026-06-13,2026-06-15,,Offered,3,1006497,914500,0
+CAND0690,Christine Rojas,Java Developer,Technology,Java,2.2,Amit Verma,Vikas Sinha,Microsoft,Pune,Naukri,2026-05-05,2026-05-08,,,,Withdrawn,0,2395335,2405436,0
+CAND0691,Michael Chen,DevOps Engineer,Technology,AWS,3.9,Rohit Jain,Pooja Nair,Target,Pune,Naukri,2025-10-14,2025-10-15,2025-10-20,2025-10-21,2025-10-28,Joined,2,839763,813012,14
+CAND0692,Rachel Li,Java Developer,Technology,Java,5.1,Vikram Mehta,Vikas Sinha,Adobe,Chennai,Career Portal,2026-06-19,2026-06-21,2026-06-24,,,Interview,1,1790475,1828237,0
+CAND0693,Gregory Campbell,DevOps Engineer,Technology,AWS,6.1,Rahul Sharma,Karan Shah,Walmart,Bangalore,Consultancy,2026-03-08,2026-03-11,2026-03-15,2026-03-16,,Offered,2,883138,813688,0
+CAND0694,William Carter,Java Developer,Technology,Java,2.9,Amit Verma,Pooja Nair,Amazon,Hyderabad,Referral,2026-03-21,2026-03-22,2026-03-25,2026-03-26,2026-04-07,Joined,3,1131002,1075551,17
+CAND0695,Scott Duke,Business Analyst,Technology,"Excel, SQL",1.4,Rahul Sharma,Ritika Kapoor,Target,Bangalore,Referral,2026-05-01,2026-05-03,2026-05-06,,,Interview,2,1281799,1212275,0
+CAND0696,Brandy Brady,Business Analyst,Technology,"Excel, SQL",7.3,Priya Singh,Ritika Kapoor,Amazon,Hyderabad,Naukri,2026-01-17,2026-01-19,2026-01-22,,,Interview,1,1986267,1994516,0
+CAND0697,Wendy Camacho,Sales Executive,Sales,CRM,3.5,Amit Verma,Pooja Nair,Amazon,Pune,Naukri,2025-09-29,2025-09-30,2025-10-05,,,Interview,1,623384,619904,0
+CAND0698,Brandi Thomas,Business Analyst,Technology,"Excel, SQL",7.0,Vikram Mehta,Karan Shah,Amazon,Noida,Campus,2025-12-14,2025-12-16,2025-12-20,2025-12-23,,Offered,3,1969785,1920123,0
+CAND0699,Pam Lowe,Recruiter,HR,Talent Acquisition,1.9,Vikram Mehta,Pooja Nair,Target,Noida,Career Portal,2026-02-17,2026-02-19,2026-02-22,,,Rejected,2,553530,515380,0
+CAND0700,Mark Burton,Java Developer,Technology,Java,5.8,Sneha Rao,Aisha Khan,Target,Noida,Naukri,2026-01-03,,,,,Applied,0,1969119,1847386,0
+CAND0701,Mark Beard,Business Analyst,Technology,"Excel, SQL",6.4,Sneha Rao,Ankit Verma,ANSR Internal,Pune,Naukri,2025-09-16,2025-09-18,2025-09-23,2025-09-25,2025-10-15,Joined,3,572565,555266,29
+CAND0702,Paul Neal,DevOps Engineer,Technology,AWS,0.6,Vikram Mehta,Rohan Gupta,ServiceNow,Chennai,LinkedIn,2026-07-17,2026-07-18,2026-07-22,,,Interview,1,1153153,1114237,0
+CAND0703,Travis Murphy,QA Engineer,Technology,Testing,4.0,Priya Singh,Pooja Nair,Adobe,Bangalore,LinkedIn,2025-08-11,2025-08-13,2025-08-16,2025-08-19,,Offered,3,699258,667116,0
+CAND0704,Sarah Davis,QA Engineer,Technology,Testing,1.6,Sneha Rao,Pooja Nair,Adobe,Noida,Naukri,2026-02-05,2026-02-07,2026-02-12,,,Interview,2,1495281,1347666,0
+CAND0705,Melissa Horn,Sales Executive,Sales,CRM,0.8,Rahul Sharma,Ankit Verma,ANSR Internal,Hyderabad,Campus,2026-06-16,2026-06-18,2026-06-21,2026-06-24,2026-07-19,Joined,3,1354533,1265186,33
+CAND0706,Claudia Jordan,Recruiter,HR,Talent Acquisition,11.9,Rohit Jain,Karan Shah,Walmart,Hyderabad,Campus,2025-11-01,2025-11-04,2025-11-06,2025-11-08,,Offered,2,2151909,2004369,0
+CAND0707,Frank Campbell MD,Sales Executive,Sales,CRM,3.9,Neha Patel,Pooja Nair,Google,Chennai,Career Portal,2025-09-30,2025-10-03,2025-10-08,2025-10-11,,Offered,3,1887562,1795021,0
+CAND0708,Karina Cooper,DevOps Engineer,Technology,AWS,9.7,Rahul Sharma,Arjun Mehra,Amazon,Hyderabad,Referral,2026-05-03,2026-05-05,2026-05-07,,,Interview,2,2039494,2135402,0
+CAND0709,Amber Sims,Java Developer,Technology,Java,3.1,Vikram Mehta,Karan Shah,Walmart,Noida,Campus,2026-07-01,2026-07-04,,,,Screening,1,1677775,1533463,0
+CAND0710,Caleb Mathews,Python Developer,Technology,Python,8.2,Rahul Sharma,Ankit Verma,Google,Hyderabad,Naukri,2026-01-29,2026-01-30,2026-02-02,,,Interview,2,691466,716844,0
+CAND0711,William Patterson,Finance Analyst,Finance,Excel,9.1,Priya Singh,Ankit Verma,Google,Pune,Consultancy,2026-05-05,2026-05-07,2026-05-12,,,Rejected,1,446334,413204,0
+CAND0712,Sonia Turner,Business Analyst,Technology,"Excel, SQL",7.1,Neha Patel,Aisha Khan,Deloitte,Bangalore,Campus,2026-07-16,2026-07-18,2026-07-23,,,Interview,1,1266038,1164109,0
+CAND0713,Denise Pena,Sales Executive,Sales,CRM,5.7,Sneha Rao,Vikas Sinha,ANSR Internal,Chennai,Referral,2025-11-16,2025-11-17,,,,Screening,1,1246002,1122792,0
+CAND0714,Matthew Banks,HR Executive,HR,Recruitment,4.9,Amit Verma,Rohan Gupta,Deloitte,Chennai,Campus,2025-08-31,2025-09-02,2025-09-06,,,Interview,2,563933,569907,0
+CAND0715,Eric Lyons,HR Executive,HR,Recruitment,4.2,Neha Patel,Aisha Khan,Adobe,Hyderabad,Consultancy,2025-11-09,2025-11-10,2025-11-12,,,Rejected,2,2212260,2142959,0
+CAND0716,Brandon Davis,Data Analyst,Technology,"SQL, Power BI",11.2,Amit Verma,Ritika Kapoor,ServiceNow,Noida,Referral,2025-11-01,2025-11-02,2025-11-07,2025-11-09,2025-12-03,Joined,2,679944,683144,32
+CAND0717,Casey Perez,DevOps Engineer,Technology,AWS,10.0,Priya Singh,Karan Shah,ANSR Internal,Pune,Campus,2026-05-02,2026-05-03,2026-05-08,,,Interview,1,2291362,2118881,0
+CAND0718,Adam Cooper,Business Analyst,Technology,"Excel, SQL",11.6,Vikram Mehta,Aisha Khan,Walmart,Chennai,Naukri,2025-09-26,2025-09-29,2025-10-02,,,Interview,2,2063772,1869088,0
+CAND0719,Jennifer Anderson MD,Recruiter,HR,Talent Acquisition,1.5,Vikram Mehta,Ankit Verma,Microsoft,Bangalore,Consultancy,2026-01-06,2026-01-08,2026-01-12,2026-01-13,,Offered,2,1416253,1426219,0
+CAND0720,Robert Garcia,Data Analyst,Technology,"SQL, Power BI",8.8,Priya Singh,Ritika Kapoor,ServiceNow,Bangalore,Consultancy,2025-12-31,2026-01-01,2026-01-05,2026-01-06,2026-01-27,Joined,3,2039341,1886936,27
+CAND0721,Breanna Ayala,Python Developer,Technology,Python,11.3,Amit Verma,Arjun Mehra,ANSR Internal,Hyderabad,Campus,2026-05-30,2026-06-02,2026-06-04,,,Rejected,2,600303,615595,0
+CAND0722,Margaret Byrd,QA Engineer,Technology,Testing,2.2,Vikram Mehta,Arjun Mehra,Google,Bangalore,Campus,2025-09-06,2025-09-07,2025-09-10,,,Interview,1,1246150,1295152,0
+CAND0723,Alejandra Santos,Data Analyst,Technology,"SQL, Power BI",0.8,Anjali Kapoor,Arjun Mehra,Google,Pune,Naukri,2026-01-28,2026-01-31,2026-02-03,,,Rejected,3,664960,620464,0
+CAND0724,Daniel Goodman,Python Developer,Technology,Python,8.9,Rahul Sharma,Aisha Khan,ANSR Internal,Bangalore,Referral,2026-08-03,2026-08-04,,,,Screening,1,1753416,1725901,0
+CAND0725,Michael Heath,Finance Analyst,Finance,Excel,6.9,Anjali Kapoor,Aisha Khan,Microsoft,Hyderabad,Naukri,2025-09-13,2025-09-15,,,,Screening,1,844115,804852,0
+CAND0726,Brenda Martinez,DevOps Engineer,Technology,AWS,10.1,Rahul Sharma,Aisha Khan,Adobe,Chennai,Naukri,2026-05-21,2026-05-24,2026-05-28,,,Interview,1,676892,676008,0
+CAND0727,Victor Edwards,Business Analyst,Technology,"Excel, SQL",1.7,Amit Verma,Aisha Khan,ServiceNow,Noida,Campus,2025-10-04,2025-10-07,2025-10-10,2025-10-12,2025-10-22,Joined,3,827037,832726,18
+CAND0728,Matthew Wright,HR Executive,HR,Recruitment,9.5,Neha Patel,Rohan Gupta,Amazon,Pune,Career Portal,2026-04-01,,,,,Applied,0,2422201,2204510,0
+CAND0729,Lisa Maxwell,Sales Executive,Sales,CRM,2.4,Vikram Mehta,Aisha Khan,ANSR Internal,Hyderabad,Consultancy,2026-05-06,2026-05-07,2026-05-11,2026-05-12,2026-06-11,Joined,3,455749,426075,36
+CAND0730,Ryan Liu,Java Developer,Technology,Java,2.0,Priya Singh,Arjun Mehra,Amazon,Pune,Campus,2025-10-29,2025-11-01,2025-11-03,,,Interview,1,1644092,1529501,0
+CAND0731,Katrina Adkins,Sales Executive,Sales,CRM,2.0,Vikram Mehta,Rohan Gupta,Amazon,Pune,Referral,2025-12-03,2025-12-06,,,,Withdrawn,0,566125,553744,0
+CAND0732,Rachel Leon,QA Engineer,Technology,Testing,9.8,Rahul Sharma,Vikas Sinha,Walmart,Pune,Naukri,2025-11-11,2025-11-14,2025-11-17,,,Rejected,3,1263260,1239127,0
+CAND0733,Brian Porter MD,Java Developer,Technology,Java,8.0,Anjali Kapoor,Rohan Gupta,Amazon,Chennai,Career Portal,2026-03-04,2026-03-05,2026-03-07,2026-03-10,,Offered,2,425344,386932,0
+CAND0734,Alexandria Ward,Java Developer,Technology,Java,6.3,Neha Patel,Karan Shah,Amazon,Noida,Consultancy,2025-12-11,,,,,Applied,0,1257203,1176046,0
+CAND0735,Scott Carroll,Recruiter,HR,Talent Acquisition,4.3,Sneha Rao,Ritika Kapoor,Adobe,Hyderabad,Campus,2025-12-30,2026-01-02,2026-01-07,,,Interview,1,1140024,1129624,0
+CAND0736,Carrie Ruiz,QA Engineer,Technology,Testing,10.5,Vikram Mehta,Karan Shah,Walmart,Chennai,Campus,2026-06-06,2026-06-09,2026-06-14,2026-06-15,,Offered,3,1103661,1071221,0
+CAND0737,Kevin Smith,Data Analyst,Technology,"SQL, Power BI",4.7,Anjali Kapoor,Aisha Khan,Microsoft,Pune,Consultancy,2025-11-02,2025-11-04,,,,Screening,1,1040884,1023113,0
+CAND0738,Antonio Mccormick,Recruiter,HR,Talent Acquisition,9.8,Sneha Rao,Ankit Verma,ServiceNow,Chennai,Consultancy,2026-02-23,2026-02-25,,,,Screening,1,2416807,2201205,0
+CAND0739,Micheal Wang,Java Developer,Technology,Java,5.3,Neha Patel,Vikas Sinha,Google,Bangalore,Consultancy,2026-01-22,2026-01-24,2026-01-28,,,Rejected,2,1969751,1917982,0
+CAND0740,Angela Herrera,Recruiter,HR,Talent Acquisition,4.5,Sneha Rao,Karan Shah,Target,Bangalore,LinkedIn,2026-04-07,2026-04-09,,,,Screening,1,2014077,2094276,0
+CAND0741,Bradley Miller,QA Engineer,Technology,Testing,5.6,Rohit Jain,Ankit Verma,Walmart,Bangalore,Career Portal,2026-08-03,2026-08-04,2026-08-09,2026-08-10,2026-08-28,Joined,2,2016204,2094791,25
+CAND0742,Robert Herrera,Python Developer,Technology,Python,3.6,Sneha Rao,Ankit Verma,Amazon,Pune,Naukri,2026-01-09,2026-01-12,2026-01-17,2026-01-19,2026-02-17,Joined,2,1077075,971360,39
+CAND0743,Pamela Santos,Finance Analyst,Finance,Excel,9.0,Amit Verma,Aisha Khan,Amazon,Chennai,Referral,2026-04-17,2026-04-19,2026-04-23,2026-04-26,,Offered,3,1667600,1626071,0
+CAND0744,Michael Blair,Business Analyst,Technology,"Excel, SQL",6.0,Priya Singh,Rohan Gupta,Amazon,Pune,Career Portal,2026-07-05,2026-07-07,2026-07-09,,,Interview,1,1278813,1329329,0
+CAND0745,David Middleton,Recruiter,HR,Talent Acquisition,2.8,Rahul Sharma,Karan Shah,Microsoft,Chennai,Consultancy,2025-09-25,2025-09-26,2025-09-29,2025-10-01,2025-10-13,Joined,2,2148363,2144449,18
+CAND0746,Lee Parker,Java Developer,Technology,Java,10.8,Vikram Mehta,Ritika Kapoor,ANSR Internal,Bangalore,Campus,2026-05-26,,,,,Applied,0,1291597,1198402,0
+CAND0747,Casey Smith,Python Developer,Technology,Python,4.6,Amit Verma,Pooja Nair,Target,Chennai,Career Portal,2025-10-03,2025-10-05,,,,Screening,1,857998,883956,0
+CAND0748,Carla Benton,Business Analyst,Technology,"Excel, SQL",6.5,Anjali Kapoor,Karan Shah,ServiceNow,Bangalore,Referral,2026-03-02,2026-03-05,2026-03-07,2026-03-08,,Offered,2,524430,518056,0
+CAND0749,Samantha Green,QA Engineer,Technology,Testing,10.9,Rahul Sharma,Arjun Mehra,Microsoft,Hyderabad,Consultancy,2026-01-02,2026-01-04,2026-01-09,2026-01-11,,Offered,3,430458,411668,0
+CAND0750,Richard Adams,Sales Executive,Sales,CRM,7.5,Anjali Kapoor,Rohan Gupta,Walmart,Pune,Referral,2026-07-21,2026-07-23,2026-07-25,2026-07-27,2026-08-13,Joined,2,1404942,1462753,23
+CAND0751,Steven Rogers,Data Analyst,Technology,"SQL, Power BI",1.4,Vikram Mehta,Aisha Khan,Amazon,Bangalore,Consultancy,2026-01-24,2026-01-27,2026-01-30,,,Interview,2,915457,943241,0
+CAND0752,Austin Joseph,Recruiter,HR,Talent Acquisition,11.3,Vikram Mehta,Aisha Khan,Adobe,Bangalore,Career Portal,2026-03-22,2026-03-23,2026-03-27,,,Interview,2,1751335,1580570,0
+CAND0753,Kathleen Dixon,Java Developer,Technology,Java,7.5,Vikram Mehta,Aisha Khan,Microsoft,Pune,Campus,2025-09-01,2025-09-02,2025-09-07,,,Rejected,2,2397000,2512129,0
+CAND0754,Mr. Jacob Scott Jr.,Sales Executive,Sales,CRM,4.0,Amit Verma,Ritika Kapoor,ANSR Internal,Noida,Career Portal,2026-03-21,2026-03-23,2026-03-28,2026-03-29,2026-04-19,Joined,2,533151,490061,29
+CAND0755,Ashley Yang,Recruiter,HR,Talent Acquisition,1.7,Amit Verma,Vikas Sinha,Adobe,Hyderabad,Career Portal,2025-08-11,2025-08-12,,,,Withdrawn,0,775104,709856,0
+CAND0756,Scott Sanchez,Python Developer,Technology,Python,9.5,Rohit Jain,Aisha Khan,ServiceNow,Hyderabad,Career Portal,2026-02-10,2026-02-13,,,,Withdrawn,0,1480572,1480408,0
+CAND0757,Thomas White,Business Analyst,Technology,"Excel, SQL",7.4,Neha Patel,Ankit Verma,Microsoft,Pune,Naukri,2026-07-10,2026-07-13,2026-07-18,,,Interview,2,671233,668949,0
+CAND0758,Robert Klein,Java Developer,Technology,Java,6.4,Amit Verma,Pooja Nair,Microsoft,Pune,LinkedIn,2026-04-22,2026-04-23,2026-04-25,2026-04-28,2026-05-16,Joined,2,867172,792049,24
+CAND0759,Frank Butler,DevOps Engineer,Technology,AWS,10.7,Anjali Kapoor,Arjun Mehra,ServiceNow,Bangalore,Consultancy,2026-05-17,2026-05-19,,,,Withdrawn,0,1196320,1228701,0
+CAND0760,Roger Duncan,DevOps Engineer,Technology,AWS,9.5,Neha Patel,Vikas Sinha,Microsoft,Chennai,LinkedIn,2025-09-26,2025-09-28,2025-10-01,,,Rejected,2,2331908,2209223,0
+CAND0761,Stephanie White,Recruiter,HR,Talent Acquisition,1.8,Neha Patel,Pooja Nair,Amazon,Bangalore,Consultancy,2026-06-19,2026-06-20,,,,Withdrawn,0,1742761,1649233,0
+CAND0762,Amber Morales,QA Engineer,Technology,Testing,3.7,Vikram Mehta,Vikas Sinha,Deloitte,Pune,Career Portal,2026-07-17,2026-07-18,2026-07-21,,,Rejected,3,1980030,1799494,0
+CAND0763,Douglas Kirk,Java Developer,Technology,Java,3.0,Rahul Sharma,Ritika Kapoor,Deloitte,Chennai,Referral,2025-12-16,2025-12-18,2025-12-23,2025-12-26,,Offered,3,1067704,1119657,0
+CAND0764,Jesus Wood,DevOps Engineer,Technology,AWS,8.9,Anjali Kapoor,Aisha Khan,Microsoft,Noida,Career Portal,2025-12-02,2025-12-05,2025-12-10,,,Rejected,1,1587155,1495662,0
+CAND0765,Elizabeth Dean,Python Developer,Technology,Python,0.4,Rohit Jain,Arjun Mehra,ServiceNow,Chennai,Career Portal,2026-02-07,2026-02-09,2026-02-13,2026-02-14,,Offered,2,1086584,1071995,0
+CAND0766,Wesley Cuevas,Java Developer,Technology,Java,6.8,Amit Verma,Arjun Mehra,Walmart,Noida,LinkedIn,2026-06-08,2026-06-11,,,,Withdrawn,0,1019102,974754,0
+CAND0767,Steven Hodges,Python Developer,Technology,Python,9.1,Rahul Sharma,Karan Shah,Walmart,Chennai,Naukri,2025-11-14,2025-11-16,2025-11-21,2025-11-22,,Offered,3,620084,568990,0
+CAND0768,Timothy Johnson,Java Developer,Technology,Java,10.5,Rahul Sharma,Karan Shah,Adobe,Chennai,Campus,2026-03-09,2026-03-12,,,,Withdrawn,0,1669572,1674910,0
+CAND0769,Ryan Wiley,HR Executive,HR,Recruitment,4.1,Priya Singh,Ankit Verma,Target,Pune,Career Portal,2025-12-19,2025-12-20,,,,Screening,1,2266961,2165170,0
+CAND0770,Matthew Sweeney,Business Analyst,Technology,"Excel, SQL",9.9,Vikram Mehta,Vikas Sinha,Google,Noida,Consultancy,2026-05-20,2026-05-23,2026-05-26,2026-05-28,2026-06-19,Joined,3,2411161,2269044,30
+CAND0771,Daniel Bird,QA Engineer,Technology,Testing,1.3,Neha Patel,Karan Shah,Walmart,Bangalore,Career Portal,2026-01-21,2026-01-23,2026-01-28,2026-01-29,2026-02-21,Joined,2,1175484,1129404,31
+CAND0772,Anthony Shea DDS,Java Developer,Technology,Java,10.2,Priya Singh,Ritika Kapoor,Amazon,Bangalore,Consultancy,2025-09-16,2025-09-17,,,,Screening,1,2275830,2321521,0
+CAND0773,David Bruce,Sales Executive,Sales,CRM,1.5,Amit Verma,Ritika Kapoor,Microsoft,Noida,Referral,2026-01-18,2026-01-20,,,,Screening,1,546822,499079,0
+CAND0774,Jacqueline Villegas,DevOps Engineer,Technology,AWS,4.8,Neha Patel,Aisha Khan,Google,Hyderabad,Referral,2025-09-12,2025-09-14,2025-09-19,2025-09-20,,Offered,3,593635,618527,0
+CAND0775,Kathy Walsh,DevOps Engineer,Technology,AWS,9.6,Rohit Jain,Vikas Sinha,Microsoft,Bangalore,Naukri,2026-01-11,2026-01-12,2026-01-15,,,Interview,1,554073,514296,0
+CAND0776,Keith Graham,Sales Executive,Sales,CRM,1.8,Rohit Jain,Pooja Nair,Amazon,Noida,Campus,2025-09-30,2025-10-03,2025-10-06,,,Interview,2,711887,699412,0
+CAND0777,Dean Edwards,Recruiter,HR,Talent Acquisition,2.8,Priya Singh,Pooja Nair,Target,Hyderabad,Consultancy,2026-06-18,2026-06-21,2026-06-24,2026-06-27,2026-07-15,Joined,2,1254643,1142457,27
+CAND0778,Ronnie Nguyen,HR Executive,HR,Recruitment,8.7,Neha Patel,Rohan Gupta,Target,Chennai,LinkedIn,2026-02-02,2026-02-03,,,,Screening,1,1438080,1310994,0
+CAND0779,Benjamin Harris,Finance Analyst,Finance,Excel,8.6,Anjali Kapoor,Karan Shah,Walmart,Bangalore,Referral,2026-06-09,2026-06-10,,,,Screening,1,1798873,1828933,0
+CAND0780,Ashley Garcia,QA Engineer,Technology,Testing,7.7,Rahul Sharma,Karan Shah,Target,Hyderabad,Campus,2026-02-01,2026-02-04,,,,Screening,1,840413,855044,0
+CAND0781,Jason Herrera,QA Engineer,Technology,Testing,8.3,Vikram Mehta,Karan Shah,ANSR Internal,Pune,Career Portal,2026-06-06,2026-06-07,2026-06-10,2026-06-12,2026-07-01,Joined,2,1582779,1555446,25
+CAND0782,Eric Baker,DevOps Engineer,Technology,AWS,6.5,Anjali Kapoor,Ankit Verma,Amazon,Pune,LinkedIn,2025-09-26,2025-09-29,,,,Screening,1,1052177,1050740,0
+CAND0783,Robert Torres,QA Engineer,Technology,Testing,3.0,Rahul Sharma,Rohan Gupta,Adobe,Noida,Campus,2026-05-11,2026-05-13,,,,Withdrawn,0,2320096,2151809,0
+CAND0784,Amanda Huff,Finance Analyst,Finance,Excel,4.1,Sneha Rao,Pooja Nair,Target,Noida,Career Portal,2025-12-16,2025-12-18,2025-12-23,,,Rejected,2,1359506,1285791,0
+CAND0785,Michael Schmitt,Business Analyst,Technology,"Excel, SQL",2.2,Priya Singh,Karan Shah,Adobe,Bangalore,Naukri,2026-01-11,2026-01-13,2026-01-15,,,Interview,2,640801,584851,0
+CAND0786,Megan Green,Finance Analyst,Finance,Excel,10.9,Neha Patel,Ankit Verma,Deloitte,Noida,Career Portal,2025-10-17,2025-10-20,2025-10-22,2025-10-25,2025-11-14,Joined,3,922994,886831,28
+CAND0787,Jared Chavez,Java Developer,Technology,Java,7.0,Rahul Sharma,Ankit Verma,Amazon,Noida,Naukri,2026-05-28,2026-05-31,2026-06-04,,,Rejected,1,1133223,1032670,0
+CAND0788,Anna Garcia,HR Executive,HR,Recruitment,4.8,Vikram Mehta,Aisha Khan,Amazon,Pune,LinkedIn,2026-06-15,2026-06-18,2026-06-20,,,Interview,2,1817501,1884942,0
+CAND0789,Adam Greer,QA Engineer,Technology,Testing,5.5,Vikram Mehta,Pooja Nair,ServiceNow,Hyderabad,LinkedIn,2025-11-05,2025-11-08,2025-11-10,,,Interview,2,2050968,1912772,0
+CAND0790,Rodney Watson,Sales Executive,Sales,CRM,11.4,Vikram Mehta,Arjun Mehra,Walmart,Bangalore,Consultancy,2026-04-12,2026-04-13,2026-04-17,,,Interview,1,2330864,2212649,0
+CAND0791,Angela Willis,HR Executive,HR,Recruitment,1.8,Rohit Jain,Arjun Mehra,Microsoft,Chennai,Campus,2026-08-02,2026-08-03,2026-08-08,2026-08-09,,Offered,3,1228561,1121321,0
+CAND0792,Alison Brown,Data Analyst,Technology,"SQL, Power BI",7.0,Neha Patel,Pooja Nair,Adobe,Chennai,Campus,2026-07-27,2026-07-28,2026-08-01,2026-08-02,,Offered,3,1969967,1861407,0
+CAND0793,Rhonda Davis,Recruiter,HR,Talent Acquisition,6.1,Neha Patel,Ritika Kapoor,Walmart,Chennai,LinkedIn,2026-07-06,2026-07-07,2026-07-10,2026-07-12,2026-07-20,Joined,2,1906748,1968786,14
+CAND0794,Erin Williams,HR Executive,HR,Recruitment,7.3,Anjali Kapoor,Rohan Gupta,Google,Hyderabad,Career Portal,2026-02-06,2026-02-08,,,,Withdrawn,0,1234632,1286803,0
+CAND0795,Thomas Hamilton,Business Analyst,Technology,"Excel, SQL",0.2,Anjali Kapoor,Ankit Verma,ANSR Internal,Chennai,Career Portal,2026-05-19,2026-05-21,2026-05-26,2026-05-27,2026-06-06,Joined,2,934496,886587,18
+CAND0796,Allen Vega,Data Analyst,Technology,"SQL, Power BI",10.5,Neha Patel,Ritika Kapoor,Walmart,Noida,LinkedIn,2025-10-17,2025-10-19,2025-10-21,,,Rejected,2,1391973,1263641,0
+CAND0797,Terry Hill,Recruiter,HR,Talent Acquisition,11.2,Sneha Rao,Pooja Nair,Deloitte,Bangalore,Campus,2026-01-31,2026-02-01,2026-02-04,2026-02-06,2026-02-16,Joined,3,1439127,1428537,16
+CAND0798,Amanda Harvey,Java Developer,Technology,Java,6.8,Anjali Kapoor,Vikas Sinha,Deloitte,Bangalore,Career Portal,2025-11-14,2025-11-17,2025-11-20,,,Rejected,1,1159958,1076789,0
+CAND0799,Kathleen Andrade,Business Analyst,Technology,"Excel, SQL",8.4,Neha Patel,Aisha Khan,Google,Pune,Naukri,2026-02-13,2026-02-14,2026-02-16,2026-02-18,2026-03-10,Joined,3,1013245,976712,25
+CAND0800,Douglas Taylor,Java Developer,Technology,Java,11.1,Amit Verma,Rohan Gupta,Target,Chennai,LinkedIn,2025-10-27,2025-10-29,2025-11-02,,,Interview,2,2191273,2183780,0
+CAND0801,Rebecca Wright,DevOps Engineer,Technology,AWS,8.5,Anjali Kapoor,Vikas Sinha,Walmart,Bangalore,Naukri,2026-06-18,2026-06-20,2026-06-23,2026-06-25,2026-07-17,Joined,3,571501,514396,29
+CAND0802,Alicia Reyes,Sales Executive,Sales,CRM,1.8,Priya Singh,Aisha Khan,Amazon,Pune,Campus,2026-05-15,2026-05-18,,,,Screening,1,1924970,1828995,0
+CAND0803,Joshua Washington,Data Analyst,Technology,"SQL, Power BI",6.9,Neha Patel,Rohan Gupta,Walmart,Pune,Career Portal,2026-07-31,2026-08-03,2026-08-08,,,Interview,1,1958571,1832708,0
+CAND0804,Erica Nelson,Business Analyst,Technology,"Excel, SQL",7.3,Neha Patel,Karan Shah,Google,Noida,Career Portal,2025-08-21,2025-08-22,2025-08-24,2025-08-27,,Offered,3,1198736,1113552,0
+CAND0805,Daniel Huang,QA Engineer,Technology,Testing,5.1,Vikram Mehta,Vikas Sinha,ANSR Internal,Hyderabad,LinkedIn,2026-06-09,2026-06-11,2026-06-15,2026-06-17,2026-07-08,Joined,2,936166,869469,29
+CAND0806,Robert Ruiz,HR Executive,HR,Recruitment,8.8,Priya Singh,Ankit Verma,Target,Noida,Consultancy,2025-12-27,2025-12-28,2026-01-01,,,Interview,1,491749,454887,0
+CAND0807,Yvonne Dickson,Sales Executive,Sales,CRM,11.2,Rahul Sharma,Vikas Sinha,Target,Chennai,Career Portal,2025-09-18,2025-09-20,2025-09-25,2025-09-27,2025-10-23,Joined,3,714512,660800,35
+CAND0808,David Ferguson,Java Developer,Technology,Java,11.1,Neha Patel,Arjun Mehra,Amazon,Noida,Naukri,2026-06-14,2026-06-16,2026-06-20,2026-06-22,2026-07-06,Joined,3,437167,451100,22
+CAND0809,Amy Davies,QA Engineer,Technology,Testing,5.4,Priya Singh,Ritika Kapoor,Adobe,Bangalore,Consultancy,2025-11-04,2025-11-06,2025-11-09,2025-11-11,2025-11-19,Joined,2,1399153,1320487,15
+CAND0810,Vickie Price,Java Developer,Technology,Java,1.4,Priya Singh,Arjun Mehra,Walmart,Noida,Referral,2026-08-09,2026-08-12,2026-08-16,2026-08-19,2026-08-30,Joined,3,1761311,1607173,21
+CAND0811,Sarah Thompson,Sales Executive,Sales,CRM,11.8,Sneha Rao,Rohan Gupta,Google,Bangalore,Referral,2026-03-29,2026-03-31,2026-04-02,,,Interview,1,1319725,1332356,0
+CAND0812,Oscar Howard,HR Executive,HR,Recruitment,10.1,Sneha Rao,Vikas Sinha,Deloitte,Hyderabad,Referral,2026-03-28,2026-03-30,2026-04-02,2026-04-04,2026-04-18,Joined,3,1527401,1421380,21
+CAND0813,Michael Meza,DevOps Engineer,Technology,AWS,1.5,Neha Patel,Ankit Verma,Microsoft,Chennai,Naukri,2026-03-17,2026-03-18,2026-03-23,,,Rejected,3,2326821,2158717,0
+CAND0814,Travis Copeland,Python Developer,Technology,Python,11.1,Sneha Rao,Arjun Mehra,ServiceNow,Hyderabad,Naukri,2026-06-21,2026-06-22,,,,Screening,1,2053383,2059758,0
+CAND0815,Katherine Parker,Business Analyst,Technology,"Excel, SQL",10.4,Anjali Kapoor,Vikas Sinha,Deloitte,Chennai,LinkedIn,2026-02-17,2026-02-20,2026-02-22,,,Rejected,2,975841,984637,0
+CAND0816,Anthony Guzman,HR Executive,HR,Recruitment,6.2,Rahul Sharma,Karan Shah,Google,Bangalore,Naukri,2025-08-18,2025-08-21,2025-08-23,,,Interview,1,1441625,1463995,0
+CAND0817,April Hardin,Business Analyst,Technology,"Excel, SQL",7.1,Rohit Jain,Karan Shah,Adobe,Hyderabad,Campus,2025-10-28,2025-10-30,2025-11-02,,,Interview,1,2263639,2314162,0
+CAND0818,Gina Thompson,Data Analyst,Technology,"SQL, Power BI",4.8,Sneha Rao,Karan Shah,Google,Bangalore,LinkedIn,2026-06-18,2026-06-20,2026-06-23,,,Rejected,1,1644611,1505452,0
+CAND0819,Erica Johnson,Java Developer,Technology,Java,0.7,Rahul Sharma,Vikas Sinha,Target,Chennai,Naukri,2026-03-26,2026-03-29,2026-04-03,,,Interview,1,1881889,1878698,0
+CAND0820,Brenda Rodriguez,Recruiter,HR,Talent Acquisition,4.0,Neha Patel,Karan Shah,Adobe,Bangalore,Referral,2026-03-03,2026-03-05,2026-03-07,,,Interview,1,1898657,1730518,0
+CAND0821,Toni Brooks,Sales Executive,Sales,CRM,9.6,Neha Patel,Ritika Kapoor,Target,Noida,Referral,2026-04-25,2026-04-28,,,,Screening,1,1160701,1162923,0
+CAND0822,Brian Turner,QA Engineer,Technology,Testing,0.1,Sneha Rao,Rohan Gupta,Microsoft,Pune,Campus,2025-10-02,2025-10-05,2025-10-07,,,Rejected,1,1948170,2025964,0
+CAND0823,Morgan Kim,Python Developer,Technology,Python,4.0,Neha Patel,Rohan Gupta,Amazon,Chennai,Campus,2026-04-16,2026-04-18,,,,Screening,1,2406689,2460111,0
+CAND0824,Marie Thompson,QA Engineer,Technology,Testing,4.8,Neha Patel,Karan Shah,Walmart,Hyderabad,Naukri,2026-03-17,2026-03-19,2026-03-24,2026-03-27,,Offered,3,2014880,1919961,0
+CAND0825,Tanya Buchanan,Python Developer,Technology,Python,6.4,Amit Verma,Aisha Khan,Target,Noida,Campus,2025-11-05,2025-11-07,2025-11-09,,,Rejected,3,2466120,2416479,0
+CAND0826,Robin Gray,HR Executive,HR,Recruitment,11.0,Amit Verma,Karan Shah,Adobe,Pune,LinkedIn,2026-05-23,,,,,Applied,0,1252616,1314101,0
+CAND0827,Bethany Daniel,Finance Analyst,Finance,Excel,4.2,Vikram Mehta,Ritika Kapoor,Microsoft,Bangalore,Referral,2026-05-10,2026-05-11,2026-05-15,,,Rejected,2,1913550,1965814,0
+CAND0828,Jenna Gamble,Python Developer,Technology,Python,4.2,Anjali Kapoor,Vikas Sinha,Adobe,Hyderabad,LinkedIn,2026-03-19,2026-03-20,2026-03-25,2026-03-28,2026-04-04,Joined,3,977980,897380,16
+CAND0829,Lance Mccall,DevOps Engineer,Technology,AWS,8.9,Rahul Sharma,Karan Shah,Microsoft,Chennai,Consultancy,2026-04-05,2026-04-06,2026-04-09,,,Interview,1,1063426,961898,0
+CAND0830,Keith Zuniga,Data Analyst,Technology,"SQL, Power BI",5.4,Anjali Kapoor,Ritika Kapoor,Amazon,Chennai,Career Portal,2025-10-04,2025-10-06,2025-10-11,2025-10-13,2025-11-12,Joined,3,987673,999738,39
+CAND0831,Blake Reed,Recruiter,HR,Talent Acquisition,2.7,Rahul Sharma,Pooja Nair,Microsoft,Hyderabad,LinkedIn,2025-12-13,2025-12-14,,,,Screening,1,534717,529704,0
+CAND0832,Stephen Davis,Data Analyst,Technology,"SQL, Power BI",5.4,Anjali Kapoor,Aisha Khan,Deloitte,Noida,Career Portal,2026-05-13,2026-05-16,2026-05-19,2026-05-21,,Offered,2,1482358,1538498,0
+CAND0833,Monica Rogers,QA Engineer,Technology,Testing,1.7,Priya Singh,Aisha Khan,Amazon,Hyderabad,Campus,2025-08-15,2025-08-18,,,,Screening,1,634867,592226,0
+CAND0834,David Jones,Finance Analyst,Finance,Excel,2.1,Priya Singh,Ankit Verma,Deloitte,Pune,Career Portal,2025-11-18,2025-11-20,,,,Screening,1,2099112,2149675,0
+CAND0835,Michelle Williams,HR Executive,HR,Recruitment,6.0,Amit Verma,Pooja Nair,Microsoft,Bangalore,LinkedIn,2026-01-28,2026-01-29,2026-02-01,,,Rejected,2,1921280,1902986,0
+CAND0836,Tracy Wilkerson,Python Developer,Technology,Python,5.0,Priya Singh,Karan Shah,Adobe,Noida,LinkedIn,2026-02-18,2026-02-19,2026-02-22,,,Interview,2,1696543,1574666,0
+CAND0837,Heather Bennett,Business Analyst,Technology,"Excel, SQL",11.0,Rahul Sharma,Ankit Verma,Google,Bangalore,Referral,2026-06-28,,,,,Applied,0,790954,823799,0
+CAND0838,Sean Curtis,DevOps Engineer,Technology,AWS,4.3,Sneha Rao,Aisha Khan,ANSR Internal,Hyderabad,Referral,2026-05-04,2026-05-07,,,,Withdrawn,0,2038468,2056515,0
+CAND0839,Jerry Lloyd,Business Analyst,Technology,"Excel, SQL",7.0,Rohit Jain,Aisha Khan,ANSR Internal,Bangalore,Consultancy,2025-08-23,2025-08-25,2025-08-27,2025-08-29,2025-09-10,Joined,2,1029928,930594,18
+CAND0840,Fernando Lynn,Recruiter,HR,Talent Acquisition,7.6,Priya Singh,Karan Shah,Adobe,Hyderabad,Career Portal,2025-09-08,2025-09-11,,,,Screening,1,990820,1006003,0
+CAND0841,Stephen Martin,Finance Analyst,Finance,Excel,0.2,Rohit Jain,Ankit Verma,Amazon,Pune,Referral,2025-09-09,2025-09-10,2025-09-15,,,Rejected,1,1911276,1898892,0
+CAND0842,Stephanie Davis,Java Developer,Technology,Java,8.0,Priya Singh,Ritika Kapoor,Deloitte,Bangalore,LinkedIn,2026-03-29,2026-03-30,2026-04-04,,,Interview,1,998202,1013122,0
+CAND0843,Dr. Michele Reynolds,Recruiter,HR,Talent Acquisition,2.1,Rohit Jain,Ritika Kapoor,ServiceNow,Hyderabad,LinkedIn,2026-04-21,2026-04-22,2026-04-25,,,Interview,2,1574897,1553599,0
+CAND0844,Steve Moore,QA Engineer,Technology,Testing,11.5,Vikram Mehta,Pooja Nair,Deloitte,Hyderabad,LinkedIn,2025-09-19,2025-09-21,2025-09-26,,,Rejected,3,2447906,2217653,0
+CAND0845,William Ortiz,Python Developer,Technology,Python,1.8,Vikram Mehta,Rohan Gupta,ANSR Internal,Noida,Referral,2026-03-14,2026-03-16,2026-03-20,2026-03-23,,Offered,2,1967340,1795244,0
+CAND0846,Monica Baker,Sales Executive,Sales,CRM,5.0,Rahul Sharma,Vikas Sinha,ANSR Internal,Bangalore,Naukri,2025-11-28,2025-11-30,,,,Screening,1,841651,794181,0
+CAND0847,Brendan Long,Business Analyst,Technology,"Excel, SQL",1.0,Amit Verma,Aisha Khan,Deloitte,Bangalore,Referral,2026-03-12,2026-03-14,2026-03-16,2026-03-17,,Offered,2,2354032,2284054,0
+CAND0848,Brittany Ward,Business Analyst,Technology,"Excel, SQL",12.0,Anjali Kapoor,Aisha Khan,Adobe,Chennai,Referral,2026-01-24,2026-01-26,,,,Withdrawn,0,670413,635278,0
+CAND0849,Rodney Weber,Java Developer,Technology,Java,6.0,Vikram Mehta,Karan Shah,ServiceNow,Chennai,LinkedIn,2026-02-13,2026-02-14,,,,Screening,1,1053225,1097755,0
+CAND0850,Alexander Jackson,DevOps Engineer,Technology,AWS,7.1,Rahul Sharma,Aisha Khan,Google,Pune,Campus,2025-12-02,2025-12-03,2025-12-08,,,Interview,2,2385623,2223431,0
+CAND0851,Kara Wilson,QA Engineer,Technology,Testing,0.8,Neha Patel,Karan Shah,Amazon,Bangalore,Referral,2026-06-11,2026-06-13,2026-06-18,,,Rejected,3,2098980,1914807,0
+CAND0852,John Guerrero,Java Developer,Technology,Java,9.0,Sneha Rao,Ritika Kapoor,Google,Bangalore,Campus,2025-09-15,2025-09-16,2025-09-20,,,Interview,2,1834532,1916177,0
+CAND0853,Jasmine Watson,Recruiter,HR,Talent Acquisition,2.5,Vikram Mehta,Ritika Kapoor,Target,Pune,Career Portal,2026-01-06,2026-01-09,2026-01-12,2026-01-13,2026-02-12,Joined,2,2032162,2079820,37
+CAND0854,Jeremy Baker,DevOps Engineer,Technology,AWS,10.8,Rohit Jain,Arjun Mehra,Amazon,Chennai,Naukri,2026-02-07,2026-02-10,,,,Screening,1,2494826,2568785,0
+CAND0855,Russell Elliott,HR Executive,HR,Recruitment,2.5,Sneha Rao,Arjun Mehra,Deloitte,Hyderabad,Career Portal,2025-10-08,2025-10-09,2025-10-12,2025-10-15,2025-10-28,Joined,3,2284620,2275110,20
+CAND0856,Mary Miller,Finance Analyst,Finance,Excel,2.3,Neha Patel,Aisha Khan,Adobe,Pune,Naukri,2025-12-22,2025-12-23,2025-12-27,2025-12-29,2026-01-05,Joined,3,1201778,1256773,14
+CAND0857,Jennifer Avila,QA Engineer,Technology,Testing,0.4,Priya Singh,Ankit Verma,Deloitte,Chennai,Campus,2025-11-07,2025-11-10,2025-11-14,2025-11-15,,Offered,2,1875258,1786805,0
+CAND0858,Sara Cardenas,Recruiter,HR,Talent Acquisition,5.7,Anjali Kapoor,Rohan Gupta,Amazon,Noida,Consultancy,2026-01-20,2026-01-23,2026-01-28,,,Interview,2,1082233,1062119,0
+CAND0859,Melissa Mayer,Sales Executive,Sales,CRM,6.8,Priya Singh,Karan Shah,Microsoft,Bangalore,Career Portal,2026-03-21,2026-03-23,2026-03-25,2026-03-28,,Offered,3,468897,465351,0
+CAND0860,Karen Miller,Finance Analyst,Finance,Excel,0.8,Rahul Sharma,Pooja Nair,Target,Hyderabad,Naukri,2026-07-27,2026-07-29,,,,Screening,1,2306855,2267034,0
+CAND0861,Amanda Duncan,Business Analyst,Technology,"Excel, SQL",9.3,Rohit Jain,Ankit Verma,Target,Chennai,LinkedIn,2026-02-27,2026-03-01,2026-03-05,2026-03-07,,Offered,3,1971369,2005531,0
+CAND0862,Megan Oliver,Java Developer,Technology,Java,5.4,Rahul Sharma,Aisha Khan,Google,Bangalore,LinkedIn,2025-09-26,2025-09-29,2025-10-03,,,Rejected,2,1043302,1062682,0
+CAND0863,Joann Rush,Python Developer,Technology,Python,6.3,Anjali Kapoor,Vikas Sinha,ANSR Internal,Chennai,Naukri,2025-10-14,2025-10-17,2025-10-22,,,Rejected,1,2049694,2099465,0
+CAND0864,Rhonda Martinez,HR Executive,HR,Recruitment,5.3,Neha Patel,Aisha Khan,Walmart,Noida,Naukri,2026-01-22,2026-01-23,2026-01-25,2026-01-28,2026-02-22,Joined,3,2234595,2088553,31
+CAND0865,Michael Harris,QA Engineer,Technology,Testing,4.8,Neha Patel,Rohan Gupta,Adobe,Bangalore,LinkedIn,2026-06-26,2026-06-29,2026-07-02,2026-07-03,2026-07-29,Joined,2,507542,490089,33
+CAND0866,Sandra Scott,Sales Executive,Sales,CRM,6.7,Anjali Kapoor,Arjun Mehra,Amazon,Chennai,Career Portal,2026-07-30,2026-07-31,2026-08-04,2026-08-05,2026-08-29,Joined,2,1902069,1765088,30
+CAND0867,Renee Miller,HR Executive,HR,Recruitment,1.9,Sneha Rao,Arjun Mehra,ServiceNow,Bangalore,Naukri,2026-03-15,2026-03-16,2026-03-18,2026-03-20,2026-04-15,Joined,2,497059,494950,31
+CAND0868,Gabriel Hill,Business Analyst,Technology,"Excel, SQL",2.2,Neha Patel,Pooja Nair,ServiceNow,Hyderabad,LinkedIn,2026-02-04,2026-02-05,2026-02-10,,,Interview,1,724561,705821,0
+CAND0869,Alexandria Graves,Recruiter,HR,Talent Acquisition,10.3,Rahul Sharma,Aisha Khan,Microsoft,Chennai,Career Portal,2026-03-27,2026-03-29,2026-04-03,2026-04-04,,Offered,2,720078,670784,0
+CAND0870,Jennifer Perry,QA Engineer,Technology,Testing,11.4,Rahul Sharma,Ritika Kapoor,Google,Bangalore,Referral,2025-10-07,2025-10-10,2025-10-12,2025-10-13,2025-11-05,Joined,3,1854516,1803677,29
+CAND0871,Lauren Hanna,Business Analyst,Technology,"Excel, SQL",4.5,Amit Verma,Arjun Mehra,ANSR Internal,Bangalore,Consultancy,2025-09-18,2025-09-19,2025-09-21,,,Interview,2,1038985,968797,0
+CAND0872,Kristine Garcia,Python Developer,Technology,Python,3.2,Amit Verma,Karan Shah,Amazon,Pune,Referral,2025-11-30,,,,,Applied,0,2419871,2250203,0
+CAND0873,Sheryl Humphrey,Finance Analyst,Finance,Excel,7.7,Sneha Rao,Ankit Verma,Deloitte,Chennai,Consultancy,2025-11-21,2025-11-22,2025-11-26,,,Interview,2,2077478,2157153,0
+CAND0874,John Lynch,Business Analyst,Technology,"Excel, SQL",4.9,Sneha Rao,Ritika Kapoor,Adobe,Chennai,Campus,2025-08-25,2025-08-27,2025-08-29,2025-09-01,2025-09-20,Joined,3,2271321,2188555,26
+CAND0875,Jamie Montgomery,Java Developer,Technology,Java,0.3,Rohit Jain,Rohan Gupta,Microsoft,Chennai,Naukri,2026-05-02,2026-05-04,2026-05-08,,,Interview,2,541599,565274,0
+CAND0876,Amanda Preston,HR Executive,HR,Recruitment,1.9,Rahul Sharma,Karan Shah,Amazon,Pune,Campus,2025-12-17,,,,,Applied,0,1179783,1125113,0
+CAND0877,Amber Alvarez,DevOps Engineer,Technology,AWS,8.6,Rohit Jain,Ritika Kapoor,Walmart,Bangalore,LinkedIn,2025-11-23,2025-11-24,2025-11-29,2025-12-02,2025-12-19,Joined,2,1736259,1741891,26
+CAND0878,Alicia Roth,Finance Analyst,Finance,Excel,7.9,Priya Singh,Aisha Khan,ServiceNow,Noida,Naukri,2025-12-06,2025-12-09,2025-12-11,,,Interview,2,1312107,1201152,0
+CAND0879,Ryan Garrison,HR Executive,HR,Recruitment,0.3,Rohit Jain,Rohan Gupta,Adobe,Hyderabad,LinkedIn,2026-05-03,2026-05-05,,,,Withdrawn,0,2471710,2409417,0
+CAND0880,Sean Taylor,Business Analyst,Technology,"Excel, SQL",2.7,Priya Singh,Ankit Verma,Amazon,Noida,Referral,2026-05-26,,,,,Applied,0,2005820,1876370,0
+CAND0881,Roger Adams,Data Analyst,Technology,"SQL, Power BI",2.8,Rahul Sharma,Ankit Verma,ServiceNow,Hyderabad,Campus,2026-01-19,2026-01-20,2026-01-24,,,Rejected,3,555223,574308,0
+CAND0882,Ann Alexander,Data Analyst,Technology,"SQL, Power BI",8.1,Priya Singh,Ankit Verma,Microsoft,Chennai,Career Portal,2026-07-31,2026-08-02,2026-08-04,2026-08-07,2026-08-24,Joined,3,1662478,1564726,24
+CAND0883,Natalie Malone,Sales Executive,Sales,CRM,0.2,Rahul Sharma,Aisha Khan,ServiceNow,Chennai,Campus,2026-07-13,2026-07-14,2026-07-16,,,Rejected,1,909242,933301,0
+CAND0884,Anthony Moody,Data Analyst,Technology,"SQL, Power BI",1.2,Rahul Sharma,Ritika Kapoor,Microsoft,Pune,Career Portal,2025-09-05,,,,,Applied,0,2227384,2080267,0
+CAND0885,Jonathon Taylor,DevOps Engineer,Technology,AWS,9.6,Rahul Sharma,Arjun Mehra,ServiceNow,Bangalore,LinkedIn,2026-07-07,,,,,Applied,0,601340,626639,0
+CAND0886,Laura Thompson,DevOps Engineer,Technology,AWS,2.1,Anjali Kapoor,Pooja Nair,Amazon,Hyderabad,Consultancy,2026-07-16,2026-07-17,2026-07-22,,,Interview,2,2332289,2141006,0
+CAND0887,Sara Wright,Business Analyst,Technology,"Excel, SQL",7.8,Amit Verma,Ankit Verma,Deloitte,Pune,Referral,2026-02-04,2026-02-06,2026-02-08,,,Interview,2,2424617,2264288,0
+CAND0888,Isaac Gonzalez,Finance Analyst,Finance,Excel,2.9,Amit Verma,Vikas Sinha,Microsoft,Bangalore,Campus,2026-01-01,2026-01-03,2026-01-08,2026-01-09,2026-01-31,Joined,2,652777,608304,30
+CAND0889,Kathy Reid,DevOps Engineer,Technology,AWS,1.2,Amit Verma,Rohan Gupta,ServiceNow,Chennai,Career Portal,2025-09-28,2025-09-29,,,,Screening,1,1045918,1074336,0
+CAND0890,Dana Burns,Java Developer,Technology,Java,2.9,Rohit Jain,Aisha Khan,Deloitte,Noida,Consultancy,2026-01-31,2026-02-02,,,,Screening,1,1251530,1272809,0
+CAND0891,Seth Matthews,HR Executive,HR,Recruitment,8.7,Neha Patel,Pooja Nair,Microsoft,Hyderabad,Campus,2025-12-24,2025-12-26,2025-12-29,,,Interview,2,849517,859502,0
+CAND0892,Ryan Green,Data Analyst,Technology,"SQL, Power BI",10.3,Vikram Mehta,Ankit Verma,Walmart,Pune,LinkedIn,2026-06-29,2026-07-01,2026-07-06,,,Interview,2,752601,717352,0
+CAND0893,Dominique Hughes,Data Analyst,Technology,"SQL, Power BI",10.0,Vikram Mehta,Pooja Nair,Walmart,Bangalore,LinkedIn,2025-10-13,2025-10-15,2025-10-18,2025-10-20,,Offered,2,2004415,2024058,0
+CAND0894,Penny Lewis,Sales Executive,Sales,CRM,4.8,Sneha Rao,Ankit Verma,ANSR Internal,Chennai,LinkedIn,2025-11-04,2025-11-05,,,,Withdrawn,0,609176,607319,0
+CAND0895,Megan Adams,Business Analyst,Technology,"Excel, SQL",8.0,Rahul Sharma,Arjun Mehra,ServiceNow,Hyderabad,LinkedIn,2026-01-17,2026-01-20,2026-01-25,,,Rejected,2,823758,775418,0
+CAND0896,Sharon Coffey,HR Executive,HR,Recruitment,2.5,Priya Singh,Vikas Sinha,ServiceNow,Chennai,Naukri,2026-05-02,2026-05-04,2026-05-08,,,Interview,1,1117348,1137302,0
+CAND0897,Thomas Holland,Business Analyst,Technology,"Excel, SQL",3.5,Neha Patel,Ankit Verma,ServiceNow,Hyderabad,Naukri,2026-04-01,2026-04-03,,,,Screening,1,1721677,1725492,0
+CAND0898,Courtney Franklin,Recruiter,HR,Talent Acquisition,10.8,Neha Patel,Arjun Mehra,Deloitte,Chennai,Referral,2025-12-07,2025-12-08,2025-12-11,,,Interview,1,487354,451595,0
+CAND0899,Michelle Hill,Sales Executive,Sales,CRM,0.2,Rohit Jain,Ankit Verma,Google,Chennai,Naukri,2026-07-24,2026-07-27,2026-07-31,,,Rejected,1,2382094,2182969,0
+CAND0900,Gregory King,Finance Analyst,Finance,Excel,1.0,Neha Patel,Ritika Kapoor,Microsoft,Bangalore,Referral,2026-02-08,2026-02-11,2026-02-15,2026-02-18,2026-03-12,Joined,3,1807932,1749883,32
+CAND0901,Joseph Hanson,DevOps Engineer,Technology,AWS,2.5,Vikram Mehta,Arjun Mehra,Walmart,Pune,Career Portal,2026-03-25,2026-03-28,2026-04-02,2026-04-03,2026-04-18,Joined,2,1799802,1860465,24
+CAND0902,Jorge Bates,Python Developer,Technology,Python,0.3,Anjali Kapoor,Vikas Sinha,Amazon,Pune,Campus,2026-07-04,2026-07-06,2026-07-10,2026-07-11,2026-08-10,Joined,2,529623,496074,37
+CAND0903,Kristina Wheeler,Java Developer,Technology,Java,2.2,Anjali Kapoor,Karan Shah,ServiceNow,Noida,Campus,2025-11-28,2025-11-30,2025-12-05,2025-12-08,2025-12-28,Joined,3,1133802,1065543,30
+CAND0904,Brian Brown,QA Engineer,Technology,Testing,7.0,Amit Verma,Arjun Mehra,ANSR Internal,Pune,Consultancy,2025-11-26,2025-11-28,2025-12-02,2025-12-03,,Offered,2,915736,883702,0
+CAND0905,Shannon Green,Recruiter,HR,Talent Acquisition,5.1,Neha Patel,Ankit Verma,Amazon,Noida,Referral,2026-05-14,2026-05-16,2026-05-18,,,Interview,2,1082022,1023102,0
+CAND0906,Marisa Lopez,Data Analyst,Technology,"SQL, Power BI",10.7,Amit Verma,Pooja Nair,Microsoft,Bangalore,Campus,2026-02-27,2026-02-28,2026-03-02,,,Interview,2,1682708,1515722,0
+CAND0907,Stephanie Trujillo,Python Developer,Technology,Python,9.8,Rohit Jain,Pooja Nair,ANSR Internal,Noida,Naukri,2026-06-18,2026-06-21,,,,Screening,1,760724,766033,0
+CAND0908,Jennifer Flores,Java Developer,Technology,Java,4.1,Anjali Kapoor,Karan Shah,ServiceNow,Hyderabad,LinkedIn,2025-10-04,2025-10-07,2025-10-12,,,Interview,2,2384651,2479894,0
+CAND0909,Mary Bright,HR Executive,HR,Recruitment,3.1,Priya Singh,Pooja Nair,ServiceNow,Noida,Referral,2025-11-19,2025-11-21,2025-11-24,2025-11-27,2025-12-10,Joined,3,1126881,1109511,21
+CAND0910,Jennifer Doyle,Python Developer,Technology,Python,4.6,Anjali Kapoor,Vikas Sinha,ServiceNow,Pune,LinkedIn,2026-03-25,2026-03-28,2026-03-31,2026-04-02,2026-04-22,Joined,2,1647109,1622401,28
+CAND0911,Laura Lee,Python Developer,Technology,Python,7.1,Vikram Mehta,Rohan Gupta,ANSR Internal,Pune,Campus,2026-05-20,2026-05-22,2026-05-27,2026-05-28,,Offered,2,1885596,1817998,0
+CAND0912,Melissa Little,HR Executive,HR,Recruitment,3.2,Priya Singh,Ritika Kapoor,ServiceNow,Hyderabad,Consultancy,2026-02-11,2026-02-14,2026-02-18,2026-02-19,,Offered,3,1964941,1805960,0
+CAND0913,Megan Romero,Python Developer,Technology,Python,7.5,Anjali Kapoor,Arjun Mehra,Deloitte,Noida,Campus,2026-07-05,2026-07-08,2026-07-10,,,Interview,2,627944,573123,0
+CAND0914,Matthew Grant,Sales Executive,Sales,CRM,4.9,Priya Singh,Pooja Nair,Deloitte,Pune,LinkedIn,2025-12-03,2025-12-06,2025-12-08,2025-12-11,2025-12-24,Joined,2,909367,919434,21
+CAND0915,Carl Green,Finance Analyst,Finance,Excel,6.6,Vikram Mehta,Ritika Kapoor,Adobe,Hyderabad,Referral,2026-06-20,2026-06-22,2026-06-25,,,Rejected,1,1703970,1717382,0
+CAND0916,Susan Arroyo,Business Analyst,Technology,"Excel, SQL",5.2,Rahul Sharma,Ritika Kapoor,Microsoft,Noida,LinkedIn,2026-07-26,2026-07-29,2026-08-03,2026-08-05,,Offered,2,1436857,1337202,0
+CAND0917,Brandon Kelly,Business Analyst,Technology,"Excel, SQL",3.5,Sneha Rao,Aisha Khan,Deloitte,Hyderabad,Naukri,2026-05-27,2026-05-30,2026-06-01,2026-06-03,2026-06-14,Joined,2,1491657,1526342,18
+CAND0918,Jennifer Eaton,Python Developer,Technology,Python,11.4,Neha Patel,Vikas Sinha,Amazon,Noida,Career Portal,2026-01-02,2026-01-05,2026-01-07,,,Interview,2,1240333,1204888,0
+CAND0919,Edward York,DevOps Engineer,Technology,AWS,9.2,Sneha Rao,Aisha Khan,Target,Bangalore,Campus,2026-02-09,2026-02-11,,,,Screening,1,2148590,2195910,0
+CAND0920,Mark Carpenter,Recruiter,HR,Talent Acquisition,1.7,Priya Singh,Aisha Khan,Google,Noida,Referral,2026-04-09,2026-04-12,2026-04-17,,,Rejected,1,542956,541200,0
+CAND0921,Steve Mason,DevOps Engineer,Technology,AWS,10.4,Neha Patel,Ankit Verma,Deloitte,Pune,LinkedIn,2026-07-13,2026-07-16,2026-07-19,,,Rejected,2,1064019,1014714,0
+CAND0922,Kendra Gutierrez,Finance Analyst,Finance,Excel,5.8,Anjali Kapoor,Karan Shah,Amazon,Hyderabad,Referral,2026-07-15,2026-07-16,2026-07-20,,,Rejected,3,1823089,1766431,0
+CAND0923,Brenda Gonzalez,QA Engineer,Technology,Testing,10.7,Anjali Kapoor,Karan Shah,Deloitte,Chennai,Campus,2026-01-16,2026-01-19,2026-01-23,,,Rejected,1,1156545,1140822,0
+CAND0924,Dr. Victoria Thomas,DevOps Engineer,Technology,AWS,9.6,Rohit Jain,Aisha Khan,Microsoft,Bangalore,LinkedIn,2026-07-11,2026-07-13,2026-07-18,2026-07-20,2026-08-03,Joined,2,1067647,997989,23
+CAND0925,Peggy Freeman,Business Analyst,Technology,"Excel, SQL",5.1,Neha Patel,Aisha Khan,Target,Bangalore,LinkedIn,2026-04-13,2026-04-14,2026-04-19,,,Rejected,2,1450605,1330452,0
+CAND0926,Mrs. Amy Hayes,Sales Executive,Sales,CRM,0.3,Rahul Sharma,Ritika Kapoor,Walmart,Bangalore,Career Portal,2025-10-31,2025-11-03,,,,Withdrawn,0,2285380,2186295,0
+CAND0927,Caroline Duran,Finance Analyst,Finance,Excel,3.2,Amit Verma,Vikas Sinha,ServiceNow,Chennai,Campus,2026-02-17,2026-02-19,2026-02-22,2026-02-23,2026-03-20,Joined,2,1599945,1494067,31
+CAND0928,Penny Anderson,Business Analyst,Technology,"Excel, SQL",6.5,Amit Verma,Arjun Mehra,Amazon,Bangalore,Referral,2026-01-26,2026-01-28,2026-01-31,,,Rejected,3,2111390,2080234,0
+CAND0929,Jennifer Sanford,Finance Analyst,Finance,Excel,7.6,Vikram Mehta,Vikas Sinha,Adobe,Noida,Campus,2026-01-06,2026-01-07,2026-01-09,,,Rejected,2,1876839,1789514,0
+CAND0930,Joseph Cross,HR Executive,HR,Recruitment,3.1,Anjali Kapoor,Karan Shah,Microsoft,Hyderabad,Consultancy,2025-08-16,2025-08-17,2025-08-21,2025-08-22,,Offered,2,1650854,1510757,0
+CAND0931,Nicole Schmidt,QA Engineer,Technology,Testing,1.7,Sneha Rao,Aisha Khan,Walmart,Bangalore,Naukri,2025-08-17,2025-08-20,2025-08-24,2025-08-26,2025-09-21,Joined,2,1608248,1465462,35
+CAND0932,Lori Wright,Finance Analyst,Finance,Excel,10.0,Priya Singh,Ankit Verma,ServiceNow,Bangalore,LinkedIn,2026-05-07,2026-05-08,2026-05-11,,,Interview,1,1817864,1750986,0
+CAND0933,Emily Garcia,Finance Analyst,Finance,Excel,11.8,Rohit Jain,Arjun Mehra,Adobe,Chennai,LinkedIn,2026-02-22,,,,,Applied,0,548319,521932,0
+CAND0934,Carol Colon,HR Executive,HR,Recruitment,6.3,Priya Singh,Ankit Verma,Amazon,Pune,Career Portal,2025-12-04,2025-12-05,2025-12-09,2025-12-11,,Offered,3,575074,526543,0
+CAND0935,Joy Meyer,QA Engineer,Technology,Testing,2.1,Amit Verma,Arjun Mehra,Google,Bangalore,Naukri,2026-03-02,2026-03-05,2026-03-10,2026-03-11,2026-03-30,Joined,3,1991270,1995832,28
+CAND0936,Stephen Cowan,Python Developer,Technology,Python,3.3,Anjali Kapoor,Aisha Khan,ANSR Internal,Hyderabad,LinkedIn,2025-12-22,2025-12-24,2025-12-28,2025-12-29,2026-01-15,Joined,3,2236907,2052807,24
+CAND0937,Katherine Christensen MD,Data Analyst,Technology,"SQL, Power BI",0.2,Amit Verma,Vikas Sinha,Microsoft,Noida,LinkedIn,2026-07-29,2026-08-01,2026-08-03,2026-08-04,2026-09-03,Joined,2,1352635,1301180,36
+CAND0938,Jennifer Perez,Data Analyst,Technology,"SQL, Power BI",11.0,Priya Singh,Arjun Mehra,Amazon,Chennai,Naukri,2026-05-20,2026-05-23,2026-05-26,,,Interview,2,1585293,1437159,0
+CAND0939,Mrs. Alison Wagner,Python Developer,Technology,Python,1.4,Anjali Kapoor,Ankit Verma,Microsoft,Bangalore,LinkedIn,2025-09-27,2025-09-30,2025-10-04,,,Interview,1,1449410,1508481,0
+CAND0940,Matthew Johnson,Recruiter,HR,Talent Acquisition,6.9,Sneha Rao,Rohan Gupta,ANSR Internal,Pune,Career Portal,2026-07-17,2026-07-20,2026-07-22,,,Interview,1,1424273,1394401,0
+CAND0941,Patricia Dean,DevOps Engineer,Technology,AWS,3.3,Anjali Kapoor,Ankit Verma,ServiceNow,Bangalore,Naukri,2026-03-29,2026-03-31,2026-04-03,2026-04-04,,Offered,3,975171,1000733,0
+CAND0942,Mary Valdez MD,Python Developer,Technology,Python,6.7,Rahul Sharma,Vikas Sinha,Deloitte,Chennai,LinkedIn,2026-05-05,,,,,Applied,0,489295,476982,0
+CAND0943,Jeremy Martinez,QA Engineer,Technology,Testing,7.8,Anjali Kapoor,Pooja Nair,Microsoft,Bangalore,Referral,2025-11-17,2025-11-19,2025-11-24,,,Rejected,1,2010345,1958686,0
+CAND0944,Christian Neal,Java Developer,Technology,Java,10.0,Amit Verma,Aisha Khan,Amazon,Chennai,Consultancy,2026-04-12,,,,,Applied,0,619192,618610,0
+CAND0945,Jason Garcia,DevOps Engineer,Technology,AWS,2.5,Rahul Sharma,Rohan Gupta,ServiceNow,Noida,Naukri,2026-03-01,2026-03-03,2026-03-08,,,Rejected,3,514693,489545,0
+CAND0946,Larry Taylor,Data Analyst,Technology,"SQL, Power BI",0.1,Priya Singh,Aisha Khan,ServiceNow,Noida,Campus,2026-06-29,2026-07-02,2026-07-06,2026-07-07,2026-07-26,Joined,3,2177692,2146965,27
+CAND0947,Kayla Williamson,Java Developer,Technology,Java,1.6,Neha Patel,Arjun Mehra,ServiceNow,Pune,LinkedIn,2025-11-28,2025-12-01,2025-12-06,,,Interview,1,1448293,1471032,0
+CAND0948,Brian Gonzalez,Sales Executive,Sales,CRM,10.8,Sneha Rao,Rohan Gupta,ServiceNow,Pune,Career Portal,2025-10-27,2025-10-29,2025-11-02,2025-11-03,2025-11-24,Joined,3,451754,415001,28
+CAND0949,Sandra Dudley,Data Analyst,Technology,"SQL, Power BI",10.5,Vikram Mehta,Arjun Mehra,Deloitte,Bangalore,Referral,2025-12-28,2025-12-30,2026-01-01,2026-01-04,2026-01-13,Joined,3,2414137,2403663,16
+CAND0950,Elizabeth Williams,Sales Executive,Sales,CRM,7.2,Rohit Jain,Karan Shah,Deloitte,Hyderabad,Referral,2026-02-19,2026-02-20,2026-02-23,2026-02-24,,Offered,2,1558233,1463073,0
+CAND0951,Melissa Castillo,Java Developer,Technology,Java,7.2,Priya Singh,Arjun Mehra,Amazon,Noida,Campus,2025-11-10,2025-11-11,2025-11-15,2025-11-17,2025-11-24,Joined,3,1730997,1568791,14
+CAND0952,Michael Meadows,Finance Analyst,Finance,Excel,8.0,Rahul Sharma,Vikas Sinha,Walmart,Bangalore,LinkedIn,2026-07-01,,,,,Applied,0,2261485,2073730,0
+CAND0953,Kathleen Herring,Java Developer,Technology,Java,2.1,Rohit Jain,Rohan Gupta,Target,Bangalore,Career Portal,2026-06-09,2026-06-11,,,,Screening,1,2188767,2257446,0
+CAND0954,Misty Garcia,Sales Executive,Sales,CRM,11.0,Rohit Jain,Rohan Gupta,Target,Pune,Campus,2025-11-18,2025-11-19,,,,Screening,1,1633389,1622424,0
+CAND0955,Joyce Madden,QA Engineer,Technology,Testing,5.0,Neha Patel,Arjun Mehra,Microsoft,Noida,Naukri,2025-11-21,2025-11-24,2025-11-28,2025-11-29,2025-12-18,Joined,2,1713260,1673202,27
+CAND0956,Brett Thompson,Python Developer,Technology,Python,4.6,Anjali Kapoor,Karan Shah,Microsoft,Hyderabad,Consultancy,2025-08-26,2025-08-29,,,,Screening,1,2153555,2112303,0
+CAND0957,Heather Rhodes,Data Analyst,Technology,"SQL, Power BI",6.2,Vikram Mehta,Ankit Verma,Walmart,Pune,Naukri,2026-01-23,2026-01-25,2026-01-28,,,Interview,2,1629204,1688931,0
+CAND0958,Anna Chang,DevOps Engineer,Technology,AWS,0.6,Priya Singh,Vikas Sinha,Deloitte,Chennai,Referral,2025-08-28,2025-08-30,2025-09-04,2025-09-07,,Offered,2,734244,699585,0
+CAND0959,Charles Holland,Recruiter,HR,Talent Acquisition,2.0,Anjali Kapoor,Vikas Sinha,Amazon,Noida,Naukri,2025-12-16,2025-12-19,2025-12-23,2025-12-25,2026-01-11,Joined,3,2109671,2112024,26
+CAND0960,Jeffrey Howell,Business Analyst,Technology,"Excel, SQL",8.9,Priya Singh,Aisha Khan,Target,Noida,Naukri,2026-07-18,2026-07-19,2026-07-24,2026-07-25,2026-08-06,Joined,2,2472826,2460200,19
+CAND0961,Jacqueline Cooper,HR Executive,HR,Recruitment,1.0,Sneha Rao,Ankit Verma,Microsoft,Hyderabad,LinkedIn,2025-09-24,2025-09-25,,,,Screening,1,2209506,1996486,0
+CAND0962,Victor Nelson,Python Developer,Technology,Python,7.2,Anjali Kapoor,Aisha Khan,Walmart,Hyderabad,Campus,2026-01-07,2026-01-09,,,,Screening,1,1412651,1422253,0
+CAND0963,Karen Fisher,Sales Executive,Sales,CRM,2.9,Priya Singh,Arjun Mehra,Microsoft,Pune,Campus,2026-07-21,2026-07-23,2026-07-27,2026-07-29,2026-08-27,Joined,2,2114944,2103575,37
+CAND0964,Ashley Horton,Python Developer,Technology,Python,4.7,Priya Singh,Ritika Kapoor,Google,Noida,Consultancy,2025-09-02,2025-09-04,2025-09-09,2025-09-10,,Offered,3,1951363,1953482,0
+CAND0965,Dr. Ashley Pruitt,Business Analyst,Technology,"Excel, SQL",3.5,Amit Verma,Pooja Nair,Deloitte,Pune,LinkedIn,2026-02-14,2026-02-15,2026-02-18,,,Interview,1,2189665,2064391,0
+CAND0966,Meghan White,Java Developer,Technology,Java,4.3,Anjali Kapoor,Pooja Nair,Walmart,Bangalore,Referral,2026-01-05,2026-01-07,2026-01-12,,,Interview,1,1594499,1474654,0
+CAND0967,Lisa Huffman,Python Developer,Technology,Python,8.6,Sneha Rao,Pooja Nair,Microsoft,Hyderabad,Career Portal,2026-07-18,2026-07-21,2026-07-24,,,Interview,1,1568653,1444965,0
+CAND0968,Valerie Anderson,Sales Executive,Sales,CRM,3.6,Rahul Sharma,Vikas Sinha,Google,Chennai,LinkedIn,2026-08-03,2026-08-06,2026-08-11,,,Rejected,3,1949965,1814386,0
+CAND0969,Stephen Alexander Jr.,Recruiter,HR,Talent Acquisition,6.8,Neha Patel,Ankit Verma,ServiceNow,Bangalore,Career Portal,2026-04-22,2026-04-24,2026-04-26,2026-04-27,,Offered,3,903067,872959,0
+CAND0970,Michael Gregory,Business Analyst,Technology,"Excel, SQL",5.7,Rohit Jain,Karan Shah,Adobe,Bangalore,Referral,2026-06-05,2026-06-08,2026-06-10,,,Interview,2,1057361,1032046,0
+CAND0971,Misty Walker,Data Analyst,Technology,"SQL, Power BI",8.0,Anjali Kapoor,Karan Shah,ANSR Internal,Pune,Naukri,2026-04-28,2026-04-29,2026-05-02,2026-05-05,2026-05-24,Joined,2,549468,572753,26
+CAND0972,Kelly Watts,Java Developer,Technology,Java,11.2,Sneha Rao,Ankit Verma,Amazon,Chennai,Naukri,2026-04-08,2026-04-09,,,,Screening,1,2483421,2340350,0
+CAND0973,Matthew Wright,Finance Analyst,Finance,Excel,8.8,Amit Verma,Arjun Mehra,Target,Bangalore,Campus,2025-12-23,,,,,Applied,0,1274709,1282992,0
+CAND0974,Margaret Hernandez,QA Engineer,Technology,Testing,2.6,Anjali Kapoor,Vikas Sinha,Walmart,Chennai,Consultancy,2026-06-27,2026-06-29,2026-07-04,,,Rejected,2,1155244,1191846,0
+CAND0975,Victoria Brown,HR Executive,HR,Recruitment,0.4,Rohit Jain,Ankit Verma,ServiceNow,Bangalore,Naukri,2026-04-17,2026-04-19,2026-04-24,,,Rejected,2,871303,910021,0
+CAND0976,Kathy Harrison,DevOps Engineer,Technology,AWS,3.1,Amit Verma,Aisha Khan,Microsoft,Hyderabad,Campus,2026-02-19,2026-02-21,2026-02-24,,,Interview,2,1737588,1736010,0
+CAND0977,Angela Vasquez,Recruiter,HR,Talent Acquisition,7.1,Anjali Kapoor,Vikas Sinha,Google,Pune,Referral,2025-11-12,2025-11-13,2025-11-17,2025-11-19,2025-12-17,Joined,3,1302220,1345807,35
+CAND0978,Donald Hunter,HR Executive,HR,Recruitment,0.6,Anjali Kapoor,Ankit Verma,Target,Chennai,Referral,2026-03-12,2026-03-14,2026-03-16,2026-03-18,2026-04-08,Joined,3,629148,591554,27
+CAND0979,Jennifer Young,Java Developer,Technology,Java,6.0,Neha Patel,Vikas Sinha,Microsoft,Noida,Consultancy,2026-02-05,2026-02-08,2026-02-10,2026-02-12,,Offered,2,1782795,1639070,0
+CAND0980,Kenneth Miller,DevOps Engineer,Technology,AWS,7.2,Rohit Jain,Karan Shah,Google,Noida,Naukri,2026-02-20,2026-02-23,,,,Withdrawn,0,1918748,1880988,0
+CAND0981,Bryan Jimenez,HR Executive,HR,Recruitment,4.0,Amit Verma,Pooja Nair,Amazon,Pune,Referral,2026-04-21,2026-04-22,2026-04-24,2026-04-25,2026-05-18,Joined,2,2133905,1989529,27
+CAND0982,Jamie Johnson,Finance Analyst,Finance,Excel,9.3,Anjali Kapoor,Ankit Verma,Google,Hyderabad,Referral,2026-03-12,2026-03-15,2026-03-18,2026-03-19,2026-04-03,Joined,2,1664441,1504049,22
+CAND0983,Brandon Munoz,HR Executive,HR,Recruitment,1.3,Anjali Kapoor,Ritika Kapoor,ServiceNow,Bangalore,LinkedIn,2026-04-08,2026-04-11,2026-04-16,2026-04-17,2026-04-24,Joined,2,709918,692650,16
+CAND0984,Stefanie Hart,Business Analyst,Technology,"Excel, SQL",0.9,Anjali Kapoor,Vikas Sinha,ServiceNow,Pune,Campus,2026-04-22,2026-04-23,2026-04-27,2026-04-30,,Offered,3,498280,471035,0
+CAND0985,Tiffany Cox,HR Executive,HR,Recruitment,8.7,Sneha Rao,Aisha Khan,Microsoft,Hyderabad,Campus,2025-09-01,2025-09-04,2025-09-07,,,Rejected,2,1568356,1525230,0
+CAND0986,Sarah Rivera,Data Analyst,Technology,"SQL, Power BI",5.9,Vikram Mehta,Aisha Khan,Walmart,Noida,Career Portal,2026-06-05,2026-06-06,2026-06-11,2026-06-12,2026-07-03,Joined,3,854261,826788,28
+CAND0987,Kara Sandoval,Recruiter,HR,Talent Acquisition,8.3,Priya Singh,Pooja Nair,Walmart,Hyderabad,Career Portal,2026-05-16,2026-05-18,,,,Screening,1,750788,686451,0
+CAND0988,Brent Hopkins,Sales Executive,Sales,CRM,5.2,Amit Verma,Karan Shah,Amazon,Chennai,Consultancy,2025-08-11,2025-08-12,2025-08-14,,,Rejected,2,2386064,2334789,0
+CAND0989,Ronald Brandt,QA Engineer,Technology,Testing,3.0,Anjali Kapoor,Pooja Nair,Walmart,Hyderabad,LinkedIn,2025-12-02,2025-12-03,2025-12-07,2025-12-10,2025-12-23,Joined,3,1748229,1754084,21
+CAND0990,Jacqueline Rodriguez,Finance Analyst,Finance,Excel,9.8,Vikram Mehta,Rohan Gupta,Adobe,Pune,Campus,2026-07-25,2026-07-28,2026-07-30,,,Rejected,1,2425833,2370438,0
+CAND0991,Charles Love,HR Executive,HR,Recruitment,9.6,Priya Singh,Aisha Khan,Amazon,Bangalore,Naukri,2026-05-18,2026-05-19,2026-05-21,2026-05-23,,Offered,3,909514,841236,0
+CAND0992,David Gonzalez,Python Developer,Technology,Python,8.3,Vikram Mehta,Ritika Kapoor,ANSR Internal,Chennai,Campus,2025-09-26,2025-09-28,2025-10-02,2025-10-05,,Offered,3,438833,414483,0
+CAND0993,Jenna Bryant,Sales Executive,Sales,CRM,3.3,Rohit Jain,Ritika Kapoor,Amazon,Pune,Consultancy,2026-06-10,2026-06-12,,,,Withdrawn,0,1257575,1283257,0
+CAND0994,George Sherman,Finance Analyst,Finance,Excel,7.1,Sneha Rao,Ankit Verma,Deloitte,Hyderabad,Referral,2025-08-29,2025-08-31,2025-09-02,2025-09-04,2025-09-24,Joined,2,967653,894726,26
+CAND0995,Sara Chapman,Python Developer,Technology,Python,4.3,Vikram Mehta,Karan Shah,Google,Pune,Career Portal,2026-06-06,,,,,Applied,0,1187163,1103931,0
+CAND0996,Judith Lawrence,Recruiter,HR,Talent Acquisition,1.1,Rohit Jain,Karan Shah,Google,Noida,Campus,2026-02-22,2026-02-23,2026-02-27,2026-03-02,2026-03-09,Joined,2,1056211,961168,15
+CAND0997,Jonathan Moreno,QA Engineer,Technology,Testing,11.0,Sneha Rao,Aisha Khan,ServiceNow,Pune,Consultancy,2025-08-29,2025-09-01,2025-09-04,2025-09-05,2025-09-30,Joined,2,2091430,2175392,32
+CAND0998,Jessica Richards,Business Analyst,Technology,"Excel, SQL",1.6,Amit Verma,Pooja Nair,Amazon,Pune,Consultancy,2026-08-04,2026-08-07,2026-08-12,2026-08-14,,Offered,3,829170,762011,0
+CAND0999,Tammy Thompson,Sales Executive,Sales,CRM,11.4,Vikram Mehta,Vikas Sinha,Amazon,Bangalore,Naukri,2026-03-23,2026-03-24,2026-03-27,,,Rejected,1,1307829,1194964,0
+CAND1000,Robert Garcia,Recruiter,HR,Talent Acquisition,5.4,Rahul Sharma,Rohan Gupta,Microsoft,Bangalore,Naukri,2026-04-23,2026-04-25,2026-04-27,2026-04-28,,Offered,3,2244189,2162973,0
