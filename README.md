@@ -79,7 +79,7 @@ Interactive dashboard built using:
 
 ### Executive Dashboard
 
-![Executive Dashboard](Images/Recruitment_Overview_Page(1).png)
+![Executive Dashboard](Recruitment_Overview_Page(1).png)
 
 ---
 
